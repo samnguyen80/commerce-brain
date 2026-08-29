@@ -1,0 +1,18 @@
+{
+  "yt:YcqBWlFzQd4": {
+    "at": "2026-08-29T11:22:49.416Z",
+    "via": "yt-caption",
+    "ok": true
+  },
+  "yt:QYrXgxu_EW4": {
+    "at": "2026-08-29T11:22:52.196Z",
+    "via": "yt-caption",
+    "ok": false,
+    "err": "khong co caption"
+  },
+  "yt:yEuo8ebF02g": {
+    "at": "2026-08-29T11:22:58.452Z",
+    "via": "yt-caption",
+    "ok": true
+  }
+}

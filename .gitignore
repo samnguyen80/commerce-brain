@@ -1,0 +1,49 @@
+# Video
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.m4v
+*.flv
+
+# Audio
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.opus
+*.aac
+*.ogg
+*.wma
+
+# Phụ đề thô trung gian (bản text đã convert nằm trong .md rồi)
+*.vtt
+*.srt
+
+# Database / binary archives
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Ảnh nặng
+*.psd
+*.tiff
+
+# Rác macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Thư mục audio tạm sinh ra khi chạy podcast
+corpus/audio/
+corpus/tmp/
+**/audio/
