@@ -73,7 +73,7 @@ Kế hoạch chi tiết: `plans/cozy-questing-ullman.md`
 
 1. Cài `bun` và `mlx-whisper`
 2. Tạo `/Volumes/SamDisk/ecommerce-research-academy/` — nơi đặt project + corpus
-3. Viết `scripts/corpus/` (Bun): crawl blog/RSS, lấy transcript YouTube, fallback yt-dlp + mlx-whisper
+3. Viết `/Volumes/SamDisk/ecommerce-research-academy/scripts/corpus/` (Bun): crawl blog/RSS, lấy transcript YouTube, fallback yt-dlp + mlx-whisper
 4. Chạy thử `--limit 3` (1 blog, 1 video có caption, 1 video không caption) trước khi chạy full
 5. Chạy full ở background, theo dõi `state.json`
 

@@ -26,7 +26,7 @@ Lane: Gemini (agy), ngày nghiên cứu 29/08/2026. **Đã qua vòng kiểm ch�
 | **Andrew Faris** | https://www.youtube.com/@andrewfaris | ~13K | 1 video/tuần | Bản chất tài chính ecom: MER, phân tích biên, LTV cohort, tăng trưởng có lãi | Founder, CFO, growth strategist |
 | **eComFuel** (Andrew Youderian) | https://www.youtube.com/ecommercefuel | ~13K | 1 video/tuần | Logistics/3PL, chuỗi cung ứng, M&A mua bán brand, vận hành mốc $1M–$10M | Founder, COO, supply chain |
 | **Future Commerce** (Phillip Jackson, Brian Lange) | https://www.youtube.com/@futurecommerce | ~4–9K ⚠️ | 2–3 video/tháng | Tương lai retail, tâm lý hành vi tiêu dùng, phân tích brand thời trang lớn | Leadership, product strategist |
-| **Structured Agency** (Nick Shackelford) | `[chưa xác minh — handle cũ 404]` | ~16K | 1–2 video/tháng | Khung chi tiêu quảng cáo lớn ($50k–200k/ngày), chuẩn bị Black Friday, angle testing | Senior media buyer, growth director |
+| ~~**Structured Agency** (Nick Shackelford)~~ | ❌ KHÔNG TỒN TẠI | — | — | — | ❌ Gỡ 2026-08-29. Đã thử `@structuredagency`, `@structuredsocial`, `@NickShackelford` — cả ba đều HTTP 404, tìm kiếm web cũng không ra kênh YouTube nào. Structured là agency DTC có thật của Nick Shackelford, nhưng KHÔNG có kênh YouTube xác minh được |
 
 > **eComFuel** dùng URL legacy không có `@` — kênh chưa chuyển sang handle mới.
 
@@ -64,7 +64,7 @@ Lane: Gemini (agy), ngày nghiên cứu 29/08/2026. **Đã qua vòng kiểm ch�
 | **Ryan Hogue Passive Income** | https://www.youtube.com/@RyanHoguePassiveIncome | ~140–190K | 3–5 video/tuần | Nghiên cứu ngách POD thời trang, SEO listing áo thun, tự động hoá upload, scale Amazon Merch | Khoá riêng $399–999 |
 | **Heather Studio** | https://www.youtube.com/@itsheatherstudio | ~68K | 1–2 video/tuần | Bắt trend thiết kế áo nữ/gia đình, xử lý mockup, SEO mô tả sản phẩm may mặc | Top 1% Etsy seller ($500K+ doanh thu). Mentorship trả phí |
 | **Kingpinning** (Travis Petelle) | https://www.youtube.com/@Kingpinning | ~36K | 1–2 video/tuần | **Xây brand POD ngách bền vững** (không làm hàng rác), email marketing cho POD, cross-sell may mặc | Mastermind trả phí |
-| **Cassie On Demand** | `[chưa xác minh — handle cũ 404]` | ~85K | 1–2 video/tuần | Lộ trình 0 → 6 chữ số với POD, chọn niche ít cạnh tranh, UX trang sản phẩm | ⚠️ Ứng viên gần nhất là **Cassiy Johnson** (`@CassiyJohnson`) — khác chính tả, chưa đủ chắc để thay |
+| **Cassiy Johnson** | `@CassiyJohnson` | ~85K | 1–2 video/tuần | Lộ trình 0 → 6 chữ số với POD, chọn niche ít cạnh tranh, UX trang sản phẩm | ✅ Đã xác minh 2026-08-29. Tên cũ trong danh sách ("Cassie On Demand") là SAI — kênh thật tên Cassiy Johnson, đối chiếu thêm bài CNBC 2023 và Printify |
 | **Wholesale Ted** (Sarah Chrisp) ⚠️ | https://www.youtube.com/@WholesaleTed | ~1,4M | 1–2 video/tháng | Kiến thức nền: bản quyền hình ảnh, thiết lập thuế & cổng thanh toán, chuẩn UX trang sản phẩm | ⚠️ Phong cách đại chúng cho người mới; phần pháp lý & UI chuẩn nhưng đừng dùng làm nguồn chiến lược. Membership $67/tháng |
 
 ---
@@ -90,7 +90,12 @@ Vòng verify độc lập kiểm 35 handle bằng cách mở trang kênh và đ�
 
 Một lỗi vượt quá chuyện URL: dòng **Marketing Operators** trước đây ghi sai cả tên host (Taylor Holiday, Eric Dyck) trong khi thực tế là Cody Plofker, Connor MacDonald, Connor Rolain. Bài học chung: lane nghiên cứu nào không tự kiểm chứng thì sai cả nội dung chứ không riêng link.
 
-Hai kênh còn treo — **Structured Agency** và **Cassie On Demand** — giữ phần mô tả nhưng bỏ URL, chờ xác nhận thủ công rồi điền.
+**Cập nhật 2026-08-29 — đã xử lý xong 2 kênh treo:**
+
+- **Cassie On Demand → Cassiy Johnson** (`@CassiyJohnson`). Tên trong danh sách gốc viết sai chính tả. Kênh thật tồn tại, đúng chủ đề POD/Etsy, có nguồn độc lập xác nhận (CNBC 2023, Printify).
+- **Structured Agency → GỠ KHỎI DANH SÁCH.** Ba handle ứng viên đều trả HTTP 404 và tìm kiếm web không ra kênh YouTube nào. Agency có thật, kênh YouTube thì không — đây là mục do lane nghiên cứu bịa ra chứ không phải sai chính tả.
+
+**Con số cuối: 34 kênh xác minh được (25 đúng ngay + 8 sửa handle + 1 sửa tên), 1 mục gỡ vì không tồn tại.**
 
 ---
 
