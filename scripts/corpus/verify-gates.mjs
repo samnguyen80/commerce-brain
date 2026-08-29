@@ -137,6 +137,11 @@ if (cmd === "dupes") {
 
 // ---------------------------------------------------------------- REPORT.md
 if (cmd === "report") {
+  // REPORT chi co nghia khi moi lane da dung. Con lane chay thi TONG_FILE cu ngay sau khi ghi
+  // (do that: sinh ra 5899, vai giay sau dem lai da 5900) va gate se chap chon vo nghia.
+  for (const ph of ["blogs", "youtube", "podcasts"]) {
+    if (phaseRunning(ph)) fail(`phase ${ph} VAN DANG CHAY - REPORT se cu ngay khi vua ghi`);
+  }
   const p = join(CORPUS, "REPORT.md");
   if (!existsSync(p)) fail("chua co corpus/REPORT.md");
   const txt = readFileSync(p, "utf8");

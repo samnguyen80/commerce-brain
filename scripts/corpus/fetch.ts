@@ -164,6 +164,17 @@ async function doBlogs() {
         console.log(`  +${added} bai tu discover`);
       }
 
+      // Site khong ra bai nao thi PHAI de lai dau vet may doc duoc, khong chi in log roi di tiep.
+      // Truoc day retailtouchpoints bi Cloudflare 403 nhung state khong ghi gi -> nhin vao state
+      // khong phan biet duoc "bi chan that" voi "code am tham bo qua". Gate G1 bat dung cho nay.
+      if (items.length === 0) {
+        state[`blog:${b.slug}`] = {
+          at: new Date().toISOString(), via: "discover", ok: false,
+          err: "0 bai: RSS rong va discover khong tra ve gi (xem log de biet bi chan hay khong co sitemap)",
+        };
+        saveState();
+      }
+
       for (const it of items.slice(0, BLOG_LIMIT)) {
         const key = `blog:${b.slug}:${it.link}`;
         if (state[key]?.ok) continue;

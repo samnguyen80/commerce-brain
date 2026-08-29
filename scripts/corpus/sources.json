@@ -7,53 +7,225 @@
     "podcast_limit": null,
     "notes": "podcast_limit null = lay het. RETHINK Retail lay YouTube, bo ban podcast (trung noi dung)."
   },
-
   "blogs": [
-    { "slug": "repspark", "name": "RepSpark Blog", "category": "B2B", "rss": "https://www.repspark.com/blog/rss.xml" },
-    { "slug": "omnitalk", "name": "Omni Talk", "category": "Retail", "rss": "https://omnitalk.blog/feed/" },
-    { "slug": "boutiquehub", "name": "The Boutique Hub", "category": "Retail", "rss": "https://theboutiquehub.com/feed/" },
-    { "slug": "retaildive", "name": "Retail Dive", "category": "Retail", "rss": "https://www.retaildive.com/feeds/news/" },
-    { "slug": "wholesaleinabox", "name": "Wholesale In a Box", "category": "B2B", "rss": "https://www.wholesaleinabox.com/blog?format=rss" },
-
-    { "slug": "marketplacepulse", "name": "Marketplace Pulse", "category": "B2B2C", "url": "https://www.marketplacepulse.com/articles" },
-    { "slug": "dtclive", "name": "DTC Live", "category": "DTC", "url": "https://www.dtclive.com/" },
-    { "slug": "brandboom", "name": "Brandboom Resources", "category": "B2B", "url": "https://www.brandboom.com/resources" },
-    { "slug": "b2bwave-glossary", "name": "B2B Wave Wholesale Glossary", "category": "B2B", "url": "https://www.b2bwave.com/p/wholesale-terms-glossary" },
-    { "slug": "endvr", "name": "ENDVR B2B Platforms", "category": "B2B", "url": "https://endvr.io/resources/best-b2b-wholesale-platforms-for-brands" },
-    { "slug": "retailtouchpoints", "name": "Retail TouchPoints", "category": "Retail", "url": "https://www.retailtouchpoints.com/" },
-    { "slug": "retailwire", "name": "RetailWire BrainTrust", "category": "Retail", "url": "https://retailwire.com/braintrust/" },
-    { "slug": "commercenext", "name": "CommerceNext", "category": "Retail", "url": "https://community.commercenext.com/" },
-    { "slug": "thetraide", "name": "The Traide Blog", "category": "B2B2C", "url": "https://www.thetraide.com/blog" },
-    { "slug": "nfx", "name": "NFX Network Effects Manual", "category": "B2B2C", "url": "https://www.nfx.com/post/network-effects-manual" },
-    { "slug": "a16z-marketplace100", "name": "a16z Marketplace 100", "category": "B2B2C", "url": "https://a16z.com/marketplace-100/" },
-    { "slug": "versionone", "name": "Version One Ventures Resources", "category": "B2B2C", "url": "https://versionone.vc/resources/" },
-    { "slug": "abovethecrowd", "name": "Above the Crowd (Bill Gurley)", "category": "B2B2C", "url": "https://abovethecrowd.com/" }
+    {
+      "slug": "repspark",
+      "name": "RepSpark Blog",
+      "category": "B2B",
+      "rss": "https://www.repspark.com/blog/rss.xml"
+    },
+    {
+      "slug": "omnitalk",
+      "name": "Omni Talk",
+      "category": "Retail",
+      "rss": "https://omnitalk.blog/feed/"
+    },
+    {
+      "slug": "boutiquehub",
+      "name": "The Boutique Hub",
+      "category": "Retail",
+      "rss": "https://theboutiquehub.com/feed/"
+    },
+    {
+      "slug": "retaildive",
+      "name": "Retail Dive",
+      "category": "Retail",
+      "rss": "https://www.retaildive.com/feeds/news/"
+    },
+    {
+      "slug": "wholesaleinabox",
+      "name": "Wholesale In a Box",
+      "category": "B2B",
+      "rss": "https://www.wholesaleinabox.com/blog?format=rss"
+    },
+    {
+      "slug": "marketplacepulse",
+      "name": "Marketplace Pulse",
+      "category": "B2B2C",
+      "url": "https://www.marketplacepulse.com/articles"
+    },
+    {
+      "slug": "dtclive",
+      "name": "DTC Live",
+      "category": "DTC",
+      "url": "https://www.dtclive.com/"
+    },
+    {
+      "slug": "brandboom",
+      "name": "Brandboom Resources",
+      "category": "B2B",
+      "url": "https://www.brandboom.com/resources"
+    },
+    {
+      "slug": "b2bwave-glossary",
+      "name": "B2B Wave Wholesale Glossary",
+      "category": "B2B",
+      "url": "https://www.b2bwave.com/p/wholesale-terms-glossary"
+    },
+    {
+      "slug": "endvr",
+      "name": "ENDVR B2B Platforms",
+      "category": "B2B",
+      "url": "https://endvr.io/resources/best-b2b-wholesale-platforms-for-brands"
+    },
+    {
+      "slug": "retailwire",
+      "name": "RetailWire BrainTrust",
+      "category": "Retail",
+      "url": "https://retailwire.com/braintrust/"
+    },
+    {
+      "slug": "commercenext",
+      "name": "CommerceNext",
+      "category": "Retail",
+      "url": "https://community.commercenext.com/"
+    },
+    {
+      "slug": "thetraide",
+      "name": "The Traide Blog",
+      "category": "B2B2C",
+      "url": "https://www.thetraide.com/blog"
+    },
+    {
+      "slug": "nfx",
+      "name": "NFX Network Effects Manual",
+      "category": "B2B2C",
+      "url": "https://www.nfx.com/post/network-effects-manual"
+    },
+    {
+      "slug": "a16z-marketplace100",
+      "name": "a16z Marketplace 100",
+      "category": "B2B2C",
+      "url": "https://a16z.com/marketplace-100/"
+    },
+    {
+      "slug": "versionone",
+      "name": "Version One Ventures Resources",
+      "category": "B2B2C",
+      "url": "https://versionone.vc/resources/"
+    },
+    {
+      "slug": "abovethecrowd",
+      "name": "Above the Crowd (Bill Gurley)",
+      "category": "B2B2C",
+      "url": "https://abovethecrowd.com/"
+    }
   ],
-
   "youtube": [
-    { "slug": "rethinkretail", "name": "RETHINK Retail", "category": "Retail", "channel": "https://www.youtube.com/@rethinkretail", "note": "thay cho ban podcast 500 tap - trung noi dung" },
-    { "slug": "nrf", "name": "NRF Retail's Big Show", "category": "Retail", "channel": "https://www.youtube.com/@NRFvideo" }
+    {
+      "slug": "rethinkretail",
+      "name": "RETHINK Retail",
+      "category": "Retail",
+      "channel": "https://www.youtube.com/@rethinkretail",
+      "note": "thay cho ban podcast 500 tap - trung noi dung"
+    },
+    {
+      "slug": "nrf",
+      "name": "NRF Retail's Big Show",
+      "category": "Retail",
+      "channel": "https://www.youtube.com/@NRFvideo"
+    }
   ],
-
   "podcasts": [
-    { "slug": "omnitalk-pod", "name": "Omni Talk Retail", "category": "Retail", "rss": "https://feeds.captivate.fm/omnitalkretail/", "episodes": 2001 },
-    { "slug": "dtc-pod", "name": "DTC Podcast", "category": "DTC", "rss": "https://anchor.fm/s/205a6c00/podcast/rss", "episodes": 773 },
-    { "slug": "boutiquechat", "name": "Boutique Chat", "category": "Retail", "rss": "https://rss.libsyn.com/shows/114240/destinations/644765.xml", "episodes": 541 },
-    { "slug": "retailremix", "name": "Retail Remix", "category": "Retail", "rss": "https://feeds.transistor.fm/retail-remix", "episodes": 306 },
-    { "slug": "marketplacerisk", "name": "Marketplace Risk Platform Podcast", "category": "B2B2C", "rss": "https://feeds.soundcloud.com/users/soundcloud:users:838294435/sounds.rss", "episodes": 119 },
-    { "slug": "backroom", "name": "The Backroom (Retail Dive)", "category": "Retail", "rss": "https://feeds.soundcloud.com/users/soundcloud:users:331881632/sounds.rss", "episodes": 112 },
-    { "slug": "b2buncut", "name": "B2B Commerce UnCut", "category": "B2B", "rss": "https://feeds.cohostpodcasting.com/kNr1Skxa", "episodes": 51 }
+    {
+      "slug": "omnitalk-pod",
+      "name": "Omni Talk Retail",
+      "category": "Retail",
+      "rss": "https://feeds.captivate.fm/omnitalkretail/",
+      "episodes": 2001
+    },
+    {
+      "slug": "dtc-pod",
+      "name": "DTC Podcast",
+      "category": "DTC",
+      "rss": "https://anchor.fm/s/205a6c00/podcast/rss",
+      "episodes": 773
+    },
+    {
+      "slug": "boutiquechat",
+      "name": "Boutique Chat",
+      "category": "Retail",
+      "rss": "https://rss.libsyn.com/shows/114240/destinations/644765.xml",
+      "episodes": 541
+    },
+    {
+      "slug": "retailremix",
+      "name": "Retail Remix",
+      "category": "Retail",
+      "rss": "https://feeds.transistor.fm/retail-remix",
+      "episodes": 306
+    },
+    {
+      "slug": "marketplacerisk",
+      "name": "Marketplace Risk Platform Podcast",
+      "category": "B2B2C",
+      "rss": "https://feeds.soundcloud.com/users/soundcloud:users:838294435/sounds.rss",
+      "episodes": 119
+    },
+    {
+      "slug": "backroom",
+      "name": "The Backroom (Retail Dive)",
+      "category": "Retail",
+      "rss": "https://feeds.soundcloud.com/users/soundcloud:users:331881632/sounds.rss",
+      "episodes": 112
+    },
+    {
+      "slug": "b2buncut",
+      "name": "B2B Commerce UnCut",
+      "category": "B2B",
+      "rss": "https://feeds.cohostpodcasting.com/kNr1Skxa",
+      "episodes": 51
+    }
   ],
-
   "courses": [
-    { "slug": "sharetribe-academy", "name": "Sharetribe Marketplace Academy", "category": "B2B2C", "url": "https://www.sharetribe.com/academy/", "auth": "none" },
-    { "slug": "shopify-academy-b2b", "name": "Shopify Academy - B2B on Shopify", "category": "B2B", "url": "https://www.shopifyacademy.com/path/b2b-on-shopify-launch-and-customization", "auth": "browser", "note": "Sam da login. Chi lay text bai hoc, khong lay video." },
-    { "slug": "wholesaleinabox-course", "name": "Wholesale In a Box - free mini-course", "category": "B2B", "url": "https://www.wholesaleinabox.com/", "auth": "none", "note": "chi phan mini-course free" }
+    {
+      "slug": "sharetribe-academy",
+      "name": "Sharetribe Marketplace Academy",
+      "category": "B2B2C",
+      "url": "https://www.sharetribe.com/academy/",
+      "auth": "none"
+    },
+    {
+      "slug": "shopify-academy-b2b",
+      "name": "Shopify Academy - B2B on Shopify",
+      "category": "B2B",
+      "url": "https://www.shopifyacademy.com/path/b2b-on-shopify-launch-and-customization",
+      "auth": "browser",
+      "note": "Sam da login. Chi lay text bai hoc, khong lay video."
+    },
+    {
+      "slug": "wholesaleinabox-course",
+      "name": "Wholesale In a Box - free mini-course",
+      "category": "B2B",
+      "url": "https://www.wholesaleinabox.com/",
+      "auth": "none",
+      "note": "chi phan mini-course free"
+    }
   ],
-
   "blocked": [
-    { "slug": "faire-blog", "name": "Faire Blog", "url": "https://www.faire.com/blog", "reason": "Cloudflare bot-challenge (cf-mitigated: challenge)" },
-    { "slug": "faire-selling", "name": "Faire Blog - Selling", "url": "https://www.faire.com/blog/selling/", "reason": "Cloudflare bot-challenge, cung domain" },
-    { "slug": "chainstoreage", "name": "Chain Store Age", "url": "https://chainstoreage.com/", "reason": "403 Cloudflare" }
+    {
+      "slug": "faire-blog",
+      "name": "Faire Blog",
+      "url": "https://www.faire.com/blog",
+      "reason": "Cloudflare bot-challenge (cf-mitigated: challenge)"
+    },
+    {
+      "slug": "faire-selling",
+      "name": "Faire Blog - Selling",
+      "url": "https://www.faire.com/blog/selling/",
+      "reason": "Cloudflare bot-challenge, cung domain"
+    },
+    {
+      "slug": "chainstoreage",
+      "name": "Chain Store Age",
+      "url": "https://chainstoreage.com/",
+      "reason": "403 Cloudflare"
+    },
+    {
+      "slug": "retailtouchpoints",
+      "name": "Retail TouchPoints",
+      "url": "https://www.retailtouchpoints.com/",
+      "reason": "403 Cloudflare tren ca robots.txt lan trang chu, ke ca voi User-Agent trinh duyet (do lai truc tiep 2026-08-29)"
+    }
   ]
 }

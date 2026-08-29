@@ -44,8 +44,8 @@ Mọi `CHECK` đều gọi `verify-gates.mjs`, script này ĐO TRỰC TIẾP fil
 - [x] G8: xác minh 2 handle YouTube còn treo (Structured Agency, Cassie On Demand) bằng cách mở trang thật và đối chiếu tên hiển thị
   EVIDENCE: 2026-08-29. (1) `@CassiyJohnson` — fetch trả nội dung, tiêu đề trang "Cassiy Johnson - YouTube", KHÔNG phải 404; đúng chủ đề POD/Etsy; nguồn độc lập xác nhận: CNBC 2023 + blog Printify. Kết luận: tên trong danh sách gốc ("Cassie On Demand") viết sai, đã sửa thành Cassiy Johnson. (2) Structured Agency — thử 3 handle `@structuredagency`, `@structuredsocial`, `@NickShackelford`, CẢ BA trả HTTP 404; tìm kiếm web (2 truy vấn, có giới hạn domain youtube.com) không ra kênh nào. Structured là agency DTC có thật của Nick Shackelford nhưng không có kênh YouTube. Kết luận: gỡ khỏi danh sách, không phải sai chính tả mà là mục lane nghiên cứu bịa. Đã cập nhật `01-youtube.md` ở CẢ 2 bản (SamDisk + ceo-brain); con số cuối 34 kênh xác minh được, 1 mục gỡ.
 
-- [ ] G9: commit `scripts/corpus/` vào repo ceo-brain — CẦN SAM ĐỒNG Ý, vì working tree đang dùng chung với 3 session Claude khác
-  EVIDENCE: pending
+- [x] G9: đưa `scripts/corpus/` vào repo commerce-brain trên SamDisk (Sam chốt 2026-08-29: chuyển hẳn sang thư mục đang làm, KHÔNG commit vào ceo-brain)
+  EVIDENCE: 2026-08-29. Đã chuyển `/Users/sam/Desktop/sources/ceo-brain/scripts/corpus/` → `/Volumes/SamDisk/ecommerce-research-academy/scripts/corpus/` (7 file). Kiểm tra trước khi gỡ bản cũ: mọi `import` trong fetch.ts là tĩnh (dòng 17-18) và `sources.json` chỉ đọc một lần ở module top-level (dòng 41) → tiến trình đang chạy không đọc lại file script. Sau khi `rm -rf` bản cũ, xác nhận cả 2 lane (`--phase blogs`, `--phase podcasts`) vẫn sống. Build lại từ vị trí mới: `bun build fetch.ts` OK 31.62 KB. Cập nhật 11 tham chiếu đường dẫn trong Plans/cozy-questing-ullman.md (9) và 2 bản SESSION-HANDOFF.md. Quét secret trước khi push: 0 hit. Commit `6e7e6697` author `Sam <sam@avada.io>`, không có dòng Co-Authored-By; SHA trên remote khớp; `.git/config` không chứa token. KHÔNG đụng gì vào git index của ceo-brain.
 
 <!--
 Ghi chu ve tinh trung thuc cua tung gate:
