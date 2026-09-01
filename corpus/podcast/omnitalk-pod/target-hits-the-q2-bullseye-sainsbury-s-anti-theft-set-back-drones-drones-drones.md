@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/target-hits-the-q2-bullseye-sainsburys-anti-theft-set-back-drones-drones-drones-grocertalk"
+title: "Target Hits The Q2 Bullseye, Sainsbury’s Anti-Theft Set-Back & Drones, Drones, Drones | GrocerTalk"
+date: "Tue, 25 Aug 2026 16:00:00 -0400"
+fetched: "2026-08-29T12:00:53.540Z"
+via: "shownotes-thin"
+---
+
+In this episode, sponsored by Instacart Enterprise, Portager, and Vusion, Ben Miller is joined by Martin Bailie, Global Retail CEO, AI & Growth Expert and Founder of MWB Advisory to unpack the news stories from global grocery this week that we believe are worth paying attention to. Martin brings decades of hands-on grocery experience across three continents, with a career spanning Tesco, Tata India, Primark and Lidl. This week, they discuss:• Target’s Q2 results, and whether stronger sales, grocery growth and improved store traffic signal a genuine turnaround or simply a bounce from a weak comparison. (Source)• Sainsbury’s pause on AI facial recognition, following a case of mistaken identity, and whether retailers can use technology to protect colleagues and customers without creating new problems. (Source)• Amazon’s six-fold expansion of drone delivery, and why Martin believes drone delivery is moving beyond novelty and becoming part of retail infrastructure. (Source)• Uber’s partnership with Zipline, including its ambition for one million drone deliveries a day by 2029, and what the race for drone delivery says about the future of convenience and quick commerce. (Source)• Ocado’s latest European technology partnership, and what its newest customer tells us about the future of automated grocery fulfillment. (Source)Plus, GrocerTalk Grab & Go brings even more stories to the table from another busy week in global grocery.GrocerTalk is a weekly podcast from the Omni Talk Podcast Network covering the trends, innovations and technologies shaping global grocery.Episode 002. Welcome to GrocerTalk.P.S. Be sure to check out all our other podcasts from the past week here, too: https://omnitalk.blog/category/podcast/Music by hooksounds.com.This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/7-key-ways-b2b-platforms-help-independent-sales-reps"
 title: "7 Key Ways B2B Platforms Help Independent Sales Reps"
 date: "Tue, 25 Aug 2026 17:48:51 GMT"
-fetched: "2026-08-29T11:18:36.334Z"
+fetched: "2026-08-29T12:36:21.659Z"
 via: "http-rss"
 ---
 

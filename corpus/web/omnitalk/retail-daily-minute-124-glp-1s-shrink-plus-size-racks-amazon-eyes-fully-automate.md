@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://omnitalk.blog/2026/08/26/%f0%9f%95%94-retail-daily-minute-glp-1s-shrink-plus-size-racks-amazon-eyes-fully-automated-delivery-stations-instacart-adds-petsense/"
 title: "🕔 Retail Daily Minute &#124; GLP-1s Shrink Plus-Size Racks, Amazon Eyes Fully Automated Delivery Stations &#038; Instacart Adds Petsense"
 date: "Wed, 26 Aug 2026 12:30:00 +0000"
-fetched: "2026-08-29T11:21:25.362Z"
+fetched: "2026-08-29T12:40:43.114Z"
 via: "http-rss"
 ---
 
@@ -724,16 +724,16 @@ via: "http-rss"
 #### Trending This Week
 
  
-- Target Hits The Q2 Bullseye, Sainsbury’s Anti-Theft Set-Back & Drones, Drones, Drones | GrocerTalk 
-- 🕔 Retail Daily Minute | Albertsons Overhauls Operations, Walgreens Opens Robotic Pharmacy Hub & Gap Inc. Turns Employees Into Creators 
-- AWS Executive Vince Koh Reveals Top AI Investments For Retail Success | 5IM Video 
-- 🕔 Retail Daily Minute | GLP-1s Shrink Plus-Size Racks, Amazon Eyes Fully Automated Delivery Stations & Instacart Adds Petsense 
-- A Target Turnaround(?), CPK Kiosks & JCP Picks A Fight With Off-Price | Fast Five 
-- The AI Employee You Should Hire on Day One | 5IM 
-- 🕔 Retail Daily Minute | Target Raises Its Forecast, Amazon's Drones Go to 500 Cities & Online Grocery Keeps Eating Into Stores 
 - A Target Turnaround(?), CPK Kiosks & JCP Picks A Fight With Off-Price | Fast Five Video 
-- The Rohlik Group's Formula for Profitable Online Grocery | 5IM Video 
+- A Target Turnaround(?), CPK Kiosks & JCP Picks A Fight With Off-Price | Fast Five 
+- Target Hits The Q2 Bullseye, Sainsbury’s Anti-Theft Set-Back & Drones, Drones, Drones | GrocerTalk 
+- Mengniu Group Is Reinventing Dairy for a Health-Conscious Future | CGF 2026 
 - How AI & Cloud Technology Are Shaping The Future Of Fashion Retail With Doug Tiffan Of AWS | 5IM Video 
+- How Cloud & AI Are Shaping Grocery, Drug, and Convenience Retail With Scott Langdoc AWS | 5IM Video 
+- Kroger Creates A New E-Commerce Power Seat, Best Buy Goes Small & TikTok Takes On Amazon | Fast Five 
+- AWS Executive Vince Koh Reveals Top AI Investments For Retail Success | 5IM Video 
+- Transcript of Fast Five Episode : A Target Turnaround(?), CPK Kiosks & JCP Picks A Fight With Off-Price | Fast Five Video 
+- 🕔 Retail Daily Minute | GLP-1s Shrink Plus-Size Racks, Amazon Eyes Fully Automated Delivery Stations & Instacart Adds Petsense 
 
  
 

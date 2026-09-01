@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=Wkr1BNR2d0U"
+title: "Celebrating 100 Podcast Episodes with RETHINK Retail!"
+video_id: "Wkr1BNR2d0U"
+fetched: "2026-08-29T13:02:06.597Z"
+via: "yt-caption"
+---
+
+congratulations to my friends at rethink retail podcast on their 100th episode hey b think team i can't believe it's already been 100 episodes congratulations 100 podcasts so that's fantastic congratulations to the team at rethink retail what an amazing achievement just wanted to say congratulations congratulations on the hundredth episode artist congratulations on their 100th episode i really wanted to congratulate rethink retail congratulations rating retail i'm so excited to see the podcast reach the 100 episode milestone i love these podcasts it's a great place to get fresh perspectives from industry leaders on what's going on in their world thanks for all your efforts to find guests prepare questions then reschedule guests record edit post and share some conversations that need to be had about the trends and the innovations that are going on in retail really well done on all your effort bringing industry leaders in retail together to understand what is the future of retail gonna look like i always like being a guest on your show because i can mix it up we can have fun and more importantly really uh chew down on the meaty issues of retail it was such a pleasure being one of the first guests on your show i thoroughly enjoyed exchanging ideas and sharing information about the retail industry the experience of being a guest on your podcast is simply outstanding and more importantly top provoking in moving the retail industry forward well done and keep up the great work congratulations keep up the good work it was a pleasure and happy to do it again anytime and i wish you a hundred more at least so here's to another hundred if not more podcasts good luck on your next hundred episodes here's to a hundred more all the very best for your future and many many more podcasts i'm looking forward to episode number 200 here's to your next 100 episodes let's go get them so congratulations and looking forward to the next time i'm on uh until then you uh owe me a call

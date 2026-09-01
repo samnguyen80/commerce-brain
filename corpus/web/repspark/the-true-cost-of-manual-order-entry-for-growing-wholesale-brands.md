@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/the-true-cost-of-manual-order-entry-for-growing-wholesale-brands"
 title: "The True Cost of Manual Order Entry for Growing Wholesale Brands"
 date: "Mon, 17 Aug 2026 19:18:48 GMT"
-fetched: "2026-08-29T11:20:22.484Z"
+fetched: "2026-08-29T12:37:48.173Z"
 via: "http-rss"
 ---
 

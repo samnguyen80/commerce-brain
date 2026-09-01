@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/how-instacart-is-using-physical-ai-to-rebuild-the-in-store-experience-nrf-2026"
+title: "How Instacart Is Using Physical AI to Rebuild the In-Store Experience | NRF 2026"
+date: "Tue, 13 Jan 2026 10:00:00 -0400"
+fetched: "2026-08-29T12:00:53.608Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live from NRF 2026 at the Vusion booth, David McIntosh, Chief Connected Stores Officer at Instacart, joins Anne Mezzenga and Chris Walton to break down how physical AI, smart carts, and connected store platforms are reshaping retail operations and customer relationships in 2026.As retailer boards demand real AI strategies, Instacart is positioning connected stores as a long-term competitive advantage. David explains how solutions like Caper smart carts, Store View, digital shelves, and agentic analytics work together to deliver personalization, basket lift, and operational efficiency at scale. From edge-based AI running inside stores to unifying online and in-store journeys, this conversation explores why retailers must own physical data to avoid disintermediation by hyperscalers.Key Topics covered:What a Chief Connected Stores Officer actually oversees at InstacartWhy AI strategy is now a board-level mandate for retailersThe difference between cloud AI and physical AI in storesHow Caper smart carts use edge computing and real-time dataDouble-digit basket lift and measurable retailer value from connected storesWhy checkout automation is really about reducing work, not skipping linesHow personalization, coupons, and gamification drive customer engagementUsing sensor fusion and shelf data to improve in-stocks and executionAvoiding technology sprawl with integrated connected store platformsGlobal expansion plans for Instacart’s enterprise retail technologyThe future of unified online and in-store shopping experiencesStay tuned to Omni Talk Retail for continued coverage from NRF 2026, and stop by the Vusion booth #4921 to say hello.#NRF2026 #Instacart #ConnectedStores #PhysicalAI #RetailAI #SmartCarts #OmnichannelRetail #RetailTechnology #RetailInnovation #OmniTalkThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/narvar-spotlight"
+title: "Why Post-Purchase Communication Could Become Retail’s Next Big Differentiator | Spotlight Series"
+date: "Fri, 20 Jun 2025 06:00:00 -0400"
+fetched: "2026-08-29T12:00:53.672Z"
+via: "shownotes-thin"
+---
+
+In this Spotlight Series interview, Catherine Dummitt, VP of Marketing at Narvar, explains how the post-purchase journey is evolving from a cost center to a powerful “trust center.” With insights from over 42 billion consumer interactions annually, Narvar is helping retailers rethink shipping, returns, and communication to boost loyalty, reduce costs, and drive revenue. From AI-driven delivery confidence to smarter shipping perks, this is a must-watch for anyone shaping the future of e-commerce.Key Moments:0:08 – 1:15 | Meet Catherine Dummitt, VP of Marketing at Narvar1:16 – 2:44 | What Narvar is and how it powers post-purchase personalization2:45 – 4:45 | Why delivery confidence is replacing speed as the top consumer priority4:46 – 6:27 | The shift from instant gratification to brand trust and delivery reliability6:28 – 9:10 | The new role of communication and clarity in reducing delivery anxiety9:11 – 12:21 | Strategic free shipping and perks — not one-size-fits-all12:22 – 14:59 | Using Narvar’s data to help brands personalize offers and reduce cart abandonment15:00 – 16:46 | How communication impacts repurchase behavior and lifts revenue16:47 – 18:35 | Turning tracking pages into branding and engagement opportunities18:36 – 21:00 | Why post-purchase should be treated as a “trust center,” not a cost center21:01 – 23:00 | Shipping protection, porch theft anxiety, and new revenue streams23:01 – 24:27 | What’s next: Narvar’s AI engine Iris and the evolution of predictive personalization24:28 – 25:14 | How to connect with Catherine and the Narvar team#Narvar #retailinnovation #PostPurchaseExperience #ecommercestrategy #retailai #customerloyalty #ordertracking #shippingsolutions #retailtransformation #PredictabilityIsProfitabilityMusic by hooksounds.comSponsored ContentThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

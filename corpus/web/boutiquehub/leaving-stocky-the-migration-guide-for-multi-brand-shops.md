@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/leaving-stocky-the-migration-guide-for-multi-brand-shops/"
 title: "Leaving Stocky? The Migration Guide for Multi-Brand Shops"
 date: "Thu, 27 Aug 2026 11:00:00 +0000"
-fetched: "2026-08-29T11:21:45.423Z"
+fetched: "2026-08-29T12:47:44.334Z"
 via: "http-rss"
 ---
 

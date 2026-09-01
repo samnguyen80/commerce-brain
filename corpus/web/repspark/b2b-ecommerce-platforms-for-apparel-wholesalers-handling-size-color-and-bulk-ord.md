@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/b2b-ecommerce-platforms-for-apparel-wholesalers-handling-size-color-and-bulk-ordering"
 title: "B2B Ecommerce Platforms for Apparel Wholesalers Handling Size, Color and Bulk Ordering"
 date: "Mon, 24 Aug 2026 16:38:48 GMT"
-fetched: "2026-08-29T11:18:50.969Z"
+fetched: "2026-08-29T12:36:34.057Z"
 via: "http-rss"
 ---
 

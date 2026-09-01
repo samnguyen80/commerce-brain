@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=_CHK7u1WI9g"
+title: "Retail Cloud Alliance Highlights at Groceryshop 2024!"
+video_id: "_CHK7u1WI9g"
+fetched: "2026-08-29T12:21:42.114Z"
+via: "yt-caption"
+---
+
+[Music] [Applause] [Music] this is one of the Marque events where we learn to know about what's happening with the industry the grocery industry specifically is going through such a massive disruption our Grocers are becoming health and wellness companies media companies financial services companies and so in in the midst of this massive disruption we would love to see what service providers are bringing to the for in terms of technology that can help the grossers focus on what's more important which is the customer it always was it always will [Music] be yeah so retail Cloud Alliance is really great we have a number of other organizations companies with us in that where we're creating a lot of content to educate retailers on why it's important to migrate their technology to the cloud and what all the various benefits are especially now that we're in this era of AI where everything is becoming AI driven for retailers and searching for those AI advantages and the key Foundation to that as we keep talking about in all of our retail Cloud Alliance Productions is that you've got to start in the cloud because you need the Boost that of processing power the cloud gives you to really be able to handle all these AI workloads [Music] I think the mission of the retail Cloud Alliance is great because it's really how do you maximize and Leverage The Power of data uh data is a foundation for everything uh everything you seen in this entire Expo is all about data and intelligence to optimize Supply chains to improve your merchandising your allocation also just improve the all the experience and the retail client allowing emission is uh is critical because how you maximize your investment technology to drive business value and kraw is a member of the advisor Council and uh it's really great Community where we can uh share our expertise and insights but also uh drive the conversation forward as I think technology and business are really intertwined uh as we move forward [Music]

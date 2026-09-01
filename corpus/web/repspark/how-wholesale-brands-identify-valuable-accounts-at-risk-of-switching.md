@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/how-wholesale-brands-identify-valuable-accounts-at-risk-of-switching"
 title: "How Wholesale Brands Identify Valuable Accounts at Risk of Switching"
 date: "Mon, 24 Aug 2026 15:56:11 GMT"
-fetched: "2026-08-29T11:18:59.207Z"
+fetched: "2026-08-29T12:36:40.209Z"
 via: "http-rss"
 ---
 

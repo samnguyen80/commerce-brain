@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/laptop-vs.-paper-why-sales-reps-are-ditching-written-orders-at-shows"
 title: "Laptop vs. Paper: Why Sales Reps Are Ditching Written Orders at Shows"
 date: "Wed, 12 Aug 2026 14:50:17 GMT"
-fetched: "2026-08-29T11:20:39.284Z"
+fetched: "2026-08-29T12:38:00.415Z"
 via: "http-rss"
 ---
 

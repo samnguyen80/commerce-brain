@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/why-vertical-focus-beats-a-one-size-fits-all-wholesale-platform"
 title: "Why Vertical Focus Beats a One-Size-Fits-All Wholesale Platform"
 date: "Fri, 28 Aug 2026 14:51:18 GMT"
-fetched: "2026-08-29T11:17:29.062Z"
+fetched: "2026-08-29T12:35:59.955Z"
 via: "http-rss"
 ---
 

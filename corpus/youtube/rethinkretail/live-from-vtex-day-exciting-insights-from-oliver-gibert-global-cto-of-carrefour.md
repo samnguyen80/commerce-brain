@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=eBAnS3r5UFQ"
+title: "Live from VTEX Day: Exciting Insights from Oliver Gibert, Global CTO of Carrefour"
+video_id: "eBAnS3r5UFQ"
+fetched: "2026-08-29T12:40:00.320Z"
+via: "yt-caption"
+---
+
+[Music] thank you so we we are talking about this new wave of these composable Commerce that is coming so from the first wave of legacy on premises to the second wave of software as a service then the best of breed we've had less and finally the the composable that it's leveraging the Headless architecture but in a in a in a conscious way in a pragmatic way and that's what we are going to talk about so this is not an easy switch for uh for the cios and ctOS that were like used to manage I.T resources and but this is adding a lot of value to the business and that's great so how are going to take the cios and ctOS out of their comfort zones from the past 10 20 years to make them adopt this new technology and what was your goal behind adopting a composable Commerce architecture because adopted a composable Commerce architecture and teach the heavily customized monoliths that you had before I would say we we didn't do it for Tech reason uh because uh I don't think composable architecture is a is a target it's probably more a way to achieve a Target which is for us better serving our customers so that's why we we switch to that because we we were saying that having monoliths it was very complex to be well serving our customers so we I think three three main reason we wanted to provide a first class shopping experience to our customer which wasn't the case before when we wanted Evolution it took too many times Etc we wanted also to ensure that our platform were highly available and scalable enough okay to be to be sure that we we can provide the customer a shopping experience for everyone and finally we wanted to work speak to Market we it wasn't affordable for us to wait I don't know six months for before delivering a new feature which was expected by many of our customers so it's to summarize business expectation and the will to better serve our customer has been the key driver to move to composable [Music]

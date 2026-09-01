@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/how-to-calculate-moq-for-a-new-wholesale-product-line"
 title: "How to Calculate MOQ for a New Wholesale Product Line"
 date: "Fri, 07 Aug 2026 20:08:41 GMT"
-fetched: "2026-08-29T11:21:11.182Z"
+fetched: "2026-08-29T12:38:25.053Z"
 via: "http-rss"
 ---
 

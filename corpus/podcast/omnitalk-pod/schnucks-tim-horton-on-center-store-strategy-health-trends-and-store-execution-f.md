@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/schnucks-tim-horton-on-center-store-strategy-health-trends-and-store-execution-fmi-2026"
+title: "Schnucks’ Tim Horton on Center Store Strategy, Health Trends, and Store Execution | FMI 2026"
+date: "Fri, 23 Jan 2026 07:00:00 -0400"
+fetched: "2026-08-29T12:00:53.605Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from FMI 2026 at the Simbe booth, Chris Walton and Anne Mezzenga sit down with Tim Horton, Vice President of Center Store at Schnucks, to discuss how center store strategy is evolving as consumer health trends, technology, and store execution continue to collide.Tim shares his personal journey growing up in the grocery business and why center store remains a critical frontier for physical retail. The conversation explores how trends like GLP 1 adoption, higher protein demand, and changing definitions of health and wellness are reshaping assortment decisions, space allocation, and the in store experience.The discussion also dives into Schnucks approach to store technology, including electronic shelf labels and robotic scanning, and how these tools are being used to improve execution, compliance, and customer facing service without removing labor from stores. Tim outlines how data, digital engagement, and shelf level personalization will play a growing role as Schnucks looks ahead to 2026.Key Topics CoveredHow center store is changing amid GLP 1 and health focused consumer trendsBalancing space changes with customer trust and shopping habitsSchnucks approach to technology, including electronic shelf labels and roboticsUsing data and automation to improve merchandising executionElevating health and wellness categories in center storeThe role of digital and personalization in supporting in store discoveryPriorities for Schnucks center store strategy heading into 2026Stay tuned to Omni Talk Retail for continued coverage from FMI 2026, and be sure to visit the Simbe booth, #118, in the FMI Tech section.#FMI2026 #Schnucks #CenterStore #GroceryRetail #RetailTechnology #HealthAndWellness #StoreExecution #RetailLeadership #OmniTalkThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

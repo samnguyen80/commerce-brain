@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/korger-buys-giant-eagle-lowes-extends-the-aisler-nj-passes-a-wacky-grocery-bill-fast-five"
+title: "Kroger Buys Giant Eagle, Lowe's Extends The Aisle & NJ Passes A Wacky Grocery Bill | Fast Five"
+date: "Wed, 08 Jul 2026 10:00:00 -0400"
+fetched: "2026-08-29T12:00:53.549Z"
+via: "shownotes-thin"
+---
+
+In this week's OmniTalk Retail Fast Five, sponsored by the A&M Consumer and Retail Group, Mirakl, Ocampo Capital, Quorso and Veloq, Chris Walton was joined by recurring Fast Five favorite Ben Miller, independent retail analyst and former VP of Content at Shoptalk, to discuss:• Kroger's $1.65 billion acquisition of Giant Eagle, and whether the deal says more about Kroger's growth strategy or the mounting pressures facing the grocery industry (Source)• Amazon Web Services investing $1 billion to embed AI engineers directly inside customer organizations, and why the AI race is shifting from choosing models to driving adoption and execution (Source)• Lowe's bringing its third-party Marketplace directly into stores through My Red Vest, and why empowering associates to sell marketplace products could become a blueprint for high-service retail (Source)• New Jersey's proposed ban on surveillance pricing and pause on new electronic shelf label installations, and whether lawmakers are protecting consumers or unintentionally slowing grocery innovation (Source)• Amazon giving shoppers and AI assistants access to up to a full year of product price history, and how greater price transparency could reshape the future of agentic commerce (Source)Plus, in this week's Lightning Round, Chris and Ben debate Britain's love of rotisserie chicken, Wimbledon traditions, Jordan Henderson's unfortunate Wonderwall injury, outrageous World Cup ticket resale prices, decorative lawn geese, inflatable holiday decorations, and much more.P.S. Be sure to check out all our other podcasts from the past week here, too: https://omnitalk.blog/category/podcast/P.P.S. Also be sure to check out our podcast rankings on Feedspot.Music by hooksounds.comThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

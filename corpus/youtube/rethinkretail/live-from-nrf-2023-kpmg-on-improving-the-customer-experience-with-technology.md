@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=QsrsGzkdDIw"
+title: "Live from NRF 2023: KPMG on Improving the Customer Experience with Technology"
+video_id: "QsrsGzkdDIw"
+fetched: "2026-08-29T12:45:23.471Z"
+via: "yt-caption"
+---
+
+[Music] the reason why we're at NRF this year is we're just glad to be a part of the retail Community get back out in front of people listen about what's going on with retailers and hear from our clients what problems they're dealing with and how we can best solve well it's actually my first time at NRF so just the energy that's here relationships and Partnerships and the people that I've met so far it's just really really inspiring that people are getting backed out and getting back in front of their customers and their vendors some of the discussion points is really seeing customers trying to put technology and solutions back into the stores people are coming back into stores store associates need a lot more help in terming having a really personal customer experience for the clients that you're trying to serve so it's really about how do we get personalized experience that technology and that data into the hands of store associates so they can serve their customers one of the big trends that I've heard is really around loss prevention and a lot of the retailers right now that are in the Omni Channel they're selling in the store and online are starting to see some differences in in Lawson in store and then also what they're calling return fraud so there was a lot of discussion about that earlier in the some of the sessions that were really interested in helping our customers overcome so another Trend that we're seeing is is really kind of the postcode rebound of the supply chain challenges so before we see customers they really had to get a lot of product in the store now we're seeing customers have to deal with that product and best decide how to best serve their customers while you know dealing with changing patterns of buyers so what we're seeing is customers needing to go a lot more agile in real time with the supply chain challenges both in the Fulfillment center and restocking the stores and those are things that we're working with Microsoft in order to bring solutions to our customers to deal with those in real time [Music] foreign

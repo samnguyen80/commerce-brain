@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/gamification-in-grocery-boosting-engagement-with-caper-carts"
+title: "Gamification in Grocery: Boosting Engagement With Caper Carts"
+date: "Wed, 09 Oct 2024 06:00:00 -0400"
+fetched: "2026-08-29T12:00:53.774Z"
+via: "shownotes-thin"
+---
+
+David McIntosh, the Chief Connected Stores Officer at Instacart, joins Chris Walton and Anne Mezzenga to discuss the innovative solutions Instacart is implementing to create a connected store experience. McIntosh explains how the connected store initiative aims to bridge the gap between online and in-store shopping by leveraging technology, such as AI-powered smart carts and digital solutions that enhance customer engagement and streamline operations for retailers. The conversation delves into the importance of screens and sensors in delivering delightful shopping experiences, highlighting how these tools can drive customer loyalty and improve revenue streams for grocery stores. They explore the gamification features of the Caper cart, which encourage customer interaction and make shopping more enjoyable. Overall, the episode emphasizes the transformative potential of technology in the grocery industry and the necessity of aligning solutions with both consumer needs and retailer capabilities.Takeaways: David McIntosh, the Chief Connected Stores Officer at Instacart, discusses his role and the concept of connected stores. Instacart's connected store solutions aim to enhance the in-store shopping experience by integrating digital technologies. Gamification features in the Caper cart are designed to engage families and encourage more interactive shopping. The importance of having a digitally enabled screen and sensors in the connected storefront for real-time consumer engagement is emphasized. Retailers have seen significant basket lifts and increased consumer engagement through Instacart's innovative technology solutions. Successful adoption of the Caper carts relies on ensuring they are consistently available and charged in stores. This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

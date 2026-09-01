@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/wholesale-ar-automation-for-apparel-brands"
 title: "Wholesale AR Automation for Apparel Brands"
 date: "Tue, 18 Aug 2026 20:05:38 GMT"
-fetched: "2026-08-29T11:19:28.327Z"
+fetched: "2026-08-29T12:37:04.765Z"
 via: "http-rss"
 ---
 

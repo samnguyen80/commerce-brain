@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/veloq-coasce"
+title: "Confessions Of Supply Chain Executives | What Has To Be True For E-Groceries To Be Profitable?"
+date: "Mon, 02 Mar 2026 08:25:00 -0400"
+fetched: "2026-08-29T12:00:53.594Z"
+via: "shownotes-thin"
+---
+
+In this episode of Confessions of Supply Chain Executives, host Chris Walton sits down with Richard McKenzie, CEO at Veloq, to tackle one of retail’s most persistent questions: When does online grocery finally become profitable?For years, grocers have chased digital growth, but profitability has remained elusive. High picking costs, last mile complexity, thin margins, and legacy infrastructure continue to weigh down performance. Richard breaks down where the real friction points are, why many retailers are still structuring e-commerce as a cost center instead of an operating model, and what has to change for online grocery to truly scale sustainably.This episode explores the operational realities behind digital grocery, from fulfillment models and automation strategies to the role of data orchestration across the enterprise. Richard explains why profitability is less about volume and more about precision, and how retailers that rethink their tech stack, store operations, and network design may finally turn the corner.Key Topics covered:• Why online grocery margins remain under pressure• The true cost of store pick vs. micro fulfillment• Where last mile economics break down• How legacy systems quietly erode profitability• The operational tradeoffs between speed, convenience, and cost• Why data orchestration is becoming a competitive advantage• What scalable automation actually looks like in grocery• The tipping point that could finally make online grocery profitable🎧 Don’t forget to like, comment, and subscribe for more brutally honest conversations about retail, supply chain, and the technology reshaping how work actually gets done.Music by hooksounds.com#ConfessionsOfASupplyChainExecutive #SupplyChain #OnlineGrocery #RetailSupplyChain #EcommerceProfitability #WarehouseAutomation #GroceryRetail #RetailTechnology #LastMile #Veloq #SupplyChainPodcastThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=xaY978Fz4cI"
+title: "One Door- Client Testimonial: Ken Kuperstein"
+video_id: "xaY978Fz4cI"
+fetched: "2026-08-29T12:57:10.242Z"
+via: "yt-caption"
+---
+
+[Music] i'm ken crippsy i'm the vp of marketing at one door we provide retailers with a sas platform to help them design and deliver a superior physical in-store experience and that platform serves enterprise retailers which often results in a long sales cycle our challenge as marketers means we need to engage and maintain dialogue with a large buying committee over an extended period of time to do that successfully requires us to create a range of targeted marketing campaigns as well as content such as video reports and blogs that provide real value and thought leadership to our retail community and providing the volume and quality of content like that is extremely challenging i was introduced to rethink through ander smith a rethink top influencer and who hosted an award-winning web series for one door called off the shelf and what attracted one door to rethink were two things one the expert insights and refreshing perspectives that they bring to the retail industry and i knew we had a solid partner when they hosted our first podcast together in support of our retire the paper planogram podcast and julia showed up wearing 1970s attire and led a very high energy entertaining discussion on what life must have been like working in retail in the 1970s that podcast has generated over 31 000 views since then we've collaborated on other podcasts another written content pieces that have been well received by our retail community working with rethink has helped us achieve our goals of one creating that engaging content and helping position one door as a thought leader overall they're just a great team of folks to work with and i think what really keeps us working with them is this contagious enthusiasm that you all have for today's retail which is really hard to find um when so much media tends to kind of look at the negatives we think is always looking at the positive the amount of people that they bring to their podcast or just thought leaders we're learning from you all so thank you rethink and a lot more to do in 2022

@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/825-the-boutique-owners-guide-to-using-ai-in-your-business/"
 title: "#825: The Boutique Owner&#8217;s Guide to Using AI in Your Business"
 date: "Tue, 18 Aug 2026 11:08:51 +0000"
-fetched: "2026-08-29T11:22:06.175Z"
+fetched: "2026-08-29T12:48:08.119Z"
 via: "http-rss"
 ---
 

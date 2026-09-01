@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/chris-alex"
+title: "Collaboration Is Reshaping Sustainability with Ahold Delhaize & Mondelēz | CGF 2026"
+date: "Thu, 25 Jun 2026 13:15:00 -0400"
+fetched: "2026-08-29T12:00:53.554Z"
+via: "shownotes"
+---
+
+In this Omni Talk Retail interview, recorded live from The Consumer Goods Forum Global Summit 2026 in Vienna, Chris Walton is joined by Alex Holt, Chief Sustainability Officer at Ahold Delhaize, and Christine McGrath, SVP & Chief Impact and Sustainability Officer at Mondelēz International, to discuss how collaboration is reshaping sustainability across the consumer goods industry.Alex and Christine share how the CGF CSO Forum has quickly become a valuable platform for sustainability leaders to exchange ideas, tackle common challenges, and accelerate progress across both retail and consumer packaged goods. They discuss how sustainability has evolved from a voluntary initiative into a core business priority, why resilience and value creation are becoming central to sustainability strategies, and how AI is opening new opportunities to improve decision making, climate forecasting, and supply chain planning.Key Topics Covered:• The origins and purpose of the CGF Chief Sustainability Officer Forum • How retailers and CPGs are collaborating to accelerate sustainability efforts • Why sustainability has become a core business and strategic priority • The growing role of regulation and reporting requirements • How sustainability initiatives create business value and resilience • Measuring sustainability's impact on revenue growth and risk reduction • The importance of integrating sustainability into business strategy • How AI is helping organizations analyze data and improve decision making • Predictive climate modeling and forecasting future supply chain risks • The role of sustainability in building more resilient supply chains • How sustainability leaders are adapting their organizations and teams • Why collaboration remains essential to driving industry-wide progressSpecial thanks to the CGF Leadership Studio sponsored by Vusion for supporting Omni Talk Retail's coverage in Vienna.This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

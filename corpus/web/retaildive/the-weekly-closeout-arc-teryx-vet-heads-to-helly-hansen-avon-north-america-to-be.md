@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://www.retaildive.com/news/arcteryx-vet-lead-helly-hansen-avon-north-america-acquired/829028/"
 title: "The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America to be acquired"
 date: "Fri, 28 Aug 2026 10:59:00 -0400"
-fetched: "2026-08-29T11:22:31.027Z"
+fetched: "2026-08-29T12:55:37.332Z"
 via: "http-rss"
 ---
 
@@ -1056,7 +1056,7 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- Michael M. Santiago / Staff via Getty Images
+ Kaarin Moore/Retail Dive
 
  
  
@@ -1071,12 +1071,12 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
 
 ### 
  
- Walmart’s decade of change with Doug McMillon
+ Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way
  
  
 
  
- The longtime CEO has passed the baton to John Furner, but McMillon&rsquo;s technology and e-commerce legacy is lasting.
+ The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
  
  
@@ -1084,12 +1084,19 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- By Dani James •
+ By Daphne Howland •
  
  
  
 
- Feb. 9, 2026 
+ 
+ 
+ 
+ 
+ Updated July 2, 2026
+ 
+ 
+ 
 
  
 
@@ -1114,7 +1121,7 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- Daphne Howland/Retail Dive
+ Joe Raedle via Getty Images
 
  
  
@@ -1140,12 +1147,12 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ In the home sector, ‘the weak will get weaker’ this year
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ Retailers in the category face a poor housing market, elevated interest rates, low consumer confidence and ever-changing tariff policies.
 
  
  
@@ -1153,12 +1160,12 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- By Daphne Howland •
+ By Caroline Jansen •
  
  
  
 
- April 15, 2026 
+ March 10, 2026 
 
  
 
@@ -1394,36 +1401,6 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- Purple Drop Wins a 2026 Shelfie Award as America Falls for Peru’s Chicha Morada
- 
-
- 
- 
- 
- From Purple Drop
-
- August 26, 2026
-
- 
-
- 
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
-
- 
- 
- 
- 
- 
  Bridge Launches $500M Direct Lending Fund to Finance Suppliers of America&#x27;s Largest Retailers
  
 
@@ -1433,6 +1410,36 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  From Bridge
 
  August 26, 2026
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Seel Launches 1-click Resale, an Industry First, for Shoppers to Get Value out of Purchases th…
+ 
+
+ 
+ 
+ 
+ From Seel
+
+ August 19, 2026
 
  
 
@@ -1557,7 +1564,7 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- Michael M. Santiago / Staff via Getty Images
+ Kaarin Moore/Retail Dive
 
  
  
@@ -1572,12 +1579,12 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
 
 ### 
  
- Walmart’s decade of change with Doug McMillon
+ Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way
  
  
 
  
- The longtime CEO has passed the baton to John Furner, but McMillon&rsquo;s technology and e-commerce legacy is lasting.
+ The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
  
  
@@ -1585,12 +1592,19 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- By Dani James •
+ By Daphne Howland •
  
  
  
 
- Feb. 9, 2026 
+ 
+ 
+ 
+ 
+ Updated July 2, 2026
+ 
+ 
+ 
 
  
 
@@ -1615,7 +1629,7 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- Scott Olson via Getty Images
+ Joe Raedle via Getty Images
 
  
  
@@ -1641,12 +1655,12 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
 
 ### 
  
- 6 retail trends to watch in 2026
+ In the home sector, ‘the weak will get weaker’ this year
  
  
 
  
- From pricing dynamics to the shifting state of malls, here are the trends we&rsquo;ve got our eye on in 2026.
+ Retailers in the category face a poor housing market, elevated interest rates, low consumer confidence and ever-changing tariff policies.
 
  
  
@@ -1654,12 +1668,12 @@ The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America t
  
  
  
- By Retail Dive Staff •
+ By Caroline Jansen •
  
  
  
 
- Jan. 8, 2026 
+ March 10, 2026 
 
  
 

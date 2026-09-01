@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/how-ulta-beauty-is-scaling-experiential-retail-with-80-000-events-nrf-2026"
+title: "Ulta Beauty’s 80,000+ Store Events Strategy and Why Experiences Are Driving Omnichannel Loyalty | NRF 2026"
+date: "Tue, 13 Jan 2026 13:00:00 -0400"
+fetched: "2026-08-29T12:00:53.607Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live from NRF 2026 at the Vusion booth, Aimee Bayer Thomas, Chief Retail Officer at Ulta Beauty, joins Anne Mezzenga and Chris Walton to explain why physical stores remain the foundation of Ulta’s omnichannel strategy and how experiences are becoming a powerful growth driver in beauty retail.Overseeing more than 1,500 stores and 60,000 associates, Aimee shares how Ulta Beauty is scaling experiential retail through services, technology, and one of the industry’s most ambitious event strategies. From salons and beauty services to birthday parties, brand-led activations, and Ulta Beauty World, she explains how Ulta executed more than 80,000 in-store events and why guests increasingly come in pairs and groups to discover, play, and connect.Key Topics covered:What the Chief Retail Officer role covers at Ulta Beauty Why Ulta believes stores are still central to omnichannel retail How beauty services like salons, brows, and piercings create differentiation The strategy behind executing 80,000 plus in-store events Scaling experiential retail without creating noise or inconsistency How Ulta partners with brands to deliver high-touch experiences The role of technology and the Ulta app in discovery and store engagement Why guests shop beauty experiences in pairs and groups Birthday parties, celebrity events, and Ulta Beauty World as loyalty drivers Balancing centralized event governance with local store executionStay tuned to Omni Talk Retail for continued coverage from NRF 2026, and stop by the Vusion booth #4921 to say hello.#NRF2026 #UltaBeauty #ExperientialRetail #OmnichannelRetail #RetailLeadership #StoreExperience #RetailInnovation #BeautyRetail #CustomerExperience #OmniTalkThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

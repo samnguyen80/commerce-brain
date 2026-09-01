@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=QiCxq740aPM"
+title: "NRF 2025 Insights: How iAdvize is Redefining E-Commerce with AI"
+video_id: "QiCxq740aPM"
+fetched: "2026-08-29T12:18:52.759Z"
+via: "yt-caption"
+---
+
+[Music] I'm Mike Del Cruz I'm president of I advise and what we are is we're a provider of AI shopping assistance designed for e-commerce the trends in retail is a increased adoption and acceleration of adoption of generative Ai and really e-commerce is leading the way e-commerce has its data and its users experience already 100% digital so uh it's really poised for a leading and generative AI adoption and what we see here is a convergence of two things happening in e-commerce which is the convergence of product Discovery Solutions and Customer Service Solutions into AI shopping assistance using generative AI yeah the main challenge we see is just like any change project and transformation project which is that you got to get top down assistance you got to get sponsorship build a business case and then learn to iterate and learn effectively and quickly as an organization so I advise what we see is a convergence of product Discovery Solutions and Customer Service Solutions into AI shopping assistance and these AI shopping assistants have to function like the best sales associates in the retail store they make product recommendations they help you find the right things and they make you confident on a purchase and help you with postp purchase so no longer any silos in terms of the customer experience but really getting that personalized help for us at I advise we think that to make this a reality we have to innovate along two function or two Dimensions the first is around the user experience breaking out of the chat bubble where we find that users really engage with it less than 1% of the time and we've got to get much more embedded into the whole user experience of e-commerce and at the same time functionally innovating to make sure that we're creating say AI fashion assistants or virtual Sleep Consultants if you're selling mattresses getting the right functionality in there so that they can actually help user shop [Music]

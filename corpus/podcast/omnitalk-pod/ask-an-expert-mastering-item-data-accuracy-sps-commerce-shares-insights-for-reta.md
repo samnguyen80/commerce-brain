@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/sps"
+title: "Ask An Expert | Mastering Item Data Accuracy: SPS Commerce Shares Insights for Retailers & Brands"
+date: "Wed, 27 Mar 2024 14:30:00 -0400"
+fetched: "2026-08-29T12:00:53.849Z"
+via: "shownotes-thin"
+---
+
+SPS Commerce's Nick Schwalbach and Brandon Pierre dive deep into the critical importance of item data accuracy for retailers and brands in today's fast-paced, omnichannel landscape. Discover how gaps in item information can lead to supply chain inefficiencies, missed sales opportunities, and poor customer experiences.Schwalbach and Pierre discuss the challenges retailers face when relying on manual processes and disparate systems like Excel and EDI for managing item data. They emphasize the need for effective vendor collaboration and the adoption of standardized data pools such as GDSN and GS1 to streamline data exchange and ensure consistency across channels.Learn how retailers can tackle specific business problems, such as optimizing freight and reducing dimensional weight charges, by focusing on critical item attributes. The duo also shares best practices for seamless new item setup and the importance of aligning e-commerce and in-store experiences through accurate and complete item data.As consumer demands evolve and government regulations like ESG, FISMA, and traceability requirements come into play, having a solid foundation of item data becomes increasingly crucial. Schwalbach and Pierre offer actionable advice for retailers and brands looking to embark on their item data accuracy journey and position themselves for success in the ever-changing retail landscape.#SPSCommerce #NickSchwalbach #BrandonPierre #ItemDataAccuracy #OmniTalkRetail #Retailers #Brands #ItemInformation #PIMs #EDI #SupplyChain #Excel #ManualProcesses #VendorCollaboration #DataPools #GDSN #ExtendedAttributes #GS1 #SupplierLanguage #RetailLanguage #DataGaps #BusinessProblems #DimensionalAttributes #FreightOptimization #NewItemSetup #Ecommerce #Omnichannel #InStoreDigitalSignage #DataJourney #GovernmentRegulations #ESG #FISMA #Traceability #ConsumerDemands #Sustainability #LinkedInThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

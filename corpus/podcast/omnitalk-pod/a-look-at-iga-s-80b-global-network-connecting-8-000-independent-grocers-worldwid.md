@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/a-look-at-igas-80b-global-network-connecting-8-000-independent-grocers-worldwide-cgf-2026"
+title: "A Look at IGA's $80B Global Network Connecting 8,000 Independent Grocers Worldwide | CGF 2026"
+date: "Fri, 26 Jun 2026 10:46:00 -0400"
+fetched: "2026-08-29T12:00:53.553Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from the Consumer Goods Forum Global Summit 2026, Chris Walton sits down with John Ross, President & CEO of IGA, as the organization celebrates its 100th anniversary and reflects on the evolving role of independent grocers around the world.Ross explains how IGA's network of more than 8,000 independent stores across 30+ countries is helping local retailers compete at scale while preserving their community-first approach. He also shares why collaboration across retailers and manufacturers is essential to addressing human rights in global supply chains, how IGA is simplifying retail media for independent operators, and why long-term sustainability must remain a business priority regardless of shifting political climates.Key Topics Covered:IGA's 100-year history and its global network of independent grocersWhy IGA describes itself as an $80 billion alliance of independent retailersThe unique role of the Consumer Goods Forum in bringing retailers and manufacturers togetherIGA's leadership in the CGF Human Rights CoalitionAddressing forced labor, debt bondage, and child labor across global supply chainsWhy local retailers need scalable technology and shared infrastructureHow IGA simplifies retail media for independent grocery operatorsThe challenge of normalizing data across thousands of retailersWhy retail media success depends on simplicity and measurable ROIBalancing local community needs with global retail collaborationWhy sustainability should remain a core business strategy regardless of political changeKeeping customer expectations at the center of every retail decisionSpecial thanks to the CGF Leadership Studio sponsored by Vusion for supporting Omni Talk Retail's coverage from the Consumer Goods Forum Global Summit 2026 in Vienna.This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

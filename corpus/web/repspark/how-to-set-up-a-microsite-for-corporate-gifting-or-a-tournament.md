@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/how-to-set-up-a-microsite-for-corporate-gifting-or-a-tournament"
 title: "How to Set Up a Microsite for Corporate Gifting or a Tournament"
 date: "Fri, 28 Aug 2026 17:57:51 GMT"
-fetched: "2026-08-29T11:17:21.385Z"
+fetched: "2026-08-29T12:35:52.577Z"
 via: "http-rss"
 ---
 

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/former-loblaw-sobeys-cio-bruce-burrows-on-ai-buy-vs-build-and-smart-stores-fmi-2026"
+title: "Former Loblaw & Sobeys CIO Bruce Burrows on AI, Buy vs Build, and Smart Stores | FMI 2026"
+date: "Fri, 23 Jan 2026 13:00:00 -0400"
+fetched: "2026-08-29T12:00:53.604Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from FMI 2026 in San Diego at the Simbe booth, Chris Walton and Anne Mezzenga speak with Bruce Burrows, former CIO of Loblaw and Sobeys and current Strategic Advisor at Simbe, about how technology, AI, and shelf intelligence are reshaping grocery retail.Bruce shares his perspective on why retailers should focus on being great retailers, not software developers, and how the buy versus build debate is evolving in an era of AI and private LLMs. The conversation explores where grocery sits on the maturity curve for connected stores, why in store execution is becoming table stakes, and how retailers can use data to drive better decisions across merchandising, supply chain, and store operations.Bruce also outlines a practical crawl, walk, run framework for adopting shelf intelligence, starting with fixing out of stocks and pricing issues, then moving toward smarter merchandising, supply chain integration, and new monetization opportunities. The discussion touches on agentic AI, avoiding solution sprawl, and why mid market grocers are often moving faster than larger enterprises.Key Topics CoveredBuy versus build in retail technologyThe role of AI and private LLMs in groceryShelf intelligence and the connected store maturity curveCrawl, walk, run adoption of smart store technologyImproving in stock, pricing accuracy, and executionUsing store data to enhance merchandising and supply chainAgentic AI, solution sprawl, and platform strategyWhy mid market grocers are leading tech adoptionStay tuned to Omni Talk Retail for continued coverage from FMI 2026, recorded live from the Simbe booth in the FMI Tech section.#FMI2026 #RetailTechnology #GroceryRetail #AIinRetail #ShelfIntelligence #SmartStores #RetailLeadership #OmniTalkThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

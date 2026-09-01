@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/david-boynton-pandora"
+title: "How Pandora Thinks About AI, Emotion, and the Future of Jewelry Retail | WRC 2026"
+date: "Tue, 28 Apr 2026 11:39:00 -0400"
+fetched: "2026-08-29T12:00:53.575Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live at World Retail Congress 2026 in Berlin, Chris Walton sits down with David Boynton, Managing Director of Northern Europe at Pandora, for a conversation on the evolving intersection of AI, physical retail, and emotional commerce.Drawing from leadership roles across brands including The Body Shop, L'Occitane, and Charles Tyrwhitt, David shares why stores still play a critical role in building emotional connection, even as AI begins reshaping how customers discover and shop brands.The conversation explores Pandora’s omnichannel strategy across Northern Europe, why more than 30% of sales now happen online, and how physical stores continue to drive customer acquisition and loyalty. David also shares a fascinating personal story about using AI to purchase a premium rain jacket, highlighting how conversational AI could fundamentally change retail discovery and decision-making in the years ahead.Key Topics Covered: • Why emotional storytelling remains central to jewelry retail • How Pandora blends stores, ecommerce, and marketplaces • The role physical retail still plays in customer acquisition • Why engraving and personalization are driving deeper connection • How AI is changing product discovery and purchase confidence • The difference between AI efficiency tools and revenue-driving applications • Why conversational commerce may reshape retail behavior • How retailers can combine digital intelligence with human service • Why leadership, team building, and “winning” still drive great retail operatorsThank you to Vusion for supporting Omni Talk Retail’s live coverage from Berlin.#WorldRetailCongress #WRC2026 #OmniTalkRetail #Pandora #RetailInnovation #AIinRetail #Omnichannel #CustomerExperience #LuxuryRetail #FutureOfRetailThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

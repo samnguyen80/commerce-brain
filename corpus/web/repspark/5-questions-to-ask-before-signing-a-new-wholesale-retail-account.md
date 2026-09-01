@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/5-questions-to-ask-before-signing-a-new-wholesale-retail-account"
 title: "5 Questions to Ask Before Signing a New Wholesale Retail Account"
 date: "Tue, 18 Aug 2026 13:59:52 GMT"
-fetched: "2026-08-29T11:19:52.141Z"
+fetched: "2026-08-29T12:37:23.265Z"
 via: "http-rss"
 ---
 

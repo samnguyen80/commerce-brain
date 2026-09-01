@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/how-to-liquidate-excess-wholesale-inventory-without-damaging-your-brand"
 title: "How to Liquidate Excess Wholesale Inventory Without Damaging Your Brand"
 date: "Tue, 18 Aug 2026 13:20:41 GMT"
-fetched: "2026-08-29T11:20:03.651Z"
+fetched: "2026-08-29T12:37:32.437Z"
 via: "http-rss"
 ---
 

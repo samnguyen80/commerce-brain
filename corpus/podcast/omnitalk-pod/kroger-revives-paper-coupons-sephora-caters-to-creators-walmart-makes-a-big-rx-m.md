@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/092425-fast-five"
+title: "Kroger Revives Paper Coupons, Sephora Caters To Creators & Walmart Makes A Big Rx Move | Fast Five"
+date: "Wed, 24 Sep 2025 13:47:00 -0400"
+fetched: "2026-08-29T12:00:53.637Z"
+via: "shownotes"
+---
+
+In this week’s Omni Talk Retail Fast Five, sponsored by the A&M Consumer and Retail Group, Mirakl, Ocampo Capital, Infios, and Quorso, A&M’s Joanna Rangarajan and Mohit Mohal joined Chris and Anne to discuss:Walmart’s nationwide refrigerated prescription delivery – The retail giant becomes the first to deliver refrigerated and reconstituted prescriptions alongside groceries in one order, including insulin, GLP-1s, and pediatric medications (Source)Amazon launching online Winn Dixie grocery delivery in Florida – Amazon now offers the full Winn Dixie assortment with over 16,000 items for delivery in Jacksonville and Orlando areas (Source)Google adding Gemini to Chrome for all users – Google rolls out AI capabilities to Chrome browsers on Mac, Windows, and mobile devices as it pushes to bolster AI search capabilities (Source)Sephora launching My Sephora Storefront – The beauty retailer debuts a new affiliate platform giving influencers customizable digital storefronts and commission opportunities (Source)Kroger bringing back paper coupons – The grocery chain reintroduces physical coupon flyers alongside digital deals, featuring a single barcode for easy scanning at checkout (Source)And AWS’s David Dorff also dropped by for 5 Insightful Minutes on how retailers should prepare for AI-powered shopping agents.There’s all that, plus discussions on Nike’s Skims collaboration, Jaden Smith’s appointment as Christian Louboutin’s creative director, and how long it will take Mohit to run out and see the new Mandalorian movie.P.S. Be sure to check out all our other podcasts from the past week here, too: https://omnitalk.blog/category/podcast/P.P.S. Also be sure to check out our podcast rankings on FeedspotMusic by hooksounds.com#RetailNews #WalmartRX #AmazonGrocery #GoogleGemini #RetailTech #SephoraInfluencers #RetailPodcast #OmniTalk #AgenticAI #RetailInnovation #KrogerCoupons #RetailTrendsThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

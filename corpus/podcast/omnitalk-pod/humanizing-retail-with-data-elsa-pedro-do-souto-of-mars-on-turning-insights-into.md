@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/elsa-mars"
+title: "Humanizing Retail With Data: Elsa Pedro Do Souto Of MARS On Turning Insights into Action"
+date: "Mon, 22 Apr 2024 06:54:00 -0400"
+fetched: "2026-08-29T12:00:53.841Z"
+via: "shownotes-thin"
+---
+
+In this insightful interview from the VusionGroup studio at the World Retail Congress in Paris, Elsa Pedro do Souto, who currently works at MARS as the Global Senior Manager for Data & Analytics Engagement, sits down with Chris Walton and Anne Mezzenga from Omni Talk to discuss the evolving role of data in driving personalized, human-centric retail experiences. With a diverse background spanning retail banking, energy, and now the retail industry, Elsa shares her unique perspective on the power of data and analytics.Discover how Elsa and her team at Mars are:Leveraging big data, real-time analytics, and predictive analytics to drive business valueNavigating the challenges of data quality, connected data, and self-service analyticsAdapting to the pandemic's impact on digital commerce and the renewed focus on retail experiencesCollaborating with industry leaders from Ulta, Lego, and Zappos to humanize retailEmpowering organizations to understand consumers as individuals, not just data pointsElsa also shares insights from her thought-provoking workshop on humanizing retail, where attendees left with personalized action plans to drive change within their organizations. Learn how to combine quantitative and qualitative research to gain a deeper understanding of your customers and create truly human-centric retail experiences.#ElsaPedrodoSouto #Mars #DataAnalytics #Insights #RetailBanking #EnergySector #RetailIndustry #DataScience #BigData #RealTimeAnalytics #PredictiveAnalytics #Personalization #GenerativeAI #DataQuality #ConnectedData #SelfServiceAnalytics #PandemicImpact #DigitalCommerce #RetailExperience #Omnichannel #DataSkepticism #DataLiteracy #Collaboration #HumanizingRetail #ConsumerUnderstanding #QuantitativeResearch #QualitativeResearch #OmniTalkPodcast #WorldRetailCongressThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

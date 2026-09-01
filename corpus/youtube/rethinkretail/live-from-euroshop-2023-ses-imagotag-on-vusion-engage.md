@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=8qBnXZnDBUo"
+title: "Live from EuroShop 2023: SES-imagotag on VUSION Engage"
+video_id: "8qBnXZnDBUo"
+fetched: "2026-08-29T12:43:25.538Z"
+via: "yt-caption"
+---
+
+thank you [Music] my name is Scott song I'm in charge of the engage initiative here at scsc model tag where we offer a solution that allows the brands and the retailers to work together in retail marketing you know the biggest thing in retail is we're working on and that's a problem that needs to be solved is how do you get retail media into the physical store the retailers are really starting to think about how they're they're seeing some success in retail media for online on-site and off-site where they're you know going selling their assets on their internet but the big big challenge is really in store because basically over 70 percent of all dollars spent in retail is in the physical store and most Shoppers walk in front of the the shelf and then 85 percent of them make decisions at that spot and so what we're trying to do is to offer consumers that are primed on the various different touch points on the internet on TV to be triggered to buy when they're at the Shelf at SES what we do is we offer an ability to scan the UPC and then to to match it with our devices and that allows the content to be shown properly but at the same time that tells us that the product is actually in the store and then beyond that we have a camera that actually tells hey the product is actually on the Shelf through the promotion let's go back to the storyline right you have basically there's a discount but the target is not being met by the promotion so you're saying was was the product on in the store is it on the Shelf if you check those things off the next thing you you ask is well you know is there people walking by right and here we have a sensor so what it does is it picks up all this hints that of what's going on so Direction dwell stop reach all these things and that's what we're we're hoping to understand if you you find out that maybe your content isn't exactly uh delivering the impact instead of waiting for two months to get your your content right you could change it on the spot foreign

@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=BKmqWOlMswY"
+title: "Misfits Market's COO Corey Farrell on CPG Partnerships and Sustainability as a Value Proposition"
+video_id: "BKmqWOlMswY"
+fetched: "2026-08-29T12:31:17.976Z"
+via: "yt-caption"
+---
+
+you talked a little bit about your partnership with with with cpg Brands right and and it's a way for you to incubate maybe new brands test products reach new customers enter different geography or market like zip code could you elaborate on some of these strategies uh you know yeah yeah I I mean I think first and foremost it starts off with the value proposition to the consumer uh and we are we want to offer highquality healthy sustainable options that uh are affordable also to the customer which is which is not something you find in all grocery stores and so that's kind of as we start to kind of go and develop relationships with cpg Brands that's what we are asking and looking for um and from there we we do pride ourselves in in finding uh delicious high quality sustainable offerings for customers and making connections with some of the smaller brands that are out there that are looking to get maybe haven't quite got a foothold in broadscale retail yet but have an opportunity to introduce their brand on our website to our consumers who and our consumers are kind of looking for that you know they we have a we have a limited assortment and we rotate that assortment and we rotate the brands through and so there is a little bit of an element of a treasure hunt like what's the next great thing that I can find on Misfits uh that we do look to cultivate as part of the the offering uh and so there's a benefit to the consumer there's also a benefit to some of the smaller cpg brands that maybe don't have their uh their brand out in major retail outlets yet um so that's that is an element of our strategy it is you know something that we talk about um as we're going and establishing new relationships with uh with upcoming Brands uh we also offer uh you know marketing uh opportunities on our website uh to build brands for some of smaller companies as well so I think there's a there's a a multi-pronged approach to how we're trying to attract uh some of these smaller brands

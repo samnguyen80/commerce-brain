@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=FCzSHkrsa3s"
+title: "RETHINK Retail's Solution Spotlight: SES-imagotag"
+video_id: "FCzSHkrsa3s"
+fetched: "2026-08-29T12:55:14.997Z"
+via: "yt-caption"
+---
+
+[Music] my name is roy horrigan i'm the chief marketing officer head of marketing strategy and communications for sesum magatag we're a global iot company what's really important is ses essentially is a cloud iot business the original product was digital labels and that's what ses is the founder of the inventor of the technology essentially however we've evolved and we've evolved to a cloud infrastructure um an iot infrastructure we have over 30 thousand stores and millions and millions iot devices that's really important when you think about food waste because you have an infrastructure there that you can do something about that but without the cloud we we can't be as effective so we partner with companies and we create solutions ourselves so we have a company on stand here today called smartway um and we're working with them in terms of looking at how they track the the sell by dates or the best before dates um how we use then their applications that link to our cloud and then use the leds on the the labels to identify with source staff what are the problems or the triage and that's why it's not every product is a problem and not every day that product will be a problem so it's important to have the great information and have the tools to identify which products are the problem and then the the so what as in the so what what should i do about this product and when should i do it and that there are things that we think deeply about us and creating solutions to allow retailers to focus on things that really matter at the appropriate time [Music] and it's that solves the problem in the short term but then we start to look at how we can look at their shelf and learn more about their shelf and how their shelf operates and their shelf profitability and over time understanding how the data plays a pattern in their their day-to-day operation in that store one that every store underperforms hence it can be better and every store can learn and then we're creating the infrastructure so it creates i suppose self-learning stores stores that can learn [Music] you

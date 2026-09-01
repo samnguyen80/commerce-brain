@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=PS6QEw0INXs"
+title: "Top NACS 2024 Insights with Diebold Nixdorf's Nino Hörttrich!"
+video_id: "PS6QEw0INXs"
+fetched: "2026-08-29T12:21:01.399Z"
+via: "yt-caption"
+---
+
+[Music] next is usually a very important show for us because we are serving both the fuel industry but also the convenience industry what is growing so with our solution what are resonating very well with both of those Industries we are kickoff conversations with global retailers and local Brands and bringing those Technologies to life in the store for us it's always important that the journey for both for the consumers but also for the employees is as frictionless as possible and that we can build an experience for both what is very beneficial for the retailer as well but also is helpful for the consumer checking out easily and using technology in a way that is not for the sake of using technology but helping the checkout process helping the shopping process and create a good atmosphere an example for that could be multi- item recognition it is a common Journey that you have only a few items in the convenience store and with the help of AI those items can recognize right away with a blink of an eye with a camera solution and ring up very quickly so consumers have a very very quick checkout process the Sea World is pretty much changing I think with the new offerings what are coming down the line it's getting more and more important to have the right information at the right point of time for the right person whether it is an employee or a consumer sea stores are becoming more and more a place to go for for consumers as I were in the past really fueling the car grabbing a couple of items and go out of there as quick as possible we see now the tendency that a lot of people choose on the assortment on the offering to what sea store environment they are driving to and I think that has also to do with the experience what people have during the trip to the sea store but also with the importance of have a high availability in those sea stores with a very limited amount of space and very limited amount of checkout available it's also extremely important for those SE stores to keep the availability up to make always sure to make the sell [Music]

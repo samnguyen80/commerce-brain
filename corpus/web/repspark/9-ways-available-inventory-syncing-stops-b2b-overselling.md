@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/9-ways-available-inventory-syncing-stops-b2b-overselling"
 title: "9 Ways Available Inventory Syncing Stops B2B Overselling"
 date: "Fri, 21 Aug 2026 13:56:30 GMT"
-fetched: "2026-08-29T11:19:09.873Z"
+fetched: "2026-08-29T12:36:49.433Z"
 via: "http-rss"
 ---
 

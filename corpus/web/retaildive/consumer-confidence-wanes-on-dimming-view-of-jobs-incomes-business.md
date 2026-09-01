@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://www.retaildive.com/news/consumer-confidence-wanes-dimming-view-jobs-incomes-business-inflation-Iran-war/828857/"
 title: "Consumer confidence wanes on dimming view of jobs, incomes, business"
 date: "Thu, 27 Aug 2026 12:04:00 -0400"
-fetched: "2026-08-29T11:22:51.932Z"
+fetched: "2026-08-29T12:56:00.747Z"
 via: "http-rss"
 ---
 
@@ -1041,7 +1041,7 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- Daphne Howland/Retail Dive
+ Kaarin Moore/Retail Dive
 
  
  
@@ -1056,12 +1056,12 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
 
 ### 
  
- As 2026 kicks off, these retailers are vulnerable to bankruptcy
+ Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way
  
  
 
  
- As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
+ The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
  
  
@@ -1069,12 +1069,19 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- By Cara Salpini •
+ By Daphne Howland •
  
  
  
 
- Feb. 17, 2026 
+ 
+ 
+ 
+ 
+ Updated July 2, 2026
+ 
+ 
+ 
 
  
 
@@ -1099,7 +1106,7 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- Daphne Howland/Retail Dive
+ Joe Raedle via Getty Images
 
  
  
@@ -1125,12 +1132,12 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ In the home sector, ‘the weak will get weaker’ this year
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ Retailers in the category face a poor housing market, elevated interest rates, low consumer confidence and ever-changing tariff policies.
 
  
  
@@ -1138,12 +1145,12 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- By Daphne Howland •
+ By Caroline Jansen •
  
  
  
 
- April 15, 2026 
+ March 10, 2026 
 
  
 
@@ -1249,15 +1256,15 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- Doba Pilot Adds Walmart and TikTok Shop Product Listing, Proactive Shipping Alerts
+ Bridge Launches $500M Direct Lending Fund to Finance Suppliers of America&#x27;s Largest Retailers
  
 
  
  
  
- From Doba, Inc
+ From Bridge
 
- August 27, 2026
+ August 26, 2026
 
  
 
@@ -1412,7 +1419,7 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- Daphne Howland/Retail Dive
+ Kaarin Moore/Retail Dive
 
  
  
@@ -1427,12 +1434,12 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
 
 ### 
  
- As 2026 kicks off, these retailers are vulnerable to bankruptcy
+ Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way
  
  
 
  
- As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
+ The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
  
  
@@ -1440,12 +1447,19 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- By Cara Salpini •
+ By Daphne Howland •
  
  
  
 
- Feb. 17, 2026 
+ 
+ 
+ 
+ 
+ Updated July 2, 2026
+ 
+ 
+ 
 
  
 
@@ -1470,7 +1484,7 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- Daphne Howland/Retail Dive
+ Joe Raedle via Getty Images
 
  
  
@@ -1496,12 +1510,12 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ In the home sector, ‘the weak will get weaker’ this year
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ Retailers in the category face a poor housing market, elevated interest rates, low consumer confidence and ever-changing tariff policies.
 
  
  
@@ -1509,12 +1523,12 @@ Consumer confidence wanes on dimming view of jobs, incomes, business | Retail Di
  
  
  
- By Daphne Howland •
+ By Caroline Jansen •
  
  
  
 
- April 15, 2026 
+ March 10, 2026 
 
  
 

@@ -1,0 +1,11 @@
+---
+source: "DTC Podcast"
+category: "DTC"
+url: "https://podcasters.spotify.com/pod/show/dtcpodcast/episodes/Ep-579-How-to-Nail-DTC-Merchandising-in-Q1-From-Scroll-to-Sale-e3e24vb"
+title: "Ep 579: How to Nail DTC Merchandising in Q1: From Scroll to Sale"
+date: "Fri, 23 Jan 2026 12:00:01 GMT"
+fetched: "2026-08-29T12:00:55.135Z"
+via: "shownotes"
+---
+
+Subscribe to DTC Newsletter - https://dtcnews.link/signupIn this episode, Pilothouse's Taylor Cain and Aves break down how to merge creative strategy with merchandising to win Q1. This is the planning season where smart brands lock in the building blocks for scalable growth—and avoid wasting paid budget.For DTC marketers planning evergreen creative and site strategy in Q1...Why Q1 is the time to de-risk creative investmentsHow to connect merch and creative across the entire funnelWhat emotional truths are, and why they drive actionHow to create merchandising that aligns with user intent (without sounding like a pitch deck)The subtle difference between price-based and identity-based offersWho this is for: Media buyers, growth leads, and brand-side marketers aiming to improve conversion and site experienceWhat to steal:The linear structure Taylor uses to build conversion flowsAves' 3-step audit for understanding persona behavior onlineWhy great PDPs start with emotion, not featuresTimestamps:00:00 Merchandising in ecommerce and cognitive competition02:45 Why shoppers visit multiple brands before buying05:10 Bringing the in-store experience into digital creative07:20 Funnel congruency and full-funnel merchandising09:40 Merchandising on social feeds beyond direct competitors12:10 Information architecture and emotional storytelling on PDPs14:05 Selling identity and ritual instead of product features18:30 How Meta optimization and Andromeda affect merchandising20:40 Practical merchandising spot checks for brandsHashtags:#ecommercemarketing #digitalmerchandising #dtcbrands #paidmedia #creativestrategy #conversionoptimization #brandstrategy #marketingfunnels #metamarketing #shopifybrands #performancecreative Subscribe to DTC Newsletter - https://dtcnews.link/signupAdvertise on DTC - https://dtcnews.link/advertiseWork with Pilothouse - https://www.pilothouse.co/?utm_source=AKNF579Follow us on Instagram & Twitter - @dtcnewsletterWatch this interview on YouTube - https://dtcnews.link/video

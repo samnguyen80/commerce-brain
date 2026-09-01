@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=QXv9d2EkOys"
+title: "Retail Predictions 2023: Gap's Dan Goldman on Shifting Consumer Preferences"
+video_id: "QXv9d2EkOys"
+fetched: "2026-08-29T12:48:07.746Z"
+via: "yt-caption"
+---
+
+[Music] from my personal point of view and speaking about the overall retail industry and not about Gap specific businesses I'd say that for all those waiting for the industry to return to a pre-pandemic normalcy of 2023. unfortunately I personally believe we're going to have to wait at least another year as we continue to see the disruption driven by the macroeconomic uncertainty consumer Behavior changes and emerging innovators on the consumer side I believe the bifurcation of real disposable income growth will continue to drive and increase Divergence between luxury and value consumer preferences and needs will also continue to evolve as we move toward in the hybrid world with two dualities one where we're spending more time back in offices and gyms and clenching our thirst for our social engagements experiences and travel and the other where we're still seeking Refuge safety and cup for that our own homes together these consumer Trends will raise the importance of Brands strengthening their emotional protections and sharpening their value propositions on the market side I personally believe emerging innovators will continue to challenge the status quo take Xi'an for example they've built a compelling consumer app-based ecosystem that encompasses many of the latest industry Trends including real-time newness personalization user generated content live streaming gamification all while building a highly agile data driven supply chain that enables them to drop over a thousand new Styles a day with limited inventory liability by adjusting production with direct data feeds to their factories based on consumer demand what's interesting about this model is it's winning with Gen Z despite the lack of transparency sustainability that that generation claims to Value the most to keep Pace with that type of change and that type of innovation a traditional grants and retailers really need to think about operational agility with a focus and consumer-centric insights and using predictive data and diversification [Music] foreign [Music]

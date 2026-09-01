@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/reis-ceo-on-rebuilding-growth-reinventing-membership-and-blending-ai-with-human-connection-nrf-2026"
+title: "REI’s CEO on Rebuilding Growth, Reinventing Membership, and Blending AI With Human Connection | NRF 2026"
+date: "Tue, 13 Jan 2026 14:00:00 -0400"
+fetched: "2026-08-29T12:00:53.607Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live from NRF 2026 at the Vusion booth, Mary Beth Laughton, President and CEO of REI, joins Anne Mezzenga and Chris Walton to discuss her first year leading the iconic outdoor co-op and the priorities shaping REI’s next chapter.Mary Beth reflects on stepping into the role during a pivotal moment for the business, balancing retail fundamentals with innovation while staying deeply rooted in REI’s mission and values. She shares how REI is sharpening its customer focus around what the company calls the “Outdoor Evangelist” and why community, trust, and human expertise remain core differentiators in an increasingly digital retail world.Looking ahead to 2026, she outlines REI’s focus on reinventing its membership program, strengthening emotional loyalty, expanding partnerships like its new collaboration with Intrepid Travel, and continuing to elevate service and assortment for a rapidly changing outdoor consumer.Key Topics covered:Mary Beth Laughton’s first year as CEO of REIHow REI defines and serves the “Outdoor Evangelist” customerWhy customer-centric decision-making is embedded into REI’s cultureHoliday performance, gifting growth, and the rise of experience-led shoppingThe role of membership in driving long-term loyalty at REIWhy AI is becoming table stakes, not a retail differentiatorBlending human expertise with technology through REI’s green vestsReinventing loyalty to be emotional, not just transactionalNew partnerships and experiences shaping REI’s futureWhat excites REI most about the road ahead in 2026Stay tuned to Omni Talk Retail for continued coverage from NRF 2026, and stop by the Vusion booth #4921 to say hello.#NRF2026 #REI #RetailLeadership #CustomerExperience #RetailInnovation #Membership #Loyalty #OmnichannelRetail #RetailAI #OmniTalkThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

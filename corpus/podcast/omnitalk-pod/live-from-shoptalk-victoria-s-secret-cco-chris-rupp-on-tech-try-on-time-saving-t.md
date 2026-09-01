@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/chris-rupp"
+title: "Live From Shoptalk | Victoria's Secret CCO Chris Rupp On Tech, Try-On, & Time-Saving Tools"
+date: "Wed, 20 Mar 2024 08:00:00 -0400"
+fetched: "2026-08-29T12:00:53.853Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, sponsored by Meta, Chris Walton and Anne Mezzenga sit down with Christine Rupp, Chief Customer Officer at Victoria's Secret, at Shoptalk 2023. Rupp shares insights from her 30+ years of retail experience, spanning physical stores, e-commerce giants like Amazon, and her current role at Victoria's Secret.Discover how Victoria's Secret is revolutionizing the customer experience with innovative initiatives like home try-on subscription boxes, which allow customers to sample products, provide preferences, and enjoy a personalized, convenient shopping experience from the comfort of their homes.Rupp also delves into the cutting-edge technology being implemented in Victoria's Secret stores, such as RFID-enabled fitting room tech that provides product information, recommendations, and valuable customer data. She discusses the importance of digital convenience, new payment options, and same-day delivery in enhancing the customer journey.The conversation also explores the potential of generative AI in empowering store associates with instant access to information on bra sizing, sister sizes, store policies, and more, ultimately improving the customer experience.Rupp emphasizes the importance of creating seamless omnichannel experiences, streamlining processes like returns and shipping, and maintaining a focus on saving customers time, which has been a guiding principle throughout her career.#ChristineRupp #VictoriasSecret #ChiefCustomerOfficer #HomeTryOn #SubscriptionBoxes #CustomerPreferences #FittingRoomTechnology #RFID #ProductInformation #CustomerData #DigitalConvenience #PaymentOptions #SameDayDelivery #AssociateSupport #GenerativeAI #BraSizing #SisterSizes #StorePolicies #OmnichannelExperiences #Returns #Shipping #SavingTime #Shoptalk #OmniTalkRetail #MetaThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/preparing-retail-for-whats-next-with-wesley-wilson-on-ai-innovation-cgf-2026"
+title: "Preparing Retail for What's Next with Wesley Wilson on AI Innovation | CGF 2026"
+date: "Fri, 26 Jun 2026 11:55:00 -0400"
+fetched: "2026-08-29T12:00:53.553Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from the Consumer Goods Forum Global Summit 2026 in Vienna, Chris Walton sits down with Wesley Wilson, Regional Director, North America at the Consumer Goods Forum, to discuss the biggest trends shaping the future of retail and consumer goods.One year into his leadership role, Wilson reflects on how the Consumer Goods Forum is expanding its innovation initiatives ahead of the 2027 Global Summit in San Francisco. He explains why AI is becoming an essential tool for managing complexity, how GLP-1 medications are accelerating consumer demand for better nutrition, and why pre-competitive collaboration is becoming increasingly important as retailers and manufacturers navigate industry-wide challenges together.Key Topics Covered:Wesley Wilson's first year leading the Consumer Goods Forum in North AmericaWhy innovation has become a major priority for CGFWhat to expect from the Consumer Goods Forum Global Summit 2027 in San FranciscoThe growing importance of AI across retail and consumer goodsHow AI helps retailers manage personalization and operational complexityWhy open-source technology is becoming a strategic business advantageThe role of pre-competitive collaboration in driving industry innovationHow GLP-1 medications are reshaping consumer expectations around nutritionThe industry's shift toward nutritional quality over quantityWhy health outcomes are becoming central to retail strategyServing customers through collaboration across the consumer goods ecosystemHow CGF is helping retailers and manufacturers prepare for the futureSpecial thanks to the CGF Leadership Studio sponsored by Vusion for supporting Omni Talk Retail's coverage from the Consumer Goods Forum Global Summit 2026 in Vienna.This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/grabango-shuts-down-is-this-the-end-of-camera-based-checkout"
+title: "Grabango Shuts Down: Is This the End of Camera-Based Checkout?"
+date: "Sat, 19 Oct 2024 09:34:00 -0400"
+fetched: "2026-08-29T12:00:53.767Z"
+via: "shownotes-thin"
+---
+
+Grabango has officially shut down, marking a significant moment for the future of fixed-position camera-based automated checkout systems. The podcast discusses the implications of this closure, particularly in light of the fact that Grabango's technology, which was aimed at offering a checkout-free shopping experience, struggled to gain traction despite its innovative approach. Speakers analyze how the perceived value of simply walking out of a store without checking out may not be enough for consumers to choose such technologies over more established solutions. They also emphasize a shift in retail technology investments towards more cost-effective options like in-store robotics, which could lead to a decline in interest for just walk-out systems. As the conversation unfolds, they reflect on recent trends in the industry, including Amazon's own setbacks with similar technologies, suggesting a broader reevaluation of the automated checkout landscape.Takeaways: Grabango has permanently ceased operations, highlighting challenges in automated checkout technology. The shutdown of Grabango raises questions about the viability of camera-based checkout systems. Retailers may prioritize lower-cost solutions like robotics instead of complex camera systems. The trend towards in-store robotics is expected to intensify following Grabango's exit from the market. Amazon's criticisms of its own just walk out tech suggest a broader industry reevaluation. Retailers are focusing on technologies that directly impact their core business and profitability. Companies mentioned in this episode: Grabango Aldi Amazon Instacart Sam's Club Thanks to the A&M Consumer and Retail Group, Avalara, Mirakl, Ownit AI, and Ocampo Capital for making this episode possibleFor the full episode head here: https://youtu.be/T_30gGTzlZ4This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

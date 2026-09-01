@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/unframe-ai-spotlight-series"
+title: "Retail AI Is Moving Fast. Most Companies Aren’t Ready | Spotlight Series"
+date: "Mon, 18 May 2026 10:39:00 -0400"
+fetched: "2026-08-29T12:00:53.568Z"
+via: "shownotes"
+---
+
+In this Retail Technology Spotlight episode, Judah Berger, AI Product Manager at Unframe.ai, joins Omni Talk to explore one of the biggest questions facing retail leaders today: how do you actually implement AI across an organization without creating operational chaos? Judah works directly with enterprises to turn AI from an exciting concept into scalable systems that solve real business problems, helping companies identify inefficiencies, design AI powered workflows, and deploy solutions employees can actually trust and use. As companies rush to adopt tools like ChatGPT and Claude, Judah explains why unrestricted experimentation can unintentionally create an “Excel on steroids” problem, where disconnected prompts and workflows multiply inconsistencies across the business. From AI governance and workflow orchestration to SKU intelligence, predictive inventory management, and a real world footwear retail case study that generated a reported 40x ROI, this episode offers a practical roadmap for retailers looking to operationalize AI responsibly while still encouraging innovation across their teams. Key Topics Covered: • 00:01:56 – The four major approaches retailers can take toward AI implementation• 00:05:21 – Balancing bottom up AI experimentation with enterprise wide governance• 00:17:40 – How organizations should identify, scope, and scale the right AI use cases• 00:21:26 – The technology, auditability, and infrastructure needed for scalable enterprise AI• 00:26:58 – Case study: How a footwear retailer used AI inventory intelligence to achieve a reported 40x ROISee our past 8 years of wonderful Spotlight Series podcast guests, featuring roughly 200 movers and shakers in retail, by clicking here.#retailtech #AI #retailAI #inventorymanagement #retailoperations #SKUintelligence #supplychain #predictiveanalytics #enterpriseAI #generativeAI #retailinnovation #OmniTalk #retailpodcast #AIstrategy *Sponsored Content*This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

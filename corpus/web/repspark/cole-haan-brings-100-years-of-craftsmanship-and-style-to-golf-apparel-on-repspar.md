@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/cole-haan-brings-100-years-of-craftsmanship-and-style-to-golf-apparel-on-repspark"
 title: "Cole Haan Brings 100 Years of Craftsmanship and Style to Golf Apparel on RepSpark"
 date: "Thu, 13 Aug 2026 19:45:22 GMT"
-fetched: "2026-08-29T11:20:30.591Z"
+fetched: "2026-08-29T12:37:54.290Z"
 via: "http-rss"
 ---
 

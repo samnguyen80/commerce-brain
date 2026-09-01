@@ -1,0 +1,90 @@
+corpus -> /Volumes/SamDisk/ecommerce-research-academy/corpus
+phase=blogs
+
+
+[blog] RepSpark Blog
+  50 bai tu RSS
+  [repspark] sitemap: 50 url
+  +28 bai tu discover
+..............................................................................
+[blog] Omni Talk
+  10 bai tu RSS
+  [omnitalk] sitemap: 90 url
+  +80 bai tu discover
+..........................................................................................
+[blog] The Boutique Hub
+  10 bai tu RSS
+    robots.txt khong doc duoc: HTTP 404
+  [boutiquehub] sitemap: 90 url
+  +90 bai tu discover
+....................x......x........................................................................
+[blog] Retail Dive
+  10 bai tu RSS
+  [retaildive] sitemap: 90 url
+  +81 bai tu discover
+...........................................................................................
+[blog] Wholesale In a Box
+  0 bai tu RSS
+  [wholesaleinabox] sitemap: 100 url
+  +100 bai tu discover
+....................................................................................................
+[blog] Marketplace Pulse
+  [marketplacepulse] sitemap: 100 url
+  +100 bai tu discover
+....................................................................................................
+[blog] DTC Live
+  [dtclive] sitemap: 100 url
+  +100 bai tu discover
+....................................................................................................
+[blog] Brandboom Resources
+  [brandboom] sitemap: 32 url
+  [brandboom] archive/phan trang: 35 url
+  +39 bai tu discover
+...x....x..x......x....................
+[blog] B2B Wave Wholesale Glossary
+  [b2bwave-glossary] sitemap: 100 url
+  +100 bai tu discover
+....................................................................................................
+[blog] ENDVR B2B Platforms
+  [endvr] sitemap: 100 url
+  +100 bai tu discover
+....................................................................................................
+[blog] Retail TouchPoints
+  [retailtouchpoints] bi chan (sitemap): BLOCKED 403 -> bo site
+  +0 bai tu discover
+
+[blog] RetailWire BrainTrust
+  [retailwire] sitemap: 1 url
+  [retailwire] archive/phan trang: 2 url
+  +2 bai tu discover
+..
+[blog] CommerceNext
+  [commercenext] sitemap: 100 url
+  +100 bai tu discover
+....................................................................................................
+[blog] The Traide Blog
+  [thetraide] sitemap: 95 url
+  [thetraide] archive/phan trang: 5 url
+  +99 bai tu discover
+...................................................................................................
+[blog] NFX Network Effects Manual
+  [nfx] sitemap: 100 url
+  +100 bai tu discover
+....................................................................................................
+[blog] a16z Marketplace 100
+  [a16z-marketplace100] sitemap: 0 url
+  [a16z-marketplace100] archive/phan trang: 18 url
+  +18 bai tu discover
+....x........x....
+[blog] Version One Ventures Resources
+  [versionone] sitemap: 1 url
+    fallback loi long tren trang goc: 5 link
+  [versionone] archive/phan trang: 5 url
+  +6 bai tu discover
+.....x
+[blog] Above the Crowd (Bill Gurley)
+  [abovethecrowd] sitemap: 100 url
+  +100 bai tu discover
+....................................................................................................
+
+xong: 1314 ok, 9 loi. state: /Volumes/SamDisk/ecommerce-research-academy/corpus/state-blogs.json

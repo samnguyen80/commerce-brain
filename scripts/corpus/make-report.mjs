@@ -48,7 +48,9 @@ const web = countMd(join(CORPUS, "web"));
 const yt = countMd(join(CORPUS, "youtube"));
 const courses = countMd(join(CORPUS, "courses"));
 const pod = countMd(join(CORPUS, "podcast"));
-const total = countMd(CORPUS);
+// TRU chinh REPORT.md ra: no la bao cao, khong phai noi dung corpus. Neu khong tru, so dem
+// truoc khi ghi luon lech 1 so voi sau khi ghi -> gate doi chieu se do vinh vien.
+const total = countMd(CORPUS) - (existsSync(join(CORPUS, "REPORT.md")) ? 1 : 0);
 
 const stB = state("blogs"), stY = state("youtube"), stP = state("podcasts");
 const podOk = Object.values(stP).filter((v) => v.ok).length;

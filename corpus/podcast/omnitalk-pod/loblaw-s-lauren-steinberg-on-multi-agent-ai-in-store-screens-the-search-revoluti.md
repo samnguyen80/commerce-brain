@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/loblaw-lauren"
+title: "Loblaw's Lauren Steinberg On Multi-Agent AI, In-Store Screens & The Search Revolution in Grocery"
+date: "Tue, 30 Sep 2025 16:00:00 -0400"
+fetched: "2026-08-29T12:00:53.634Z"
+via: "shownotes-thin"
+---
+
+Lauren Steinberg, EVP and Chief Digital Officer at Loblaw, reveals how Canada's largest grocer is using multi-agent AI architecture, conversational search, and strategic retail media to dominate digital grocery with just 10 people on the AI team.In this exclusive interview recorded live from the VusionGroup Studio at Groceryshop 2025, Lauren shares:✅ Multi-agent AI combining LLMs with merchandise agents for personalization✅ 45% of online grocery add-to-carts happen through search✅ 10x expansion: from 1,000 to 10,000+ in-store screens with end-caps and in-aisle✅ Syncing in-store audio and digital screens for unified messaging✅ The Venn diagram: e-commerce needs retail media, retail media needs loyalty✅ Building commerce on OpenAI platforms with composable infrastructure✅ How a lean team of 10 (mostly co-ops) drives AI innovation✅ 2,400 stores across Canada with 45% online grocery market share✅ Managing 17 grocery banners under one digital strategyFrom a family legacy in grocery retail (her great-grandmother founded Steinberg's) to leading digital innovation at Loblaw, Lauren brings a unique perspective on building flexible, composable technology infrastructure that enables rapid experimentation. Discover how Loblaw uses LLMs to analyze behavioral and transactional data to create rich customer profiles, then runs those through merchandise agents to personalize product recommendations while respecting dietary preferences and lifestyle choices.Learn why search "keeps Lauren up at night and wakes her up in the morning" and how Loblaw is preparing for answer engines like ChatGPT and Perplexity to change grocery shopping forever.Subscribe for more AI and retail innovation insights!#Loblaw #AgenticAI #ConversationalSearch #RetailMedia #GroceryTech #AIPersonalization #GroceryshopThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

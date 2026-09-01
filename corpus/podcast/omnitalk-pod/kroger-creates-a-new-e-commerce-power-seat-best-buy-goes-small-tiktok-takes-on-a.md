@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/kroger-creates-a-new-e-commerce-power-seat-best-buy-goes-small-tiktok-takes-on-amazon-fast-five"
+title: "Kroger Creates A New E-Commerce Power Seat, Best Buy Goes Small & TikTok Takes On Amazon | Fast Five"
+date: "Wed, 19 Aug 2026 17:08:00 -0400"
+fetched: "2026-08-29T12:00:53.542Z"
+via: "shownotes-thin"
+---
+
+In this week's OmniTalk Retail Fast Five, sponsored by the A&M Consumer and Retail Group, Mirakl, Ocampo Capital, Quorso, Veloq, and R&S Logistics, Chris Walton was joined by Jenn Hahn of J Recruiting Services to discuss:• Kroger's appointment of Nate Faust as its first-ever Chief E-Commerce Officer, and whether creating a dedicated e-commerce leadership role signals Kroger is doubling down on digital or falling behind the industry's move toward omnichannel. (Source)• Best Buy's plan to grow through smaller-format stores, and whether shrinking the footprint can actually create meaningful growth or simply spread the retailer too thin. Plus, Chris and Jenn debate the strategy head-on. (Source)• Ahold Delhaize's expansion of its Saving Station discount kiosks to Giant Food, and whether physical kiosks can still bridge the gap between traditional grocery shoppers and the industry's increasingly digital loyalty experience. (Source)• Amazon customers' growing use of Alexa for shopping, and whether Amazon is finally positioned to move agentic AI shopping beyond discovery and recommendations into actual purchasing and transactions. (Source)• TikTok's reported testing of a paid Shop Plus membership, and whether TikTok is quietly building its own version of Amazon Prime to keep shoppers from leaving the platform to complete their purchases. (Source)Plus, Jenn also announces this month’s OmniStar Award winner, Ralph Woodward.We’re also joined by Arber Sejdiji of Zenline AI for five insightful minutes to hear his perspective on how AI is reshaping the retail experience.P.S. Be sure to check out all our other podcasts from the past week here, too: https://omnitalk.blog/category/podcast/P.P.S. Also be sure to check out our podcast rankings on Feedspot.Music by hooksounds.comThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

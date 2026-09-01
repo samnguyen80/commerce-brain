@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/apparel-wholesale-moq-policies-explained-for-2026"
 title: "Apparel Wholesale MOQ Policies Explained for 2026"
 date: "Fri, 21 Aug 2026 14:34:21 GMT"
-fetched: "2026-08-29T11:19:05.554Z"
+fetched: "2026-08-29T12:36:46.332Z"
 via: "http-rss"
 ---
 

@@ -1,0 +1,13 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/fast-five-shorts-amazon-includes-in-store-digital-ads-within-its-retail-media-network"
+title: "Fast Five Shorts | Amazon Includes In-store Digital Ads Within Its Retail Media Network"
+date: "Tue, 15 Nov 2022 15:20:09 -0400"
+fetched: "2026-08-29T12:00:54.056Z"
+via: "shownotes-thin"
+---
+
+In the latest edition of the Omni Talk Fast Five, sponsored by Microsoft, the A&M Consumer and Retail Group, Takeoff, Sezzle, and Silk, Chris Walton and Anne Mezzenga discuss: Amazon Includes In-store Digital Ads Within Its Retail Media Network
+
+For the full episode head here: https://omnitalk.blog/2022/11/10/fast-five-can-michelle-gass-do-for-levis-what-she-did-for-kohls-lets-hope-not/This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

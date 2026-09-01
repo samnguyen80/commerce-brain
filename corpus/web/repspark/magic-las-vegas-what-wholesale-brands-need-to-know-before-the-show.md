@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/magic-las-vegas-what-wholesale-brands-need-to-know-before-the-show"
 title: "MAGIC Las Vegas: What Wholesale Brands Need to Know Before the Show"
 date: "Fri, 07 Aug 2026 20:33:00 GMT"
-fetched: "2026-08-29T11:21:02.506Z"
+fetched: "2026-08-29T12:38:18.926Z"
 via: "http-rss"
 ---
 

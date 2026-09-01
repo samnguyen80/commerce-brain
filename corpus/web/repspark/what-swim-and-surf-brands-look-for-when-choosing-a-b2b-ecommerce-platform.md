@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/what-swim-and-surf-brands-look-for-when-choosing-a-b2b-ecommerce-platform"
 title: "What Swim and Surf Brands Look for When Choosing a B2B Ecommerce Platform"
 date: "Fri, 28 Aug 2026 14:57:33 GMT"
-fetched: "2026-08-29T11:17:25.098Z"
+fetched: "2026-08-29T12:35:55.640Z"
 via: "http-rss"
 ---
 

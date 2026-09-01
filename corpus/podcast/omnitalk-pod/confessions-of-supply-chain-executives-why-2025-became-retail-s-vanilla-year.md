@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/dematic-coasce"
+title: "Confessions Of Supply Chain Executives | Why 2025 Became Retail’s “Vanilla” Year"
+date: "Tue, 20 Jan 2026 08:15:00 -0400"
+fetched: "2026-08-29T12:00:53.605Z"
+via: "shownotes-thin"
+---
+
+In this episode of Confessions of Supply Chain Executives, host Chris Walton sits down with Kim Baudry, Market Development Director at Dematic, to unpack why 2025 wasn’t a year of transformation for retail. It was a year of survival.Despite continued investment in automation and analytics, many retailers are more cautious than ever. Inventory levels are rising. Capital spending is slowing. And behind the scenes, fear, not strategy, is driving decisions. Kim calls 2025 a “vanilla” year. Stable on the surface, but defined by hesitation, uncertainty, and defensive plays.This episode breaks down where retail supply chains are stalling, why flexibility has replaced scale as the priority, and how labor inefficiencies and planning blind spots are quietly draining performance across warehouses and distribution networks.Key Topics covered:• Why 2025 became a “vanilla” year for retail investment• How fear and geopolitical uncertainty are driving excess inventory• Why just in time has quietly become just in case• The hidden cost of warehouse labor tied up in spreadsheets and planning• Why big bang automation is stalling and what is getting funded• The rise of flexible, brownfield friendly automation strategies• Robots as a Service and SaaS as lower risk entry points• Why AI and agentic decisioning may impact warehouses faster than any other function• What retailers must do to move from survival mode to strategic progress🎧 Don’t forget to like, comment, and subscribe for more brutally honest conversations about retail, supply chain, and the technology reshaping how work actually gets done.Music by hooksounds.com#ConfessionsOfASupplyChainExecutive #SupplyChain #RetailSupplyChain #Retail2025 #SupplyChainStrategy #WarehouseOperations #InventoryManagement #WarehouseAutomation #AIInSupplyChain #RetailTechnology #LogisticsInnovation #Dematic #SupplyChainPodcast*Sponsored Content*This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/what-is-moq-minimum-order-quantities-explained"
 title: "What is MOQ? Minimum Order Quantities Explained"
 date: "Tue, 18 Aug 2026 14:31:28 GMT"
-fetched: "2026-08-29T11:19:48.132Z"
+fetched: "2026-08-29T12:37:20.200Z"
 via: "http-rss"
 ---
 

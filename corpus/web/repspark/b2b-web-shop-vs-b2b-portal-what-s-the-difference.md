@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/b2b-web-shop-vs.-b2b-portal-whats-the-difference"
 title: "B2B Web Shop vs. B2B Portal: What's the Difference?"
 date: "Mon, 17 Aug 2026 19:51:24 GMT"
-fetched: "2026-08-29T11:20:14.229Z"
+fetched: "2026-08-29T12:37:42.049Z"
 via: "http-rss"
 ---
 

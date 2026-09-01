@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=OR6WsxZNiXk"
+title: "RETHINK Retail's Solution Spotlight: One Door"
+video_id: "OR6WsxZNiXk"
+fetched: "2026-08-29T12:59:33.512Z"
+via: "yt-caption"
+---
+
+so i'm tom erskine ceo of onedoor and we work in the retail industry obviously today we see in retail some significant challenges around trying to solve for the in-store customer experience and retailers face challenges such as every store is a snowflake every store is different store labor is as we know at a premium and obviously the supply chain issues that the industry's experienced in the last three to six months are it's becoming more clear that those are probably maybe a little bit permanent and all those things conspire to make delivering great in-store experience is really challenging for the retail vertical today our vision is to create the industry's first real platform for delivering a great physical in-store experience and there are a ton of challenges around that today in the industry there really isn't today a single platform for that lots of merchandising solutions lots of task management solutions retailers use to piece it together but ultimately what differentiates us is we provide retailers with an end-to-end platform for defining and delivering a great in-store experience so they can plan the in-store experience their associates can execute it using a mobile device they get amazing data that they can use to analyze the in-store experience and really understand how their customers experience their stores we focus on helping large retailers solve sort of big large hairy problems and focused on delivering great outcomes from a business perspective for them what retailers generally experience with one door is first of all when customers find what they want in a store sales rise and so our customers tend to experience nice pickups and lift in sales store efficiency store associates that get guided mobile instructions as opposed to paper planograms get their work done in far less time and then also and importantly they can move at the speed of their customers and retailers can become far more agile and try new things and experiment with new formats and do things that previously they just weren't able to do you

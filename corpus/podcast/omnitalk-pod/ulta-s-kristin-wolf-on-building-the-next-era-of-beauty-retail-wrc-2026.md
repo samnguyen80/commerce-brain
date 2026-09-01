@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/kristin-wolf-ulta-pending-approval"
+title: "Ulta’s Kristin Wolf on Building the Next Era of Beauty Retail | WRC 2026"
+date: "Tue, 28 Apr 2026 11:43:00 -0400"
+fetched: "2026-08-29T12:00:53.575Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from World Retail Congress 2026 in Berlin, Chris Walton connects with Kristin Wolf, Chief Strategy & Growth Officer at Ulta Beauty, to discuss how one of beauty retail’s biggest players is thinking about long-term growth, AI, and global expansion.Kristin shares how her newly created executive role reflects Ulta’s focus on balancing core business growth with future innovation, from scaling internationally to rethinking how AI can transform retail operations, agility, and customer experience. The conversation also explores why traditional planning cycles are breaking down, how organizations need to evolve alongside technology, and why AI is forcing retailers to rethink not just tools, but the way work itself gets done.Plus, Kristin breaks down Ulta’s recent expansion moves, including the acquisition of Space NK and partnerships across Mexico and the Middle East, and explains why disciplined innovation matters more than chasing “shiny objects.”Key Topics Covered: • Why Ulta created the Chief Strategy & Growth Officer role • How AI is reshaping retail strategy and organizational design • The future of agility and test-and-learn retail operations • Why growth today requires balancing core business + future bets • Ulta’s international expansion strategy and recent global moves • How AI can accelerate both efficiency and customer experience • Why leadership teams need to rethink processes before deploying AI • The changing pace of retail transformation and innovation • How beauty retail continues to lead consumer and omnichannel trendsThank you to Vusion for supporting Omni Talk Retail’s live coverage from World Retail Congress 2026 in Berlin.#WRC2026 #WorldRetailCongress #OmniTalkRetail #UltaBeauty #BeautyRetail #RetailInnovation #AIinRetail #RetailStrategy #CustomerExperience #FutureOfRetailThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

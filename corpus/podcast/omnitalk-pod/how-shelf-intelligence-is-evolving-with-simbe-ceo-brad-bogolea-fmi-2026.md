@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/how-shelf-intelligence-is-evolving-with-simbe-ceo-brad-bogolea-fmi-2026"
+title: "How Shelf Intelligence Is Evolving, with Simbe CEO Brad Bogolea | FMI 2026"
+date: "Fri, 23 Jan 2026 11:00:00 -0400"
+fetched: "2026-08-29T12:00:53.604Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from FMI 2026 at the Simbe booth, Chris Walton and Anne Mezzenga speak with Brad Bogolea, Co-founder and CEO of Simbe, about how shelf intelligence is reshaping store execution and why real-time visibility inside the store is becoming essential for retailers.Brad shares the thinking behind Simbe’s newly announced Tally 4.0, the company’s fourth-generation autonomous inventory robot, and how advancements in battery life, edge compute, and optical sensing are unlocking more frequent store coverage and faster time to value. He explains how real-time shelf data is evolving into predictive intelligence that supports merchandising, replenishment, and forecasting decisions across the retail enterprise.The conversation also explores why shelf intelligence is foundational in an increasingly agentic and AI-driven retail environment, how retailers across geographies are prioritizing physical store data, and what Simbe’s first decade has revealed about building long-term retailer partnerships and scaling innovation in grocery and beyond.Key Topics CoveredWhat’s new in Simbe’s Tally 4.0 platformWhy shelf intelligence is gaining urgency across retailReal-time visibility versus predictive intelligenceHow edge AI and advanced sensing improve store executionThe role of shelf data in merchandising and replenishmentLessons from Simbe’s first 10 years in retail automationWhat the next decade of store intelligence could look likeStay tuned to Omni Talk Retail for continued coverage from FMI 2026, recorded live from the Simbe booth, #118, in the FMI Tech section.#FMI2026 #Simbe #ShelfIntelligence #RetailAutomation #StoreExecution #RetailTechnology #AIinRetail #GroceryRetail #OmniTalkThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

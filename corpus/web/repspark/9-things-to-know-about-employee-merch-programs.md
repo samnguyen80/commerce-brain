@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/9-things-to-know-about-employee-merch-programs"
 title: "9 Things to Know About Employee Merch Programs"
 date: "Tue, 18 Aug 2026 15:08:45 GMT"
-fetched: "2026-08-29T11:19:40.140Z"
+fetched: "2026-08-29T12:37:14.073Z"
 via: "http-rss"
 ---
 

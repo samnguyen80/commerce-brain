@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/a-practical-view-on-ai-in-retail-with-retail-tech-consultant-giles-smith-rts-2026"
+title: "A Practical View on AI in Retail with Retail Tech Consultant Giles Smith | RTS 2026"
+date: "Thu, 23 Apr 2026 09:53:00 -0400"
+fetched: "2026-08-29T12:00:53.578Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live at Retail Technology Show 2026 in London from the Vusion podcast studio, Chris Walton caught up with Giles Smith, retail technology consultant and advisor, to unpack how retailers should actually be thinking about AI right now.Drawing on experience across brands like Burberry, Selfridges, and Unilever, Giles shares a grounded perspective on why AI is less about chasing the latest innovation and more about accelerating what teams can already do.He explains why many organizations are overcomplicating their AI strategies, how governance is becoming the next major challenge, and why retailers should focus on real business problems instead of jumping on every new capability.The conversation also explores the balance between building and buying technology, where AI experimentation actually makes sense, and why the most important differentiator in retail will still come down to people.Key Topics Covered: • Why AI is best understood as a productivity unlock, not a strategy • The danger of running too many disconnected AI projects • How governance and accountability will shape the next phase of AI adoption • When retailers should build vs. buy technology in an AI-driven world • Where experimentation makes sense and where it does not • Why many “problems” AI tries to solve are not actually problems • How AI is changing decision-making inside organizations • The growing influence of CFOs in tech investment decisions • Why human connection remains the most important differentiator in retailThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026!#RTS2026 #RetailTechnologyShow #OmniTalkRetail #AIinRetail #RetailStrategy #DigitalTransformation #CustomerExperience #RetailInnovation #FutureOfRetail #VusionThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

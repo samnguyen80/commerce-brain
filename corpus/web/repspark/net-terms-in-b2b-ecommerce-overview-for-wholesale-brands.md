@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/net-terms-in-b2b-ecommerce-overview-for-wholesale-brands"
 title: "Net Terms in B2B Ecommerce: Overview for Wholesale Brands"
 date: "Mon, 24 Aug 2026 16:47:13 GMT"
-fetched: "2026-08-29T11:18:47.582Z"
+fetched: "2026-08-29T12:36:30.976Z"
 via: "http-rss"
 ---
 

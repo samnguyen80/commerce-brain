@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/inside-river-islands-next-chapter-in-ecommerce-and-personalization-rts-2026"
+title: "Inside River Island’s Next Chapter in Ecommerce and Personalization | RTS 2026"
+date: "Thu, 23 Apr 2026 11:11:00 -0400"
+fetched: "2026-08-29T12:00:53.578Z"
+via: "shownotes"
+---
+
+In this Omni Talk Retail episode, recorded live at Retail Technology Show 2026 in London from the Vusion podcast studio, Chris Walton speaks with Meriel Neighbour, Director of Technology Delivery and Transformation at River Island, about what it really takes to execute large-scale transformation in retail today.Meriel shares her unique career journey from hospitality into retail technology, and how that foundation shaped her deeply customer-centric approach to transformation. She explains why retail has shifted from technology-led initiatives to business- and product-led strategies, with customer experience now at the center of every decision.The conversation explores how River Island is replatforming its ecommerce experience, why data quality is becoming critical for AI-driven discovery, and how emerging technologies like voice and AI agents could reshape how customers shop across channels.Meriel also outlines the importance of integrations, real-time data, and seamless systems in enabling modern retail experiences, while calling out one of the industry’s biggest unresolved challenges: returns.Key Topics Covered: • Why transformation must be driven by business strategy, not technology alone • How River Island is replatforming ecommerce for the future • The role of data in powering AI, search, and product discovery • Why voice commerce and AI agents could reshape shopping behavior • The importance of integrations and real-time information • How customer expectations are evolving across channels • Why returns remain one of retail’s biggest unsolved problems • The opportunity for personalization, loyalty, and dynamic pricingThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026!#RTS2026 #RetailTechnologyShow #OmniTalkRetail #RiverIsland #RetailTransformation #Ecommerce #AIinRetail #CustomerExperience #RetailInnovation #VusionThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

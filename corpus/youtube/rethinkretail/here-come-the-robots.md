@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=XXhTzlZM28k"
+title: "Here Come the Robots"
+video_id: "XXhTzlZM28k"
+fetched: "2026-08-29T13:04:17.640Z"
+via: "yt-caption"
+---
+
+[Music] once the fear villain of countless science-fiction movies robotics are quickly becoming more embraced by a world once weary from warehousing to housecleaning robotics are entering the mainstream as a tool for both consumers and businesses alike the robot revolution is no longer some distant dystopian scenario robots are here and retail as we know it is in for some major disruption in the aisle and in the back room of your local retail store the robots are indeed coming to reduce costs and optimize operations big name retailers like Walmart Target and Lowe's have already been working toward employing data retrieving robots to streamline labor improve customer service and even make personalized product recommendations a recent pilot by target used Talley an inventory control robot built by Cindy robotics to browse aisles in scan SKUs in just one hour Talley could scan between 20,000 and 30,000 SKUs a job that would take humans more than four hours to complete over at Lowe's the home and hardware retailer has experimented with a number of AI led projects it's low bot an in-store autonomous robot is able to answer basic questions and navigate customers throughout a store low bot can also keep track of inventory and detect Elemental sales patterns all of this helps empower close human associates to provide better more complex customer service solutions and for those who prefer to shop at home you may soon find a robot at your door FedEx and Amazon are both testing their own autonomous delivery robots FedEx is rockzo and Amazon Scout are designed with cameras radar and laser based mapping tools and can self navigate themselves across sidewalks and streets as Amazon moves toward total self-reliance Lowe's and Target have both signed on to the FedEx program a move that will help the retailers better meet their customers demands for speedy local delivery so while robots won't be taking over the world just get consumers and retailers alike can expect to encounter more AI in their daily lives but don't take our word for it when in doubt you can always ask Alexa

@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/how-multi-warehouse-apparel-brands-keep-inventory-in-sync"
 title: "How Multi-Warehouse Apparel Brands Keep Inventory in Sync"
 date: "Mon, 17 Aug 2026 19:38:17 GMT"
-fetched: "2026-08-29T11:20:18.018Z"
+fetched: "2026-08-29T12:37:45.106Z"
 via: "http-rss"
 ---
 

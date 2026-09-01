@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=C4r5NuxiEyw"
+title: "Shoptalk Fall Insights with VTEX's Jim Gillon"
+video_id: "C4r5NuxiEyw"
+fetched: "2026-08-29T12:12:02.611Z"
+via: "yt-caption"
+---
+
+PEX is a leading global e-commerce solutions provider. We support over 2500 customers across the world across multiple industries. PEX is here at Shop Talk because this is a place where we can engage with prospects, customers, and partners, exchange ideas, share success stories, and collaborate. So over the past few years, retailers and brands are experiencing a significant shift in their omni channel strategies. They're no longer looking for being stuck with monolithic rigid systems. Nor do they really want the complete flexibility of a composable architecture. It's really a blend of the two that's going to allow them to help create experiences that their customers expect. And then there's AI. Retailers know that AI has huge potential. Unfortunately, most retailers and brands don't know where to start or how to scale. So, the challenge is going to be going from experiments to applications that make a true business impact. And getting there is not going to be easy. But that's what we're all here for to learn. What makes BTX unique is that we are the only platform in the industry that can combine BTOC commerce, B2B commerce, order management, and marketplace all in one solution. So at VTEC, we believe retail and brand leaders need to strike a balance between leveraging native out-of-the-box capabilities from their technology platforms to integrating best of breed third party capabilities and actually deploying composable architecture when customization is truly needed. They also need to think about AI. AI really needs to be embedded across every aspect of their omni channel strategy from smarter personalization to predictive inventory. And finally, we feel that retailers and brands should adopt a marketplace strategy so they can extend their aisles and uncover new revenue streams through third party sellers. Doing these three things will really become the cornerstone for retailers to become more successful during this everchanging time that we're in. [Music]

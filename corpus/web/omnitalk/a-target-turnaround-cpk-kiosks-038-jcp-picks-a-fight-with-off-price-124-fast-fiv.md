@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://omnitalk.blog/2026/08/26/a-target-turnaround-cpk-kiosks-jcp-picks-a-fight-with-off-price-fast-five/"
 title: "A Target Turnaround(?), CPK Kiosks &#038; JCP Picks A Fight With Off-Price &#124; Fast Five"
 date: "Wed, 26 Aug 2026 18:30:43 +0000"
-fetched: "2026-08-29T11:21:19.257Z"
+fetched: "2026-08-29T12:40:37.026Z"
 via: "http-rss"
 ---
 

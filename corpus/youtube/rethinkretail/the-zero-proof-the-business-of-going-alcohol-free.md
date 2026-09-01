@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=zsKczlq-z-U"
+title: "The Zero Proof: The Business of Going Alcohol-Free"
+video_id: "zsKczlq-z-U"
+fetched: "2026-08-29T12:08:39.860Z"
+via: "yt-caption"
+---
+
+There is just a title wave of change coming to the devout categories. It's a massive opportunity. [music] &gt;&gt; I was really interested when I looked at the website and saw that there were spirits. &gt;&gt; Yeah. &gt;&gt; And that almost seems like an oxymoron to me. And yet it sounded like there was really a clear intent. Whatever it is you're looking for in the alcohol world, I can almost guarantee you that there is the non-alcoholic equivalent. So, okay, if you want a margarita, you can get a non-alcoholic margarita. If you're a bourbon drinker, you know, you can make any bourbon cocktail that you want. And with the non-alcoholic spirits, we're really seeing those do well on premise. Like, bar programs love to have a large, beautiful bottle on the bar and make really thoughtful cocktails for their customers, you know, at a restaurant. &gt;&gt; Very nice. All right. So these days there very often is a designated driver out there or or just a person like yourself who's made the choice. &gt;&gt; Yeah. &gt;&gt; Right. And so but that that that social experience doesn't have to be uh uh diminished. Right. &gt;&gt; You know, one thing that I think is important for people to know is that the majority of the people that are buying these drinks are alcohol drinkers. And you know, if if it's a non-alcoholic tequila, you're you're probably a tequila drinker and looking to uh supplement that. So this category is really about offering the drinker more choices because there is a a massive trend towards wellness and moderation. So people are still drinking alcohol, they're just drinking less, but they want something special for that occasion. 70 something% of the people that are buying from our website are are first-time buyers from us. Which means that they are probably firsttime buyers to category. So we really have a duty to make sure you know maximize their chances of having an excellent experience so they come back you know whatever whatever brand they're trying we just want them to be

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/annes-and-chriss-childhood-aspirations-a-love-for-meteorology-and-mike-royko"
+title: "Anne's and Chris's Childhood Aspirations: A Love for Meteorology and Mike Royko"
+date: "Sat, 19 Oct 2024 10:45:00 -0400"
+fetched: "2026-08-29T12:00:53.766Z"
+via: "shownotes-thin"
+---
+
+In this Fast Five Short we discuss in our Lightning round how Walmart's recent hiring of a full-time meteorologist sparks a nostalgic conversation about childhood dreams and career aspirations. As the hosts explore their early ambitions, one reveals a love for meteorology rooted in a childhood fear of storms combined with a passion for retail. This lighthearted exchange transitions into a spirited debate about the best fried chicken restaurants, with Popeyes emerging as the clear favorite for one host, much to the surprise of the other who has never tried it. The discussion also touches on the upcoming Black Friday shopping season, highlighting Target's exclusive Taylor Swift merchandise and the discerning habits of shoppers. Finally, the hosts delve into the growing trend of meat snacks, contemplating their personal preferences and experiences with jerky and meat sticks, revealing a humorous take on the textures and flavors that appeal to them.Takeaways: Walmart's recent hiring of a full-time meteorologist highlights the intersection of retail and meteorology. Anne's childhood aspiration to be a meteorologist stemmed from a love for storms and retail. Chris reminisced about wanting to be a columnist like Mike Royko during their youth. Both speakers discuss their preferences for fried chicken, with Popeyes being the clear favorite. The conversation shifted to Black Friday deals, specifically Target's exclusive Taylor Swift merchandise. They also debated the appeal of meat sticks as a snack, revealing differing opinions on texture. Companies mentioned in this episode: Walmart KFC Popeyes Chick-fil-A Raising Cane's McDonald's Target Taylor Swift Thanks to the A&M Consumer and Retail Group, Avalara, Mirakl, Ownit AI, and Ocampo Capital for making this episode possibleFor the full episode head here: https://youtu.be/T_30gGTzlZ4This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

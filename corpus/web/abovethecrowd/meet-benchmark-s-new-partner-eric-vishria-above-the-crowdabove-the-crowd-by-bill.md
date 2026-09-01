@@ -1,0 +1,160 @@
+---
+source: "Above the Crowd (Bill Gurley)"
+category: "B2B2C"
+url: "https://abovethecrowd.com/2014/07/23/meet-benchmarks-new-partner-eric-vishria/"
+title: "Meet Benchmark’s New Partner: Eric Vishria - Above the CrowdAbove the Crowd | By Bill Gurley"
+date: "2014-07-23T18:04:12+00:00"
+fetched: "2026-08-29T13:59:09.563Z"
+via: "http-discover"
+---
+
+Meet Benchmark’s New Partner: Eric Vishria - Above the CrowdAbove the Crowd | By Bill Gurley 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+- 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+### Meet Benchmark’s New Partner: Eric Vishria 
+
+ 
+ July 23, 2014: 
+ Today Benchmark announced that Eric Vishria has joined us as a General Partner. Eric is one of the up-and-coming stars in the technology industry, and we are very excited he is becoming our partner. In Benchmark’s team dynamic, character and attitude really matter. Eric’s keen intellect, his experience as an entrepreneur and CEO, his depth in infrastructure and enterprise software, and his infectious optimism about technology make him an ideal Benchmark partner.
+
+ Eric demonstrated a unique passion for startups and entrepreneurship from an early age. After graduating from Stanford in mathematical and computer science when he was just 19, Eric joined the newly-formed enterprise software company Loudcloud (which became Opsware in 2002). Eric rose quickly, and by the age of 26 he became Opsware’s Vice President of Marketing, remaining in that role through the company’s acquisition by HP in 2007. He stayed briefly at HP as a vice president.
+
+ In 2008 Eric co-founded his own startup, RockMelt, and ran the company as CEO until its acquisition by Yahoo last year. We followed Eric&#8217;s adventure as founder and CEO at RockMelt as he worked through the roller coaster of a startup. While RockMelt may not have achieved all of its intended objectives, it gave us a window into Eric’s true character. We admired his courage, relentless optimism and sense of commitment to his mission. He never gave up, ultimately finding a home for the company and a fair outcome for his employees and investors. Our friend and mentor the great Bill Campbell knew Eric through this lens and was a huge advocate for his candidacy here at Benchmark.
+
+ One of Benchmark’s core principles is the power of a fully equal partnership. Every one of our general partners, regardless of track record or seniority, has equal ownership in the firm and an equal stake in its future. We believe that this promotes teamwork, minimizes politics, and most importantly allows us to deliver the power of the entire team to the entrepreneurs we serve. It also allows us to recruit the best possible partner candidates, like Eric Vishria, early in their careers and allow them to dedicate many years to refining their craft as venture investors and board members.
+
+ We believe that successful early-stage venture investing is just that: a craft. It is a service-oriented business, not an industrial process that can be scaled. It requires investors to work diligently on the boards of startups, providing advice and counsel and supporting the visions and dreams of entrepreneurs. Eric expects to spend the majority of time investing, among other things, in enterprise and infrastructure companies. As Eric said to us, he is addicted to the energy of working on ambitious ideas with amazing people, and can’t wait to get started.
+
+ Any success that Benchmark has had over the years has been the direct result of partners working together as a team to support entrepreneurs at the highest level. With Eric Vishria as a partner, we have an exciting opportunity to invest in new companies and an extraordinary new partner to help our current portfolio companies succeed. We believe that all of our companies, not just the new ones Eric invests in, will benefit from his presence on our team. We could not be happier to have him on board.
+
+ — Bill Gurley, Matt Cohler, Mitch Lasky & Peter Fenton
+
+ 
+
+### Share this:
+ 
+ Share on X (Opens in new window) 
+ X 
+ 
+- 
+ Share on Facebook (Opens in new window) 
+ Facebook 
+ 
+- 
+
+ 
+ 
+
+### Related 
+
+ 
+
+ 
+ 
+ 
+
+##### Share it
+
+ Share on Facebook 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+#### Leave a Comment (Cancel Comment) 
+
+ You must be logged in to post a comment.

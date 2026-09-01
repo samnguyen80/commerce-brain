@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/avataar-ai-spotlight-series"
+title: "Scaling Product Visualization & Storytelling In Retail With Avataar's GenAI | Spotlight Series"
+date: "Mon, 24 Jun 2024 09:00:00 -0400"
+fetched: "2026-08-29T12:00:53.806Z"
+via: "shownotes-thin"
+---
+
+In yet another one of those, "Holy Cow! That is so cool!" episodes of the Omni Talk Retail Technology Spotlight Series, hosts Chris Walton and Anne Mezzenga explore the groundbreaking potential of generative AI in the retail industry. Sravanth Aluru, the Founder and CEO of Avataar, alongside Avataar’s SVP of Creative AI, Jane Rawnsley, share insights on how their cutting-edge technology is radically improving retail product visualization and storytelling.You'll discover how Avataar harnesses the convergence of AI and computer vision to drastically reduce operational costs and time for retailers while enhancing the consumer experience. You'll also learn about the seamless creation of digital assets, from still images to immersive 3D environments, enabling personalized and engaging product exploration.You'll even gain insights into the future of retail, where the lines between physical and digital blur, and how Avataar empowers brands to scale their content creation and meet customers where they are.The top digital marketplaces and brands like Samsung are already leveraging Avataar's capabilities and witnessing impressive ROI and conversion rate uplifts, so whether you're a retail professional, marketer, or simply fascinated by the transformative power of AI, this episode is a must-watch, with immediate real-world application.Join the conversation and immerse yourself in the boundless possibilities that generative AI brings to the world of retail.And, for additional video footage to complement the interview, check out this link that showcases the full power of Avataar on display: youtu.be/c2aaKbUI_Ec#GenerativeAI #RetailTechnology #ProductVisualization #DigitalAssetCreation #ImmersiveExperiences #RetailInnovation #AvatarAI #OmniTalk #Avataar*Sponsored Content*This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

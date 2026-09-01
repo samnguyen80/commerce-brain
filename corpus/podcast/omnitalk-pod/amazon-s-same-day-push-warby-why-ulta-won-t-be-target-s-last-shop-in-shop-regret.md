@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/082025"
+title: "Amazon’s Same-Day Push, Warby & Why Ulta Won’t Be Target’s Last Shop-In-Shop Regret | Fast Five"
+date: "Wed, 20 Aug 2025 13:29:00 -0400"
+fetched: "2026-08-29T12:00:53.652Z"
+via: "shownotes-thin"
+---
+
+In this week’s Omni Talk Retail Fast Five, sponsored by the A&M Consumer and Retail Group, Mirakl, Ocampo Capital, Infios, and Quorso, Chris and Anne discussed:Amazon adding perishable foods to its same-day delivery offering across 1,000+ U.S. cities (Source)Starbucks abandoning its mobile order, pickup-only store format due to lack of “warmth and human connection” (Source)Warby Parker ending its home try-on program as most users live within 30 minutes of a store (Source)IKEA opening mini-showrooms inside select Best Buy locations in Florida and Texas (Source)The conclusion of Target and Ulta Beauty’s shop-in-shop partnership in August 2026 (Source)Chris and Anne also handed out our monthly OmniStar award to Scott Casciato, VP of Global Logistics and Omnichannel Fulfillment at Dick’s Sporting Goods, and Ben Miller from Shoptalk dropped by for 5 Insightful Minutes on what to expect at this year’s Shoptalk Fall and Groceryshop conferences.There’s all that, plus NFL Crocs, Harry Potter doughnuts, pawn shop back-to-school shopping, and whether Chris will ever upgrade from his OOFOS slides.P.S. Get your discounted admission now with Omni Talk!Retailers and brands save 20% with codes:- For Shoptalk Fall, use code RBOMNIT20 (Link: stfall25-registration.personatech.com/code?c…5pdDIw)- For Groceryshop, use code RBOMNIT510 (Link: gs25-registration.personatech.com/code?cId…dDUxMA==)Or save 20% off General Admission with codes:- For Shoptalk Fall, use code GAOMNIT20 (Link: stfall25-registration.personatech.com/code?c…5pdDIw)- For Groceryshop, use code GAOMNIT799 (Link: gs25-registration.personatech.com/code?cId…dDc5OQ==)Music by hooksounds.com#RetailNews #AmazonFresh #StarbucksStrategy #WarbyParker #IkeaBestBuy #TargetUlta #RetailPodcast #OmniTalk #SameDayDelivery #RetailInnovation #ShopInShop #RetailPartnershipsThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

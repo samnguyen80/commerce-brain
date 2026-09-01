@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/judith-mckenna"
+title: "Former Walmart International CEO Judith McKenna on Frontline Retail, Boards, and AI’s Next Chapter | WRC 2026"
+date: "Wed, 29 Apr 2026 13:45:00 -0400"
+fetched: "2026-08-29T12:00:53.574Z"
+via: "shownotes"
+---
+
+In this Omni Talk Retail interview, recorded live from World Retail Congress 2026 in Berlin, Chris Walton sits down with Judith McKenna, the former CEO of Walmart International and current Board Member at Delta Air Lines and Unilever, to discuss leadership, frontline retail culture, board governance, and how AI is beginning to reshape the retail industry.Drawing from her experience overseeing Walmart’s global operations across dozens of markets, Judith explains why employee experience remains one of the most important drivers of customer experience, how strong store managers can transform frontline culture, and why great retail organizations still succeed by making people feel valued.The conversation also explores what effective board leadership looks like after transitioning from executive roles, how companies should think about AI adoption beyond isolated use cases, and why retailers need a much clearer vision for how technology, operations, and customer experience ultimately connect together.Key Topics Covered:• Why frontline employee experience directly impacts customer experience• How retail leadership changes at the board level• Judith McKenna’s perspective serving on Delta and Unilever’s boards• Why store managers remain critical to retail success• The role mentorship plays at World Retail Congress• How AI is changing retail, customer experience, and operations• Why many retailers are still thinking too narrowly about AI• The importance of solving real customer problems with technology• Lessons from Walmart’s people-first leadership culture• What retailers can learn from Delta’s customer service approachThank you to Vusion for supporting Omni Talk Retail’s live coverage from World Retail Congress 2026.#WRC2026 #WorldRetailCongress #OmniTalkRetail #JudithMcKenna #Walmart #RetailLeadership #AI #RetailInnovation #CustomerExperience #FrontlineWorkers #RetailStrategy #BoardLeadershipThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

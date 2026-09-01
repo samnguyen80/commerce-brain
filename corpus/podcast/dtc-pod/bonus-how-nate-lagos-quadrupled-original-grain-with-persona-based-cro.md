@@ -1,0 +1,11 @@
+---
+source: "DTC Podcast"
+category: "DTC"
+url: "https://podcasters.spotify.com/pod/show/dtcpodcast/episodes/Bonus-How-Nate-Lagos-Quadrupled-Original-Grain-with-Persona-Based-CRO-e3b5k4d"
+title: "Bonus: How Nate Lagos Quadrupled Original Grain with Persona-Based CRO"
+date: "Wed, 19 Nov 2025 12:00:00 GMT"
+fetched: "2026-08-29T12:00:55.152Z"
+via: "shownotes"
+---
+
+Subscribe to DTC Newsletter - https://dtcnews.link/signupNate Lagos just wrapped his first week as CMO of Adapt Naturals after a breakout run that saw him quadruple Original Grain’s revenue. In this episode, Nate joins Eric Dyck for whiskey and wisdom on persona-driven marketing, CRO as a growth engine, and why you don’t need 100 ads a week to win on Meta.For DTC founders and marketers optimizing for LTV and profitable scale in 2025.How to uncover true customer motivations and build actionable personasCRO testing frameworks that compound results across ads, email, and retentionThe “Better Than Black Friday” offer that boosted LTV by 30%Creative volume vs. creative quality — where the real lever isBuilding bundles and pricing for high-AOV buyersIf you’re a DTC founder, growth marketer, or a CMO looking to turn creative and CRO into profit levers, this episode is for you.Timestamps00:00 Better Than Black Friday Offer Strategy02:00 Nate’s DTC Journey and Early Career04:00 Scaling Original Grain and Persona Marketing06:00 Creative Targeting and Sub-Persona Strategy09:00 CRO Lessons and Split Testing Wins12:00 The Creative Volume vs. Quality Debate15:00 Why Customers Really Buy and Competitor Frames17:00 Moving From Watches to Supplements19:00 Best-Ever Offer and LTV Impact22:00 Pricing Power, Inflation, and High-Ticket Bundles24:00 New Channels, Offers, and Team Leadership27:00 Remote Work, Management Style, and Alignment29:00 Nate’s Creative Process and Mindset31:00 Advice to Marketers: Do One Thing Exceptionally Well33:00 Tactical and Practical Podcast OverviewHashtags#dtcpodcast #ecommerce #dtcmarketing #cromarketing #offerstrategy #lifetimevalue #metads #directtoconsumer #performancecreative #shopifybrands Subscribe to DTC Newsletter - https://dtcnews.link/signupAdvertise on DTC - https://dtcnews.link/advertiseWork with Pilothouse - https://dtcnews.link/pilothouseFollow us on Instagram & Twitter - @dtcnewsletterWatch this interview on YouTube - https://dtcnews.link/video

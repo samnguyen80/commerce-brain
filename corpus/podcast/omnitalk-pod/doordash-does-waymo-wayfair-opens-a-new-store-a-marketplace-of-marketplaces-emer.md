@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/102225-fast-five"
+title: "DoorDash Does Waymo, Wayfair Opens A New Store & A Marketplace Of Marketplaces Emerges | Fast Five"
+date: "Wed, 22 Oct 2025 13:13:00 -0400"
+fetched: "2026-08-29T12:00:53.626Z"
+via: "shownotes-thin"
+---
+
+In this OmniTalk Retail Fast Five episode, sponsored by the A&M Consumer and Retail Group, Mirakl, Ocampo Capital, Infios, and Quorso, hosts Chris Walton and Anne Mezzenga are joined by Alvarez & Marsal's Lisa Collier and Manola Soler to separate retail fact from fiction across five major headlines transforming the industry.From Walmart's groundbreaking partnership with ChatGPT to Ulta's curated marketplace launch, autonomous deliveries via Waymo, and the future of luxury retail, this episode covers it all. Plus, former Walmart EVP Marybeth Hays stops by for Five Insightful Minutes on how merchandising is evolving with AI, real-time shelf intelligence, and cross-functional collaboration.🔑 Topics covered:Walmart's strategic move to offer shopping directly on ChatGPT and what it means for AmazonUlta Beauty's invitation-only marketplace strategy and the balance between curation and scaleHow Gen Z will transform Britain's high streets into social, tech-driven retail hubs by 2050Wayfair's 30,000 sq ft luxury Perigold store in West Palm Beach and the high-low merchandising opportunityDoorDash + Waymo's autonomous delivery pilot and the future of last-mile logisticsThe evolution of merchandising: from backwards-looking data to AI-powered predictive intelligence🎙️ Special guests:Lisa Collier, Managing Director, Alvarez & Marsal Consumer and Retail GroupManola Soler, Senior Director, Alvarez & Marsal Consumer and Retail GroupMarybeth Hays, Former Walmart EVP and Simbe Advisory Board Member🎧 Don't forget to like, comment, and subscribe for more retail tech insights!#retailtech #omnitalk #walmart #ultabeauty #wayfair #doordash #waymo #retailinnovation #merchandising #retailAI #ecommerce #marketplace #autonomousdelivery #retailpodcast #genz #luxuryretail #smartretailThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/the-biggest-ai-mistake-waiting-for-perfect-data-5im"
+title: "The Biggest AI Mistake Is Waiting for Perfect Data | 5IM"
+date: "Sun, 14 Jun 2026 00:00:00 -0400"
+fetched: "2026-08-29T12:00:53.560Z"
+via: "shownotes-thin"
+---
+
+In this 5 Insightful Minutes episode, Tomáš Čupr, Co-Founder and CEO of duvo.ai and CEO of the Rohlik Group, joins Omni Talk live from Shoptalk Europe to discuss why retailers need to rethink how they approach AI adoption.Drawing from his experience building duvo.ai while leading one of Europe's largest online grocers, Tomáš explains why AI shouldn't be viewed as a replacement for people, but as a way to eliminate the manual, repetitive work that drains productivity and leaks value across organizations. He also shares why retailers need to move faster, stop waiting for perfectly clean data, and focus on solving real operational pain points today.Key Topics Covered:• Why retail employees spend too much time acting as "human APIs" between disconnected systems• How AI can eliminate repetitive tasks and unlock employee capacity• Why retailers shouldn't wait for perfect data before deploying AI• The risks of lengthy AI roadmaps and multi-year transformation strategies• Why successful AI implementations work alongside existing systems like SAP and existing ERPs• The importance of designing AI for both people and agents, rather than replacing entire workforces• How duvo.ai helps retailers automate messy processes in just a few weeks• Why Tomáš believes retailers should focus on solving today's problems instead of planning for a future that may never arrive• How his experience leading both duvo.ai and the Rohlik Group shapes a practical approach to enterprise AI adoption🎧 Don’t forget to like, comment, and subscribe for more retail insights from the leaders shaping the future of commerce!#AIinRetail #RetailAI #ShoptalkEurope #duvoai #Rohlik #RetailTechnology #DigitalTransformation #RetailOperations #EnterpriseAI #ArtificialIntelligence #OmniTalk #RetailPodcastSponsored ContentThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

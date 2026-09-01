@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=Q04jcfrmAac"
+title: "Live from ShopTalk Vegas: Competera on Helping Retailers Become More Resilient"
+video_id: "Q04jcfrmAac"
+fetched: "2026-08-29T12:42:00.585Z"
+via: "yt-caption"
+---
+
+[Music] pushing retailers to invest in the latest pricing Tech because there's only one way how you can actually fight back for your gross margin and actually work with the prices in the Smart Way helps you to increase your gross profit without losing the customer trust and for us it's right now is very very cool time in the market build the prices what really will tailor it to your customer behavior and consider all those factors like store location competitors cost and give you the optimal price but really customer will allow it and you will still get your gross margin Targets this is probably most important in the Nova days resilience right resilience like Microsoft all big names right now Rising this stuff like retailers should prepare for something is coming yeah and for my statement of resilience is like retailers they're flexible they can react they can be smart and can optimize everything what they can optimize in their business operations like this is helps them to really pass through this very complicated period of the time retailers if you really thinking about implementing something new tech right now is the time because this is really helps you guys to really fight with this complicated situation on the market yeah this is what I can have invest in your data and implement the new tech like it helps you to pass this soft talk is my of the favorites conferences what I have been because here a lot of retailers come here to learn and it's maybe the best place to really see where this industry is going and it was really open to discuss actually hoping to try something new it's like I'm always every year excited to be here yeah it's so fun like honestly even like a year or two ago we all speak about drone delivery and shopping and right now everyone is prioritizing to invest in something what can help retailers to be more resilient and like influentions growing labor costs this is right now I see the main topics of this conference today [Music]

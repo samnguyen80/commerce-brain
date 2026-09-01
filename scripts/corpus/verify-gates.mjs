@@ -158,7 +158,9 @@ if (cmd === "report") {
   // So tong trong REPORT phai khop so dem that, khong duoc ghi so cu.
   const claimed = txt.match(/TONG_FILE:\s*(\d+)/)?.[1];
   if (!claimed) fail("REPORT.md thieu dong 'TONG_FILE: <so>' de doi chieu");
-  const real = countMd(CORPUS);
+  // Tru chinh REPORT.md - no la bao cao, khong phai noi dung corpus. Phai khop cach dem
+  // trong make-report.mjs, neu khong gate se lech dung 1 file mai mai.
+  const real = countMd(CORPUS) - 1;
   if (Number(claimed) !== real) fail(`REPORT.md ghi TONG_FILE=${claimed} nhung dem that la ${real}`);
 
   console.log(`REPORT.md goi ten du nguon thieu, TONG_FILE=${real} khop thuc te`);

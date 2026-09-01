@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/can-14-000-stores-innovate-as-one-network-spars-ceo-explains-cgf-2026"
+title: "Can 14,000 Stores Innovate as One Network? SPAR's CEO Explains | CGF 2026"
+date: "Wed, 24 Jun 2026 12:33:00 -0400"
+fetched: "2026-08-29T12:00:53.555Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from the Consumer Goods Forum Global Summit 2026 in Vienna, Chris Walton sits down with Tobias Wasmuht, CEO and Managing Director of SPAR International, to discuss how one of the world's largest independent retail networks is using collaboration, data, and AI to drive innovation across more than 14,000 stores worldwide.Tobias shares how SPAR's unique model balances local independence with global scale, why the organization's network structure creates a competitive advantage in an era of rapid technological change, and how retailers can accelerate innovation by sharing proven solutions across markets. He also discusses the growing importance of first-party data, AI-driven decision making, autonomous stores, and why collaboration remains essential to helping retailers compete in an increasingly complex marketplace.Key Topics Covered:• How SPAR operates across 50 countries and more than 14,000 stores• The unique balance between local independence and global scale• Why SPAR's network model accelerates innovation• How retailers can share successful AI and technology use cases• Lessons from China's digital transformation• Autonomous stores and the future of retail operations• How SPAR uses data services to support retailers globally• The role of first-party data in retail decision making• Why AI can help level the playing field for independent retailers• The Consumer Goods Forum's Data Driven Value Chain initiative• The importance of standards, interoperability, and collaboration• AI, cybersecurity, and the future of retail technology• How global retailers are adapting to rapid technological changeSpecial thanks to the Consumer Goods Forum Global Summit and the CGF Leadership Studio sponsored by Vusion for supporting Omni Talk Retail's coverage in Vienna.This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

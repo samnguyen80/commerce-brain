@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/boutique-hub-at-dallas-market/"
 title: "The Boutique Hub at the Dallas August Apparel Market"
 date: "Sun, 09 Aug 2026 23:15:23 +0000"
-fetched: "2026-08-29T11:22:18.822Z"
+fetched: "2026-08-29T12:48:22.206Z"
 via: "http-rss"
 ---
 

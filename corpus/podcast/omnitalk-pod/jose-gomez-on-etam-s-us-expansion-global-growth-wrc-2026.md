@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/jose-gomez-etam-pending-approval"
+title: "Jose Gomez on ETAM’s US Expansion & Global Growth | WRC 2026"
+date: "Wed, 29 Apr 2026 12:38:00 -0400"
+fetched: "2026-08-29T12:00:53.574Z"
+via: "shownotes"
+---
+
+In this Omni Talk Retail interview, recorded live from World Retail Congress 2026 in Berlin, Chris Walton reconnects with Jose Gomez, Chief Development Officer at ETAM, to discuss how the global lingerie and fashion retailer approaches international expansion, franchise strategy, and navigating today’s nonstop retail disruption.With nearly two decades of World Retail Congress experience, Gomez breaks down how ETAM’s international development strategy has evolved, including how the company evaluates franchising, consignment, and joint venture models across different global markets. He also shares insights into ETAM’s expanding US presence through Nordstrom partnerships, the challenges of operating amid tariffs and economic uncertainty, and why adaptability has become essential for modern retailers.The conversation also touches on the realities of entering competitive international markets, why brands can only learn so much before launching, and where Gomez sees ETAM’s biggest future growth opportunities around the world.Key Topics Covered:• ETAM’s global retail expansion strategy• How ETAM decides between franchise, consignment, and joint venture models• Why joint ventures work best in high-potential strategic markets• ETAM’s US growth strategy and Nordstrom partnership• The operational realities of tariffs and global retail uncertainty• Why resilience has become critical in modern retail leadership• Lessons learned entering the US fashion retail market• How global retail development has evolved over the last decade• Why international retail expansion still requires “learning by doing”• Markets ETAM sees as future growth opportunitiesThank you to Vusion for supporting Omni Talk Retail’s live coverage from World Retail Congress 2026 in Berlin.#WRC2026 #WorldRetailCongress #OmniTalkRetail #ETAM #FashionRetail #RetailExpansion #GlobalRetail #RetailStrategy #Franchise #LuxuryRetail #RetailInnovationThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

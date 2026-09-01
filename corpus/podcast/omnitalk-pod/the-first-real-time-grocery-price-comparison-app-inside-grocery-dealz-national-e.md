@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/grocery-dealz-spotlight-series"
+title: "The First Real-Time Grocery Price Comparison App? Inside Grocery Dealz’ National Expansion | Spotlight Series"
+date: "Tue, 24 Feb 2026 08:55:00 -0400"
+fetched: "2026-08-29T12:00:53.596Z"
+via: "shownotes-thin"
+---
+
+In this Retail Technology Spotlight Series episode from Omni Talk Retail, Chris Walton and Anne Mezzenga welcome back Grocery Dealz co-CEOs Matt Goynes and Micheal Waldroup to unpack the rapid national expansion of their real-time grocery price comparison app.Now live in 40 states, Grocery Dealz enables consumers to compare grocery prices across retailers in real time before they shop and even push their lists directly into Instacart for delivery.The conversation dives into how the platform works, how pricing data is sourced, why retailers are paying attention, and what price transparency means for the future of grocery. From over-the-counter medicine and alcohol price swings to retail media monetization and API partnerships, this episode explores how comparison shopping could reshape consumer behavior... just as it did in travel and gas.With grocery bills rivaling plane tickets in weekly spend, is price transparency the next major retail disruption?Key Topics Covered:•What Grocery Dealz is and why it exists•The 3-step user experience: search, substitute, compare•Categories covered beyond center store (including OTC meds & alcohol)•How real-time grocery pricing data is sourced•Retailers’ response to price transparency•The Instacart integration and delivery convenience factor•How Grocery Dealz makes money (affiliate + retail media model)•Consumer adoption metrics and time spent in app•What’s coming next: live coupons and national growth•Can price comparison truly change grocery shopping behavior?Connect with the Guests:Matt Goynes: https://www.linkedin.com/in/matt-goynes-65921368/Micheal Waldroup: https://www.linkedin.com/in/micheal-waldroup-3a74b82b7/#retailtech #grocerytech #pricetransparency #retailmedia #ecommerce #omnichannel #retailinnovation #retailpodcast #OmniTalkRetailThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

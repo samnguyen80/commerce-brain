@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/824-the-power-of-showing-up-how-live-selling-built-a-loyal-customer-base/"
 title: "#824: The Power of Showing Up: How Live Selling Built a Loyal Customer Base"
 date: "Tue, 11 Aug 2026 10:44:13 +0000"
-fetched: "2026-08-29T11:22:14.107Z"
+fetched: "2026-08-29T12:48:17.496Z"
 via: "http-rss"
 ---
 

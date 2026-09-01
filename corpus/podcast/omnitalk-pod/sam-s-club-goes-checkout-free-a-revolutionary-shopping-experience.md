@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/sams-club-goes-checkout-free-a-revolutionary-shopping-experience"
+title: "Sam's Club Goes Checkout-Free: A Revolutionary Shopping Experience!"
+date: "Mon, 14 Oct 2024 06:00:00 -0400"
+fetched: "2026-08-29T12:00:53.771Z"
+via: "shownotes-thin"
+---
+
+In this Fast Five Short, we discuss how Sam's Club is revolutionizing the shopping experience by opening a new store in Grapevine, Texas, that eliminates traditional checkout lines. Instead, customers will utilize a smartphone app called Scan and Go to scan items as they shop, culminating in a streamlined exit through a computer vision-based archway. This innovative approach allows for the display of unique online-only products, like a twelve-foot Christmas tree and a five-carat lab-grown diamond, directly linked to the app for easy access. The store is designed to enhance e-commerce fulfillment, providing staff with significantly more space for preparing curbside pickups and home deliveries. With a membership model that enables them to enforce this new shopping method, Sam's Club is poised to learn from this experiment and adapt to the evolving preferences of tech-savvy consumers, positioning itself ahead of competitors like Costco in the retail landscape.Takeaways: Sam's Club is innovating by opening a store without checkout lines, enhancing the shopping experience. The new store in Grapevine, Texas, emphasizes a tech-savvy approach using a smartphone app. Sam's Club is expanding its e-commerce fulfillment capabilities with a larger area for online orders. The store will feature online-only items, including luxury products that members can access easily. The Scan and Go app will allow customers to shop efficiently, improving overall store operations. This new model positions Sam's Club ahead of competitors like Costco in the digital shopping space. Companies mentioned in this episode: Sam's Club CNBC Amazon Costco Instacart Mercedes For the full episode, sponsored by the the A&M Consumer and Retail Group, Ownit AI, Avalara, Mirakl, and Ocampo Capital, head here: https://www.youtube.com/watch?v=w0O2k1chOTM&t=501sThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

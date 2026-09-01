@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=oVFGiggLSjc"
+title: "Live from NRF: Craig Hewitt, Chief Operating Officer at The Paper Store"
+video_id: "oVFGiggLSjc"
+fetched: "2026-08-29T12:30:54.241Z"
+via: "yt-caption"
+---
+
+[Music] we're always excited to come out to NRF every year to see what's going on in the industry see what we're missing our organization has been on a bit of an IT transformation for the last 12 months and we're slowly starting to put the pieces of the puzzle back together and NRF is a great way to meet some old colleagues see some new tech and start building those building blocks for our future The Paper Store is being fueled for growth right now we see the success in growing our brick and mortar retail along with our armd strategy we have a great success over the last 24 months but specifically this last holiday and a huge increase in our buy online pickup and store and driving that traffic actually into brick and mortar we have a bit of a hard time displaying our brand online and the inor experience is a much better experience so we're trying to figure out a way to adapt that inor experience online uh which is why this kind of new transformation of our digital is starting to happen now that we have inore Tech being upgraded so we're uh super excited to be partnered with jump mind uh we started this Journey about 18 months ago the ease of having all the information in one application that crosses multiple things so in our organization and our Legacy solution we had point of sale was in a silo Inventory management was in a silo and Order kind of fulfillment was in a silo so you required to go to three different applications on three different devices in order to do one task it was so labor intensive for our employees but also a frustrating experience for our customers so we want to be fast quick and deliver what you need and give our employees the tools they need to be the most successful cuz labor is tough wages keep rising and so we need to offset the need for people and big technology with an application that could serve up all those needs in one shop in our stores again jump mind and kind of part of this journey with them is what kind of data do we want to see what do they need deliver to our stores and they're able to provide that from a single [Music] source

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/space-chips-and-halloween-treats-the-lightning-round-discussion"
+title: "Space Chips and Halloween Treats: The Lightning Round Discussion"
+date: "Sat, 26 Oct 2024 07:15:00 -0400"
+fetched: "2026-08-29T12:00:53.764Z"
+via: "shownotes"
+---
+
+In the latest edition of Omni Talk’s Retail Fast Five sponsored by the A&M Consumer and Retail Group, Avalara, Mirakl, Ownit AI and Ocampo Capital Chris Walton, Anne Mezzenga, and guest hosts from the Alvarez & Marsal Consumer and Retail Group Lakshman Lakshmanan and Chris Creyts discuss: This podcast episode dives into the intersection of retail and entertainment, focusing on horror movies set in retail environments, with Chris Creyts leading the discussion. Anne shares her pick, "Bad Santa," and provides an intriguing behind-the-scenes fact about Billy Bob Thornton's performance. The conversation then shifts to a lighter topic as they explore food preferences in space, with Anne advocating for Quest Protein chips and Lakshman championing Doritos. Halloween candy rankings stir up some debate, especially when Lakshman's surprising choice of Hershey's Kisses takes center stage. The episode concludes with a humorous critique of LinkedIn posts, highlighting the oddities of office-themed memes that have no place in a professional networking space, showcasing the group's shared frustrations with social media content.Takeaways: Chris Creyts and Anne discussed their favorite movies filmed in retail settings, with Anne choosing 'Bad Santa'. Anne shared an interesting fact about 'Bad Santa' that Billy Bob Thornton was actually drunk during filming. Doritos recently made headlines with their first ad filmed in space, featuring crunching sounds from astronauts. Lakshman posed the question of what food would be taken into space, leading to a discussion on chips. Anne recommended Quest Protein chips as a nutritious alternative to Doritos, claiming they taste similar. The podcast delved into Halloween candy preferences, revealing that Hershey's Kisses ranked surprisingly high for one participant. Companies mentioned in this episode: Doritos Quest For the full episode head here: https://youtu.be/k5dEe64NBUEThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

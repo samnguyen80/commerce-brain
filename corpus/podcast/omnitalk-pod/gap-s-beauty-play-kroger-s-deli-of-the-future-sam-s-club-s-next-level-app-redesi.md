@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/091025-audio"
+title: "Gap’s Beauty Play, Kroger’s ‘Deli Of The Future’ & Sam’s Club’s Next Level App Redesign | Fast Five"
+date: "Wed, 10 Sep 2025 12:39:00 -0400"
+fetched: "2026-08-29T12:00:53.643Z"
+via: "shownotes-thin"
+---
+
+In this week’s Omni Talk Retail Fast Five, sponsored by the A&M Consumer and Retail Group, Mirakl, Ocampo Capital, Infios, and Quorso, Chris and Anne discussed:Sam’s Club’s brilliant app redesign — Anne and I break down why this move is so genius and what other retailers can and cannot learn from it. (Source)Gap’s beauty gamble — The company wants to expand into beauty and accessories across all brands, starting with Old Navy. Is this Richard Dickson’s next stroke of genius, or are they about to learn why Nintendo doesn’t sell makeup? (Source)Albertsons’ retail media evolution — Three new channels including influencer matching and premium in-store screens. We explore whether this “evolve or die” mentality is what separates winners from losers in retail media. (Source)Kroger’s “deli of the future” — A 6,500-square-foot prepared food section that’s supposed to revolutionize grocery. Anne loves the concept, but I’m asking the hard questions about scalability and architectural debt. (Source)Office Depot’s 15-minute promise — They’re guaranteeing pickup in 15 minutes or you get a $15 coupon but will this idea put too much strain on the store team? (Source)There’s all that, plus we announce this month’s OmniStar award winner Katherine Dela Cruz Paulk from Fabletics in partnership with Quorso, and dive into everything from New York Fashion Week to whether AI-generated movies are worth your theater ticket money.P.S. Be sure to check out all our other podcasts from the past week here, too: https://omnitalk.blog/category/podcast/P.P.S. Also be sure to check out our podcast rankings on FeedspotMusic by hooksounds.com#RetailNews #SamsClub #GapBeauty #RetailTech #KrogerDeli #RetailPodcast #OmniTalk #RetailMedia #OfficeDepot #RetailInnovation #Fabletics #QuorsoThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/community-impact-is-good-business-with-do-it-bests-curtis-smith-global-diy-summit-2026"
+title: "Community Impact Is Good Business With Do it Best's Curtis Smith | Global DIY Summit 2026"
+date: "Wed, 17 Jun 2026 10:00:00 -0400"
+fetched: "2026-08-29T12:00:53.560Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from the Global DIY Summit 2026 in Amsterdam, Chris Walton sits down with Curtis Smith, Executive Director of the Do it Best Foundation and True Value Foundation, to discuss the role of community impact in the future of retail.Curtis shares the story behind Do it Best's acquisition of True Value, how the combined organization has expanded to roughly 9,000 locations across 60 countries, and what it takes to merge two philanthropic organizations into one unified mission.The conversation explores how retailers can create meaningful impact beyond selling products, why community investment remains a competitive advantage, and how business leaders can balance growth, efficiency, and social responsibility in a rapidly changing world.Most importantly, Curtis offers a powerful reminder to leaders attending the Global DIY Summit: every business ultimately serves people, and lasting success comes from creating value both inside and outside the store.Key Topics Covered:• The Do it Best acquisition of True Value and its impact on the organization• Combining two foundations under one mission• Building stronger communities through retail philanthropy• Why retailers should think beyond products and transactions• Lessons from supporting more than 150 nonprofit organizations• The challenge of scaling charitable impact across markets• How business growth and community investment work together• The role of social responsibility in modern retail leadership• Why the DIY industry naturally attracts people-first leaders• Curtis Smith's message to executives on purpose, people, and legacyThank you to Vusion for supporting Omni Talk Retail's live coverage from the Global DIY Summit 2026 in Amsterdam.This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

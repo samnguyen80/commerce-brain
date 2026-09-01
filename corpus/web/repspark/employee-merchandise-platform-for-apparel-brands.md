@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/employee-merchandise-platform-for-apparel-brands"
 title: "Employee Merchandise Platform for Apparel Brands"
 date: "Wed, 19 Aug 2026 14:22:44 GMT"
-fetched: "2026-08-29T11:19:21.377Z"
+fetched: "2026-08-29T12:36:58.637Z"
 via: "http-rss"
 ---
 

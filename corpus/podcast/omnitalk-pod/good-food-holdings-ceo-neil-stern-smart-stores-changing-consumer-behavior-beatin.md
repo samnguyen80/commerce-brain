@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/good-food-holdings-neal"
+title: "Good Food Holdings CEO Neil Stern: Smart Stores, Changing Consumer Behavior & Beating Agentic AI"
+date: "Tue, 30 Sep 2025 20:00:00 -0400"
+fetched: "2026-08-29T12:00:53.634Z"
+via: "shownotes-thin"
+---
+
+Neil Stern, CEO of Good Food Holdings, returns to share why smart stores must solve operational problems first, how to change 50 years of consumer behavior, and why premium grocers can't compete on Wheat Thins in an agentic AI world.In this exclusive interview recorded live from the VusionGroup Podcast Studio at Groceryshop 2025, Neil shares:✅ "As local as possible, global when necessary"— and why it is the opposite of Lidl's strategy✅ Why most retailers don't actually know what's on their shelves✅ Smart carts must overcome 50 years of behavior change (like reusable bags)✅ Real-time budget tracking reduces stress and increases basket size✅ Operating "10 on difficulty" stores with coffee bars, sushi, barbecue stations✅ Why retail tech consolidation is necessary and inevitable✅ Macro challenges: consumers more cautious, units down, 3% internal inflation✅ Agentic AI threat: differentiation beats price competition on commoditiesLeading five premium West Coast banners (Metropolitan Market, New Seasons Market, New Leaf Community Markets, Bristol Farms, Lazy Acres), Neil brings a pragmatic consultant's eye to retail operations. With five years as CEO, he's learned that smart store ROI comes first from internal efficiency—understanding shelf inventory, connecting to supply chain and category management—before delivering fancy customer experiences.The agentic AI insight: "If the world is about who can sell Wheat Thins the cheapest, we lose. If agentic is going to search the net and find who's cheapest, we're not going to win that game. I want to sell proprietary food service products that we do well—then I may win the agentic game."Subscribe for more smart store and retail strategy insights!#GoodFoodHoldings #SmartStores #SmartCarts #AgenticAI #RetailDifferentiation #PremiumGrocery #GroceryshopThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

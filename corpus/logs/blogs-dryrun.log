@@ -1,0 +1,1413 @@
+corpus -> /Volumes/SamDisk/ecommerce-research-academy/corpus
+phase=blogs (dry-run)
+
+
+[blog] RepSpark Blog
+  50 bai tu RSS
+  [repspark] sitemap: 50 url
+  +28 bai tu discover
+  [dry] How to Set Up a Microsite for Corporate Gifting or a Tournament
+  [dry] What Swim and Surf Brands Look for When Choosing a B2B Ecommerce Platform
+  [dry] Why Vertical Focus Beats a One-Size-Fits-All Wholesale Platform
+  [dry] Foxden Fairways Brings Its Family Golf Apparel to Retailers on RepSpark
+  [dry] Wholesale Platform Buying Season, Why September Is When Smart Brands Decide
+  [dry] What Enterprise Brands Should Budget for a Wholesale Platform Switch
+  [dry] 5 Warning Signs Your Wholesale System Has Outgrown Your Brand
+  [dry] Choosing Wholesale Software: What Enterprise Brands Should Know About JOOR, RepSpark and NuORDER
+  [dry] You Do Not Have to Rip and Replace NuORDER or Elastic Suite to Win Specialty and Golf Retail
+  [dry] 7 Key Ways B2B Platforms Help Independent Sales Reps
+  [dry] Key Challenges in 24/7 Wholesale Ordering in 2026
+  [dry] 7 Days Left to Apply for an AGM Certified Retail Manager Scholarship
+  [dry] Net Terms in B2B Ecommerce: Overview for Wholesale Brands
+  [dry] B2B Ecommerce Platforms for Apparel Wholesalers Handling Size, Color and Bulk Ordering
+  [dry] What C-Suite Buying Committees Should Require Before Signing a B2B Ecommerce Platform
+  [dry] How Wholesale Brands Identify Valuable Accounts at Risk of Switching
+  [dry] 10 Questions to Ask About Enterprise B2B Platforms
+  [dry] Apparel Wholesale MOQ Policies Explained for 2026
+  [dry] 9 Ways Available Inventory Syncing Stops B2B Overselling
+  [dry] Pin Hunters Brings Premium Custom Golf Towels and Accessories to Retailers on RepSpark
+  [dry] 8 Barriers to Virtual Wholesale Product Demos
+  [dry] Employee Merchandise Platform for Apparel Brands
+  [dry] Multi-Warehouse Order Entry for Enterprise B2B Brands
+  [dry] Wholesale AR Automation for Apparel Brands
+  [dry] 8 Inventory Allocation Rules for B2B Commerce
+  [dry] The Complete Guide to B2B Overselling Prevention
+  [dry] 9 Things to Know About Employee Merch Programs
+  [dry] 7 Features Enterprise Wholesale Platforms Need in 2026
+  [dry] What is MOQ? Minimum Order Quantities Explained
+  [dry] 5 Questions to Ask Before Signing a New Wholesale Retail Account
+  [dry] Wholesale Fashion Trends Recap, What Sold at Market This August
+  [dry] Building Retail Partnerships That Last Longer Than One Season
+  [dry] How to Liquidate Excess Wholesale Inventory Without Damaging Your Brand
+  [dry] Payment Terms Every Wholesale Seller Should Know
+  [dry] Independent Retailers 101: What Wholesale Brands Should Know About Their Smallest, Most Loyal Accounts
+  [dry] B2B Web Shop vs. B2B Portal: What's the Difference?
+  [dry] How Multi-Warehouse Apparel Brands Keep Inventory in Sync
+  [dry] The True Cost of Manual Order Entry for Growing Wholesale Brands
+  [dry] What Happens to Your Trade Show Orders After the Show Ends?
+  [dry] Cole Haan Brings 100 Years of Craftsmanship and Style to Golf Apparel on RepSpark
+  [dry] 5 Signs Your Trade Show ROI Is Being Killed by Manual Order Taking
+  [dry] Laptop vs. Paper: Why Sales Reps Are Ditching Written Orders at Shows
+  [dry] Employee Merchandise Programs: An Overlooked Wholesale Revenue Stream
+  [dry] How to Sell Branded Merchandise at a Golf Tournament
+  [dry] Wholesale Fashion Trends to Watch This Fall (2026 Buyer's Guide)
+  [dry] Sun Mountain Partners with RepSpark to Streamline Its Wholesale Ordering Experience
+  [dry] RepSpark Named to Inc. 5000 List for Fifth Consecutive Year
+  [dry] MAGIC Las Vegas: What Wholesale Brands Need to Know Before the Show
+  [dry] A Pre-Market Checklist: 10 Things to Prep Before Your Next PGA Trade Show
+  [dry] How to Calculate MOQ for a New Wholesale Product Line
+  [dry] https://www.repspark.com/blog/virtual-fitting-rooms-explained-a-guide-for-retailers
+  [dry] https://www.repspark.com/branded-selling-tools
+  [dry] https://www.repspark.com/golf-brands
+  [dry] https://www.repspark.com/enterprise
+  [dry] https://www.repspark.com/wholesale-industry-trends-statistics-2025-global-insights
+  [dry] https://www.repspark.com/product-customization
+  [dry] https://www.repspark.com/leadership
+  [dry] https://www.repspark.com/blog/repspark-is-golf-commerce-layer-pga-of-america-formal-strategic-alignment-with-ecommerce-platform
+  [dry] https://www.repspark.com/blog/repspark-secures-22m-strategic-investment-to-scale-ecommerce-platform-across-specialty-retail
+  [dry] https://www.repspark.com/what-is-sell-through-and-why-does-it-matter-to-wholesale-brands
+  [dry] https://www.repspark.com/what-is-a-b2b-sales-portal-and-why-do-retailers-expect-one
+  [dry] https://www.repspark.com/wholesale-vs-retail-what-every-growing-apparel-brand-needs-to-know
+  [dry] https://www.repspark.com/how-to-get-your-clothing-brand-into-retail-stores-step-by-step-guide
+  [dry] https://www.repspark.com/about
+  [dry] https://www.repspark.com/pricing
+  [dry] https://www.repspark.com/blog/repspark-is-now-soc-2-type-2-compliant
+  [dry] https://www.repspark.com/b2b-management-and-operations
+  [dry] https://www.repspark.com/multi-warehouse-inventory-allocation-guide-for-b2b
+  [dry] https://www.repspark.com/modern-alternatives-to-spreadsheets-for-managing-wholesale-orders
+  [dry] https://www.repspark.com/golf-retailers
+  [dry] https://www.repspark.com/b2b-order-management-systems-complete-guide-for-wholesale-brands
+  [dry] https://www.repspark.com/how-to-prevent-overselling-with-wholesale-inventory-sync
+  [dry] https://www.repspark.com/what-is-a-b2b-retailer-marketplace-and-how-do-they-work-for-brands
+  [dry] https://www.repspark.com/ai-solution-for-b2b-wholesale-ecommerce-repspark-ai-order-insights
+  [dry] https://www.repspark.com/repspark-community
+  [dry] https://www.repspark.com/partners
+  [dry] https://www.repspark.com/online-order-entry
+  [dry] https://www.repspark.com/partners/aims360
+
+[blog] Omni Talk
+  10 bai tu RSS
+  [omnitalk] sitemap: 90 url
+  +80 bai tu discover
+  [dry] 🕔 Fast Five &#124; A Target Turnaround(?), CPK Kiosks &#038; JCP Picks A Fight With Off-Price
+  [dry] Transcript of Fast Five Episode : A Target Turnaround(?), CPK Kiosks &#038; JCP Picks A Fight With Off-Price &#124; Fast Five Video
+  [dry] A Target Turnaround(?), CPK Kiosks &#038; JCP Picks A Fight With Off-Price &#124; Fast Five Video
+  [dry] 🕔 Retail Daily Minute &#124; Kohl&#8217;s Sephora Slump Deepens, Target Launches Beauty Studio &#038; Costco Cakes Come to Instacart
+  [dry] A Target Turnaround(?), CPK Kiosks &#038; JCP Picks A Fight With Off-Price &#124; Fast Five
+  [dry] Target Hits The Q2 Bullseye, Sainsbury’s Anti-Theft Set-Back &#038; Drones, Drones, Drones &#124; Grocer Talk Video
+  [dry] 🕔 Retail Daily Minute &#124; GLP-1s Shrink Plus-Size Racks, Amazon Eyes Fully Automated Delivery Stations &#038; Instacart Adds Petsense
+  [dry] Target Hits The Q2 Bullseye, Sainsbury’s Anti-Theft Set-Back &#038; Drones, Drones, Drones &#124; GrocerTalk
+  [dry] The Weekly Add-to-Cart: The Hatch Restore 3
+  [dry] 🕔 Retail Daily Minute &#124; Walmart Launches New Fashion Brand, Ann Taylor Stages a Comeback &#038; Stripe Predicts the Death of Checkout
+  [dry] https://omnitalk.blog/2026/08/20/the-ai-employee-you-hire-on-day-one-5im/
+  [dry] https://omnitalk.blog/2026/08/24/%f0%9f%95%94-retail-daily-minute-walmart-finally-accepts-apple-pay-ross-stores-trounces-tjx-home-depot-goes-3-hour-delivery/
+  [dry] https://omnitalk.blog/2026/08/21/the-ai-employee-you-hire-on-day-one-5im-video/
+  [dry] https://omnitalk.blog/2026/08/21/%f0%9f%95%94-fast-five-kroger-creates-a-new-e-commerce-power-seat-best-buy-goes-small-tiktok-takes-on-amazon/
+  [dry] https://omnitalk.blog/2026/08/21/transcript-of-fast-five-episode-kroger-creates-a-new-e-commerce-power-seat-best-buy-goes-small-tiktok-takes-on-amazon-fast-five-video/
+  [dry] https://omnitalk.blog/2026/08/20/kroger-creates-a-new-e-commerce-power-seat-best-buy-goes-small-tiktok-takes-on-amazon-fast-five-video/
+  [dry] https://omnitalk.blog/2026/08/20/%f0%9f%95%94-retail-daily-minute-target-raises-its-forecast-amazons-drones-go-to-500-cities-online-grocery-keeps-eating-into-stores/
+  [dry] https://omnitalk.blog/2026/08/19/kroger-creates-a-new-e-commerce-power-seat-best-buy-goes-small-tiktok-takes-on-amazon-fast-five/
+  [dry] https://omnitalk.blog/2026/08/19/couche-tard-circles-zabka-krogers-ecom-plans-did-someone-say-just-eat-grocertalk-video/
+  [dry] https://omnitalk.blog/2026/08/18/couche-tard-circles-zabka-krogers-ecom-plans-did-someone-say-just-eat-grocertalk/
+  [dry] https://omnitalk.blog/2026/08/19/%f0%9f%95%94-retail-daily-minute-home-depot-reaffirms-guidance-foot-locker-nike-open-a-community-store-doordash-adds-barnes-noble/
+  [dry] https://omnitalk.blog/2026/08/18/%f0%9f%95%94-retail-daily-minute-j-c-penney-takes-aim-at-off-price-walmart-adds-new-perks-buc-ees-eyes-iowa/
+  [dry] https://omnitalk.blog/2026/08/17/%f0%9f%95%94-retail-daily-minute-amazon-fights-nycs-delivery-bill-walmart-tests-symbotic-automation-primark-debuts-at-mall-of-america/
+  [dry] https://omnitalk.blog/2026/08/11/omni-talk-retail-to-launch-new-global-grocery-innovation-podcast-grocertalk/
+  [dry] https://omnitalk.blog/all-videos/
+  [dry] https://omnitalk.blog/ben-miller/
+  [dry] https://omnitalk.blog/2026/08/11/subscribe-now/
+  [dry] https://omnitalk.blog/2026/07/10/transcript-of-fast-five-episode-kroger-buys-giant-eagle-lowes-extends-the-aisle-nj-passes-a-wacky-grocery-bill-fast-five-video/
+  [dry] https://omnitalk.blog/2026/07/17/transcript-of-fast-five-episode-walmart-drones-taco-bell-voice-ai-wayfairs-big-bet-fast-five-video/
+  [dry] https://omnitalk.blog/2026/07/24/transcript-of-fast-five-episode-doordash-goes-direct-on-shopify-openai-builds-an-ai-companion-kroger-pours-into-wine-fast-five-video/
+  [dry] https://omnitalk.blog/2026/07/31/%f0%9f%95%94-fast-five-gap-turns-employees-into-influencers-grocery-keeps-sinking-albertsons-breeds-canaries/
+  [dry] https://omnitalk.blog/2026/07/31/transcript-of-fast-five-episode-gap-turns-employees-into-influencers-grocery-keeps-sinking-albertsons-breeds-canaries-fast-five-video/
+  [dry] https://omnitalk.blog/2026/07/30/gap-turns-employees-into-influencers-grocery-keeps-sinking-albertsons-breeds-canaries-fast-five-video/
+  [dry] https://omnitalk.blog/2026/07/30/%f0%9f%95%94-retail-daily-minute-ahold-delhaize-links-recipes-to-cart-kroger-debuts-ai-shopping-assistant-macys-iconic-bag-sign-comes-down/
+  [dry] https://omnitalk.blog/2026/07/28/grocery-talk-coming-soon/
+  [dry] https://omnitalk.blog/2026/07/29/gap-turns-employees-into-influencers-grocery-keeps-sinking-albertsons-breeds-canaries-fast-five/
+  [dry] https://omnitalk.blog/2026/07/29/%f0%9f%95%94-retail-daily-minute-us-probes-chinese-factories-in-vietnam-instacarts-caper-trolleys-land-in-the-uk-tiktok-tests-a-prime-style-membership/
+  [dry] https://omnitalk.blog/2026/07/28/%f0%9f%95%94-retail-daily-minute-rolexs-certified-pre-owned-push-gap-revives-its-90s-fragrances-cos-expands-its-u-s-footprint/
+  [dry] https://omnitalk.blog/2026/07/27/%f0%9f%95%94-retail-daily-minute-albertsons-overhauls-operations-walgreens-opens-robotic-pharmacy-hub-gap-inc-turns-employees-into-creators/
+  [dry] https://omnitalk.blog/2026/07/24/%f0%9f%95%94-fast-five-doordash-goes-direct-on-shopify-openai-builds-an-ai-companion-kroger-pours-into-wine/
+  [dry] https://omnitalk.blog/2026/07/22/doordash-goes-direct-on-shopify-openai-builds-an-ai-companion-kroger-pours-into-wine-fast-five/
+  [dry] https://omnitalk.blog/2026/07/23/doordash-goes-direct-on-shopify-openai-builds-an-ai-companion-kroger-pours-into-wine-fast-five-video/
+  [dry] https://omnitalk.blog/2026/07/23/%f0%9f%95%94-retail-daily-minute-jersey-mikes-targets-7-94b-ipo-hy-vee-rolls-out-30-minute-delivery-bnpl-grocery-use-keeps-climbing/
+  [dry] https://omnitalk.blog/2026/07/22/%f0%9f%95%94-retail-daily-minute-gamestop-ups-ebay-stake-to-nearly-10-adidas-opens-immersive-store-at-mall-of-america-grocery-volumes-keep-sliding/
+  [dry] https://omnitalk.blog/2026/07/21/%f0%9f%95%94-retail-daily-minute-eu-bans-destroying-unsold-clothes-congress-tackles-penny-rounding-grocery-outlet-deploys-facial-recognition/
+  [dry] https://omnitalk.blog/2026/07/20/%f0%9f%95%94-retail-daily-minute-wonder-hits-9-billion-valuation-instacart-acquires-shelf-scanning-startup-cvs-expands-pharmacy-focused-format/
+  [dry] https://omnitalk.blog/2026/07/16/who-wins-who-loses-with-the-shifting-of-the-american-dream-ask-an-expert-video/
+  [dry] https://omnitalk.blog/2026/07/17/%f0%9f%95%94-fast-five-walmart-drones-taco-bell-voice-ai-wayfairs-big-bet/
+  [dry] https://omnitalk.blog/2026/07/17/the-shelf-its-data-never-lie-5im/
+  [dry] https://omnitalk.blog/2026/07/17/the-shelf-its-data-never-lie-5im-video/
+  [dry] https://omnitalk.blog/2026/07/16/who-wins-who-loses-with-the-shifting-of-the-american-dream-ask-an-expert/
+  [dry] https://omnitalk.blog/2026/07/16/walmart-drones-taco-bell-voice-ai-wayfairs-big-bet-fast-five-video/
+  [dry] https://omnitalk.blog/2026/07/16/%f0%9f%95%94-retail-daily-minute-openai-reveals-first-hardware-device-costco-opens-standalone-gas-station-decathlon-scales-esls-globally/
+  [dry] https://omnitalk.blog/2026/07/15/walmart-drones-taco-bell-voice-ai-wayfairs-big-bet-fast-five/
+  [dry] https://omnitalk.blog/2026/07/15/%f0%9f%95%94-retail-daily-minute-doordash-goes-native-on-shopify-amazon-sharpens-ad-attribution-instacart-delivers-tractor-supplys-supplies/
+  [dry] https://omnitalk.blog/2026/07/14/%f0%9f%95%94-retail-daily-minute-tailored-brands-files-for-ipo-temu-triples-brand-protection-amazon-dominates-late-night-shopping/
+  [dry] https://omnitalk.blog/2026/07/13/%f0%9f%95%94-amazon-shipping-undercuts-fedex-and-ups-taco-bell-scales-voice-ai-brookshire-brothers-adopts-ai-powered-promo-planning/
+  [dry] https://omnitalk.blog/2026/07/10/%f0%9f%95%94-fast-five-kroger-buys-giant-eagle-lowes-extends-the-aisle-nj-passes-a-wacky-grocery-bill/
+  [dry] https://omnitalk.blog/2026/07/09/kroger-buys-giant-eagle-lowes-extends-the-aisler-nj-passes-a-wacky-grocery-bill-fast-five-video/
+  [dry] https://omnitalk.blog/2026/07/08/korger-buys-giant-eagle-lowes-extends-the-aisler-nj-passes-a-wacky-grocery-bill-fast-five/
+  [dry] https://omnitalk.blog/2026/07/09/%f0%9f%95%94-retail-daily-minute-gamestop-clears-path-for-ebay-bid-walmart-expands-drone-delivery-home-depot-adds-pro-loyalty-perks/
+  [dry] https://omnitalk.blog/2026/07/08/%f0%9f%95%94-retail-daily-minute-walmart-rolls-back-summer-prices-aldi-sets-its-sights-on-colorado-nordstrom-goes-big-for-its-125th-anniversary-sale/
+  [dry] https://omnitalk.blog/2026/07/07/%f0%9f%95%94-retail-daily-minute-ocados-ceo-steps-down-klarna-chases-a-u-s-bank-charter-kroger-names-a-new-people-chief/
+  [dry] https://omnitalk.blog/2026/07/07/%f0%9f%95%94-retail-daily-minute-amazon-bets-1-billion-on-ai-deployment-albertsons-scales-merchandising-intelligence-new-jersey-cracks-down-on-surveillance-pricing/
+  [dry] https://omnitalk.blog/2026/07/06/confessions-of-supply-chain-executives-the-end-of-inventory-guesswork-2/
+  [dry] https://omnitalk.blog/2026/07/06/confessions-of-supply-chain-executives-the-end-of-inventory-guesswork/
+  [dry] https://omnitalk.blog/2026/07/02/retails-mid-year-report-card-with-ethan-chernofsky-of-placer-ai-ask-an-expert-2/
+  [dry] https://omnitalk.blog/2026/07/02/retails-mid-year-report-card-with-ethan-chernofsky-of-placer-ai-ask-an-expert-video-2/
+  [dry] https://omnitalk.blog/2026/06/29/radios-are-dead-and-here-is-what-comes-next-for-retail-store-ops-spotlight-series/
+  [dry] https://omnitalk.blog/2026/07/02/%f0%9f%95%94-retail-daily-minute-kroger-acquires-giant-eagle-dicks-debuts-scorecard-playstation-ends-physical-discs/
+  [dry] https://omnitalk.blog/2026/07/01/%f0%9f%95%94-retail-daily-minute-target-rolls-out-attendance-points-system-allstate-macys-team-up-for-product-protection-amazon-expands-alexa-for-shopping-price-history/
+  [dry] https://omnitalk.blog/2026/06/30/%f0%9f%95%94-retail-daily-minute-saks-exits-bankruptcy-prime-day-delivers-mixed-signals-rhode-island-mandates-self-checkout-staffing/
+  [dry] https://omnitalk.blog/2026/06/29/radios-are-dead-and-here-is-what-comes-next-for-retail-store-ops/
+  [dry] https://omnitalk.blog/2026/06/26/the-rohlik-groups-formula-for-profitable-online-grocery-5im-video/
+  [dry] https://omnitalk.blog/2026/06/29/%f0%9f%95%94-retail-daily-minute-lowes-brings-its-marketplace-in-store-beverage-giants-add-qr-codes-rei-gets-burned-by-meta-ai/
+  [dry] https://omnitalk.blog/2026/06/26/mengniu-group-is-reinventing-dairy-for-a-health-conscious-future-cgf-2026/
+  [dry] https://omnitalk.blog/2026/06/26/bringing-credibility-to-sustainability-audits-with-luiza-reguse-cgf-2026/
+  [dry] https://omnitalk.blog/2026/06/26/why-dfi-retail-group-believes-agility-beats-scale-cgf-2026/
+  [dry] https://omnitalk.blog/2026/06/26/moving-beyond-ai-experimentation-with-bcg-x-cgf-2026/
+  [dry] https://omnitalk.blog/2026/06/26/what-it-takes-to-build-an-autonomous-delivery-business-with-neolix-ai-cgf-2026/
+  [dry] https://omnitalk.blog/2026/06/26/consumer-goods-forum-on-latin-americas-next-growth-opportunity-cgf-2026/
+  [dry] https://omnitalk.blog/2026/06/26/%f0%9f%95%94-fast-five-target-turns-the-dial-back-to-2005-e-grocery-surges-28-bed-bath-wants-your-coupons/
+  [dry] https://omnitalk.blog/2026/06/26/transcript-of-fast-five-episode-target-turns-the-dial-back-to-2005-e-grocery-surges-28-bed-bath-wants-your-coupons-fast-five-video/
+  [dry] https://omnitalk.blog/2026/06/25/target-turns-the-dial-back-to-2005-e-grocery-surges-28-bed-bath-wants-your-coupons-fast-five-video/
+  [dry] https://omnitalk.blog/2026/06/25/%f0%9f%95%94-retail-daily-minute-prime-days-conflicting-data-snap-restrictions-blocked-uber-eats-adds-new-retailers/
+  [dry] https://omnitalk.blog/2026/06/24/target-turns-the-dial-back-to-2005-e-grocery-surges-28-bed-bath-wants-your-coupons-fast-five/
+  [dry] https://omnitalk.blog/2026/06/25/the-rohlik-groups-formula-for-profitable-online-grocery-5im/
+  [dry] https://omnitalk.blog/2026/06/24/%f0%9f%95%94-retail-daily-minute-walmart-acquires-vibe-co-bath-body-works-enters-ulta-instacart-pilots-shoppable-video/
+  [dry] https://omnitalk.blog/2026/06/23/%f0%9f%95%94-retail-daily-minute-prime-day-set-to-shatter-records-duluth-trading-bets-on-amazon-fulfillment-bed-bath-beyond-launches-the-legendary-coupon-hunt/
+  [dry] https://omnitalk.blog/2026/06/22/%f0%9f%95%94-retail-daily-minute-krogers-store-reckoning-ahold-delhaize-taps-an-amazon-veteran-wayfair-heads-to-new-jersey/
+
+[blog] The Boutique Hub
+  10 bai tu RSS
+    robots.txt khong doc duoc: HTTP 404
+  [boutiquehub] sitemap: 90 url
+  +90 bai tu discover
+  [dry] Five Minute Friday: The Summer-to-Fall Store Flip: How to Get Your Boutique Ready
+  [dry] Leaving Stocky? The Migration Guide for Multi-Brand Shops
+  [dry] The Boutique Hub at Dallas Market Home and Gift Sept 15-17
+  [dry] #826: How to Stop Feeling Overwhelmed in Your Boutique Business
+  [dry] What is Pink Friday 2026? Everything You Need to Know About the Support Small First Movement
+  [dry] Five Minute Friday: Free Shipping vs. Fast Shipping: What Customers Really Want
+  [dry] #825: The Boutique Owner&#8217;s Guide to Using AI in Your Business
+  [dry] Five Minute Friday: The 5-Step Communication Framework Every Retailer Needs
+  [dry] #824: The Power of Showing Up: How Live Selling Built a Loyal Customer Base
+  [dry] The Boutique Hub at the Dallas August Apparel Market
+  [dry] https://theboutiquehub.com/blog/
+  [dry] https://theboutiquehub.com/courses-test/
+  [dry] https://theboutiquehub.com/terms/
+  [dry] https://theboutiquehub.com/ai-readiness-self-assessment-for-retailers-dlc5/
+  [dry] https://theboutiquehub.com/6-mistakes-boutique-owners-make-dlc3/
+  [dry] https://theboutiquehub.com/ai-resources/
+  [dry] https://theboutiquehub.com/open-to-buy-calculator/
+  [dry] https://theboutiquehub.com/careers/
+  [dry] https://theboutiquehub.com/boutiquechat/
+  [dry] https://theboutiquehub.com/traffic-calculator/
+  [dry] https://theboutiquehub.com/do-not-sell/
+  [dry] https://theboutiquehub.com/about/
+  [dry] https://theboutiquehub.com/blog/the-state-of-boutique-retail-whats-working-whats-not-whats-next/
+  [dry] https://theboutiquehub.com/sms-terms-and-conditions/
+  [dry] https://theboutiquehub.com/blog/tips-for-buying-wholesale-inventory/
+  [dry] https://theboutiquehub.com/blog/how-to-increase-traffic-to-your-brick-and-mortar-boutique/
+  [dry] https://theboutiquehub.com/blog/mastering-your-schedule-timeblocking-tips-for-business-owners/
+  [dry] https://theboutiquehub.com/member-dir-123456/
+  [dry] https://theboutiquehub.com/member-directory-2aav23lskd/
+  [dry] https://theboutiquehub.com/blog/how-to-know-if-youre-ready-to-start-running-ads-for-your-small-business/
+  [dry] https://theboutiquehub.com/blog/how-to-prepare-for-the-boutique-summit-2025/
+  [dry] https://theboutiquehub.com/blog/3-mistakes-that-will-ruin-your-conversion-rate-and-how-to-fix-them/
+  [dry] https://theboutiquehub.com/blog/the-vision-board-effect-how-to-design-your-dream-life/
+  [dry] https://theboutiquehub.com/blog/six-layers-to-retail-success-build-a-business-that-lasts/
+  [dry] https://theboutiquehub.com/blog/2025-essentials-for-small-business-owners/
+  [dry] https://theboutiquehub.com/blog/los-angeles-wildfires-how-you-can-help/
+  [dry] https://theboutiquehub.com/control/bla-a/
+  [dry] https://theboutiquehub.com/blog/why-you-should-stop-putting-all-of-your-eggs-in-one-basket/
+  [dry] https://theboutiquehub.com/blog/optimizing-your-shopify-conversion-rate/
+  [dry] https://theboutiquehub.com/blog/facebook-instagram-or-snapchat-6-video-ideas-for-your-boutique/
+  [dry] https://theboutiquehub.com/blog/business-success-depends-on-knowing-your-numbers/
+  [dry] https://theboutiquehub.com/blog/top-10-social-media-mistakes/
+  [dry] https://theboutiquehub.com/blog/holiday-retail-wrap-up-what-worked-what-didnt-and-how-to-plan-for-2025/
+  [dry] https://theboutiquehub.com/blog/the-ins-and-outs-for-2025-small-business-owner-edition/
+  [dry] https://theboutiquehub.com/blog/how-to-start-an-online-boutique-2/
+  [dry] https://theboutiquehub.com/blog/5-foolproof-ways-to-boost-your-boutiques-seo/
+  [dry] https://theboutiquehub.com/blog/15-new-years-resolutions-for-business-owners/
+  [dry] https://theboutiquehub.com/blog/lessons-from-2024-and-strategies-for-2025/
+  [dry] https://theboutiquehub.com/blog/navigating-the-la-fashion-district-a-guide-for-retailers/
+  [dry] https://theboutiquehub.com/blog/the-power-of-text-marketing-why-its-essential-for-small-businesses-in-2025/
+  [dry] https://theboutiquehub.com/blog/building-community-balancing-chaos-and-embracing-the-entrepreneurial-journey/
+  [dry] https://theboutiquehub.com/blog/10-ways-to-clear-out-inventory/
+  [dry] https://theboutiquehub.com/blog/trademarking-your-business/
+  [dry] https://theboutiquehub.com/blog/ending-the-year-strong-how-to-motivate-and-manage-your-retail-team-for-success/
+  [dry] https://theboutiquehub.com/blog/revolutionizing-sales-what-inside-sales-can-do-for-your-business/
+  [dry] https://theboutiquehub.com/blog/5-must-know-google-ads-tips-for-retailers/
+  [dry] https://theboutiquehub.com/blog/from-burnout-to-ceo-building-a-business-with-purpose-and-balance/
+  [dry] https://theboutiquehub.com/blog/gift-guide-for-the-boutiqueboss/
+  [dry] https://theboutiquehub.com/test/bla-a/
+  [dry] https://theboutiquehub.com/test/
+  [dry] https://theboutiquehub.com/control/
+  [dry] https://theboutiquehub.com/blog/the-impact-of-shopping-small-first/
+  [dry] https://theboutiquehub.com/blog/negotiating-your-lease-the-3-essentials-every-retailer-must-know/
+  [dry] https://theboutiquehub.com/blog/5-tips-to-prepare-your-small-business-for-a-successful-2025/
+  [dry] https://theboutiquehub.com/blog/holiday-retail-tip-usps-shipping-cutoff/
+  [dry] https://theboutiquehub.com/blog/designing-with-purpose-crafting-products-that-spark-joy-and-connection/
+  [dry] https://theboutiquehub.com/blog/how-small-business-owners-can-use-chatgpt-to-create-engaging-product-descriptions-content/
+  [dry] https://theboutiquehub.com/blog/holiday-retail-tip-make-it-easy/
+  [dry] https://theboutiquehub.com/blog/boutique-tips-8-financial-tips-boutique-owners-must-know/
+  [dry] https://theboutiquehub.com/blog/staying-in-your-lane-building-a-business-without-debt/
+  [dry] https://theboutiquehub.com/blog/the-power-of-your-company-scorecard/
+  [dry] https://theboutiquehub.com/blog/how-to-get-ready-for-the-holiday-season/
+  [dry] https://theboutiquehub.com/blog/the-power-of-the-pivot-navigating-big-shifts-in-business/
+  [dry] https://theboutiquehub.com/blog/diy-boutique-holiday-display/
+  [dry] https://theboutiquehub.com/blog/from-burnout-to-breakthrough-getting-back-to-basics-in-retail/
+  [dry] https://theboutiquehub.com/blog/maximize-your-holiday-season-sales-by-leveraging-customer-shopping-behavior/
+  [dry] https://theboutiquehub.com/blog/drive-traffic-to-your-shopify-store/
+  [dry] https://theboutiquehub.com/blog/beyond-the-boutique-the-business-of-fashion/
+  [dry] https://theboutiquehub.com/blog/a-heart-for-retail-supporting-stores-in-times-of-crisis/
+  [dry] https://theboutiquehub.com/blog/black-friday-marketing-for-small-businesses/
+  [dry] https://theboutiquehub.com/bhb-form/
+  [dry] https://theboutiquehub.com/blog/the-power-of-persistence-navigating-failure-and-finding-your-niche/
+  [dry] https://theboutiquehub.com/blog/retail-signage-tips-that-will-boost-sales/
+  [dry] https://theboutiquehub.com/blog/the-ultimate-guide-to-efficient-planning-for-retailers-in-2025/
+  [dry] https://theboutiquehub.com/blog/consistency-and-connection-the-keys-to-boutique-success/
+  [dry] https://theboutiquehub.com/blog/must-have-products-for-a-pop-up-event/
+  [dry] https://theboutiquehub.com/blog/how-to-find-a-clothing-supplier-for-your-boutique/
+  [dry] https://theboutiquehub.com/blog/12-window-display-ideas-for-boutiques/
+  [dry] https://theboutiquehub.com/blog/how-to-buy-wholesale-clothing-for-your-boutique/
+  [dry] https://theboutiquehub.com/blog/how-to-start-an-online-boutique/
+  [dry] https://theboutiquehub.com/blog/avoiding-and-managing-burnout-as-a-small-business-owner/
+  [dry] https://theboutiquehub.com/blog/5-critical-boutique-tips-for-holiday-retail-success/
+  [dry] https://theboutiquehub.com/blog/identifying-traffic-patterns/
+  [dry] https://theboutiquehub.com/blog/boutique-summit-2025/
+  [dry] https://theboutiquehub.com/blog/maximizing-profitability-and-peace-during-the-holiday-retail-season/
+  [dry] https://theboutiquehub.com/blog/a-boutique-owners-guide-to-nailing-the-2024-holiday-season/
+  [dry] https://theboutiquehub.com/blog/the-six-layers-of-business/
+  [dry] https://theboutiquehub.com/brand-assets/
+  [dry] https://theboutiquehub.com/blog/mastering-leadership-the-evolution-of-a-multi-generational-boot-company/
+  [dry] https://theboutiquehub.com/blog/new-features-in-the-2024-boutiqueboss-planner/
+
+[blog] Retail Dive
+  10 bai tu RSS
+  [retaildive] sitemap: 90 url
+  +81 bai tu discover
+  [dry] Nike names Walmart vet as commercial chief, months after cutting role
+  [dry] Ulta leans into exclusivity amid Target Beauty Studio competition
+  [dry] The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America to be acquired
+  [dry] Dollar stores gain as Americans stretch budgets
+  [dry] Old Navy chief out as sales falter again
+  [dry] Bath & Body Works e-commerce returns to growth
+  [dry] Build-A-Bear fires chief growth officer as earnings fall flat
+  [dry] Consumer confidence wanes on dimming view of jobs, incomes, business
+  [dry] The Backroom: A sit-down with Ron Johnson
+  [dry] Burlington CEO calls using tariff refunds to cut prices ‘the right thing to do’
+  [dry] https://www.retaildive.com/news/sur-la-table-launches-peer-to-peer-resale-marketplace/828800/
+  [dry] https://www.retaildive.com/news/kohls-expands-home-assortment-with-martha-stewart-bobby-flay/828708/
+  [dry] https://www.retaildive.com/news/is-sephora-becoming-a-problem-for-kohls-Q2-sales-decline/828805/
+  [dry] https://www.retaildive.com/news/take-a-look-inside-the-new-barnes-noble-in-chicago/828738/
+  [dry] https://www.retaildive.com/news/bath-body-works-2026-remains-an-investment-year-q2-earnings/828819/
+  [dry] https://www.retaildive.com/news/target-beauty-studio-launch/828803/
+  [dry] https://www.retaildive.com/news/dicks-sporting-goods-foot-locker-in-the-game-despite-declines-losses-gloomy-outlook-q2/828694/
+  [dry] https://www.retaildive.com/news/walmart-new-private-label-scenerio/828696/
+  [dry] https://www.retaildive.com/news/target-apologizes-for-offensive-halloween-costume/828715/
+  [dry] https://www.retaildive.com/news/gap-inc-entertainment-executive-hire-walmart-alum/828598/
+  [dry] https://www.retaildive.com/news/walmart-communications-chief-allyson-park-departure-after-3-years/828576/
+  [dry] https://www.retaildive.com/news/fragrance-beauty-sales-growth-first-half-2026/828479/
+  [dry] https://www.retaildive.com/spons/how-peak-design-freed-its-finance-team-from-manual-ar/828116/
+  [dry] https://www.retaildive.com/spons/stop-guessing-start-knowing-why-retailers-need-one-pool-of-inventory/828228/
+  [dry] https://www.retaildive.com/news/off-price-ross-new-boss-soaring-store-comps-earnings/828457/
+  [dry] https://www.retaildive.com/news/roots-acquired-marquee-brands/828478/
+  [dry] https://www.retaildive.com/news/target-home-turnaround-macys-thanksgiving-day-parade-vuori-cmo/828460/
+  [dry] https://www.retaildive.com/news/michaels-3d-augmented-reality-digital-frame-builder/828381/
+  [dry] https://www.retaildive.com/news/walmarts-stores-omnichannel-tariffs-drug-pricing-regulation/828387/
+  [dry] https://www.retaildive.com/news/lululemon-chief-communications-officer-exits-incoming-ceo-heidi-oneill/828392/
+  [dry] https://www.retaildive.com/news/tjx-blames-merchandising-missteps-rare-miss-us-tjmaxx-marshalls-stores/828295/
+  [dry] https://www.retaildive.com/news/us-toy-industry-best-first-half-performance-six-years/828162/
+  [dry] https://www.retaildive.com/news/lowes-cuts-outlook-diy-spending-pressured/828266/
+  [dry] https://www.retaildive.com/news/kohls-back-to-school-season-another-round-deals/828147/
+  [dry] https://www.retaildive.com/news/ted-by-ted-baker-debuts-at-macys/828236/
+  [dry] https://www.retaildive.com/news/nike-quietly-closing-nike-live-well-collective-neighborhood-stores/828259/
+  [dry] https://www.retaildive.com/news/target-scores-sales-growth-beauty-hardlines-merchandise/828196/
+  [dry] https://www.retaildive.com/news/target-finalizes-divorce-from-ulta-signaling-shift-in-beauty-market/827990/
+  [dry] https://www.retaildive.com/news/home-depot-pros-outperform-diy-shoppers-q2-earnings/828159/
+  [dry] https://www.retaildive.com/news/nike-foot-locker-crenshaw-rec-store-concept-los-angeles/828149/
+  [dry] https://www.retaildive.com/news/walmart-plus-loyalty-program-adds-store-perks-photo-money-centers/828143/
+  [dry] https://www.retaildive.com/news/indochino-plots-small-format-showroom-expansion/828015/
+  [dry] https://www.retaildive.com/news/mattel-game-studios-physical-play-virtual-world/828087/
+  [dry] https://www.retaildive.com/news/under-armour-dwayne-the-rock-johnson-end-partnership/828020/
+  [dry] https://www.retaildive.com/news/jc-penney-takes-aim-off-price-stores/828001/
+  [dry] https://www.retaildive.com/news/back-to-school-spending-moderate-circana/828013/
+  [dry] https://www.retaildive.com/spons/why-retailers-are-making-edi-compliance-non-negotiable-for-vendors-in-2026/827304/
+  [dry] https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/
+  [dry] https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/
+  [dry] https://www.retaildive.com/news/michaels-debuts-store-format-knit-sew-party-shops/827904/
+  [dry] https://www.retaildive.com/news/lululemon-ai-chief-exits-increasingly-concerned-executive-turnover-heidi-oneill-ceo/827906/
+  [dry] https://www.retaildive.com/news/mud-jeans-bankruptcy-k-shaped-economy-over-brooks-running-tapestry-earnings/827875/
+  [dry] https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/
+  [dry] https://www.retaildive.com/news/academy-sports-and-outdoors-instacart-same-day-delivery/827796/
+  [dry] https://www.retaildive.com/news/fabletics-triple-international-retail-footprint-open-stores/827778/
+  [dry] https://www.retaildive.com/news/dillards-gains-market-share-q2-tariff-refund-gross-margin-profit/827774/
+  [dry] https://www.retaildive.com/news/bed-bath-beyond-chief-accounting-officer-jill-windrum/827795/
+  [dry] https://www.retaildive.com/news/shoe-station-names-chief-marketing-officer/827733/
+  [dry] https://www.retaildive.com/news/crocs-digital-upgrade-AI/827438/
+  [dry] https://www.retaildive.com/news/wrangler-open-more-stores-direct-to-consumer-push-helly-hansen-Q2/827672/
+  [dry] https://www.retaildive.com/news/reporters-notebook-how-bad-off-is-san-francisco-retail/827629/
+  [dry] https://www.retaildive.com/news/bealls-store-expansion-new-york-city-buying-office/827658/
+  [dry] https://www.retaildive.com/news/home-depot-interim-ceo-ted-decker-medical-leave/827682/
+  [dry] https://www.retaildive.com/news/target-halloween-assortment-newness-merchandising/827674/
+  [dry] https://www.retaildive.com/news/signet-names-leadership-zales-blue-nile/827534/
+  [dry] https://www.retaildive.com/news/on-misses-analyst-revenue-expectations-currency-change-q2-earnings/827559/
+  [dry] https://www.retaildive.com/news/simon-poised-millions-more-rent-saks-global-store-closures/827556/
+  [dry] https://www.retaildive.com/news/dxl-board-chair-takes-over-ceo-retires-challenges-mount/827407/
+  [dry] https://www.retaildive.com/news/retailers-stocked-up-holiday-season-imports/827437/
+  [dry] https://www.retaildive.com/news/best-buy-chief-marketer-jennie-weber-exits/827446/
+  [dry] https://www.retaildive.com/news/bobs-discount-furniture-higher-income-consumers-q2-earnings/827396/
+  [dry] https://www.retaildive.com/spons/winning-halloween-how-gen-zs-spooky-summers-are-driving-growth/826788/
+  [dry] https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/
+  [dry] https://www.retaildive.com/news/will-people-pay-more-under-armour-discounts-full-price/827321/
+  [dry] https://www.retaildive.com/news/activist-investor-board-shakeup-ethan-allen-rhode-q1-canada-goose-baffin/827281/
+  [dry] https://www.retaildive.com/news/ralph-lauren-winning-streak-q1-north-america-china/827312/
+  [dry] https://www.retaildive.com/news/qvc-exits-chapter-11-ceo-steps-down/827314/
+  [dry] https://www.retaildive.com/news/spencer-spirit-holdings-acquire-hot-topic-halloween/827283/
+  [dry] https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-laying-off-220-ai-chatgpt/827193/
+  [dry] https://www.retaildive.com/news/digital-brands-group-weighs-shareholder-cash-deal/827208/
+  [dry] https://www.retaildive.com/news/claires-revamps-in-store-piercing-experience/826321/
+  [dry] https://www.retaildive.com/news/bed-bath-beyond-corporate-name-neighborhood-intelligence-headquarters-second-quarter-earnings/827083/
+  [dry] https://www.retaildive.com/news/michael-kors-drag-capri-q1-jimmy-choo-kicks-revenue-up-10-percent/827055/
+  [dry] https://www.retaildive.com/news/under-armour-hits-play-k-pop-boynextdoor-brand-partnership/827063/
+  [dry] https://www.retaildive.com/news/barbie-mattel-q2-earnings/827067/
+  [dry] https://www.retaildive.com/news/wayfair-q2-higher-income-shoppers-perigold-sales-growth/826945/
+  [dry] https://www.retaildive.com/news/holiday-shoppers-using-ai-gift-purchases/826939/
+  [dry] https://www.retaildive.com/news/gamestop-debt-share-swap-preserve-cash-ebay-bid/826926/
+  [dry] https://www.retaildive.com/news/retailers-eager-for-cash-sell-off-rights-to-potential-tariff-refunds/823704/
+  [dry] https://www.retaildive.com/news/private-equity-firm-onyx-partners-tries-to-buy-117-jcpenney-stores/826804/
+  [dry] https://www.retaildive.com/news/digital-brands-group-strategic-review-sale-merger/826813/
+
+[blog] Wholesale In a Box
+  0 bai tu RSS
+  [wholesaleinabox] sitemap: 100 url
+  +100 bai tu discover
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/the-arts-and-crafts-award
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/what-if-getting-easier-isnt-the-point
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/faire-tundra-and-bulletin-how-to-compare-and-choose-the-right-wholesale-marketplace-for-you
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/how-to-succeed-on-faire-11-articles
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/templates-keyboard-shortcuts
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/why-your-faire-orders-dried-up
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/do-makers-have-to-be-on-faire-to-succeed-on-wholesale
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/what-happens-after-the-worst-happens
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/assets-you-already-have
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/the-real-cost-of-selling-on-faire
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/9-crucial-tips-for-growing-wholesale-around-the-holidays
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/why-retailers-arent-finding-your-faire-listings
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/how-to-turn-a-150-order-into-3000
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/qa-with-faires-customer-marketing-lead
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/2016/7/14/when-to-send-samples-to-a-store-and-when-not-to
+  [dry] https://www.wholesaleinabox.com/training
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/faire-markets-worth-it
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/2016/5/26/the-big-outreach-mistake-most-makers-make
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/tundra-wholesale-reviews-and-maker-tips
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/craft-shows-wont-work
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/a-scary-reality-and-some-helpful-tips-about-offering-stores-net-30-as-a-maker
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/your-wholesale-data-is-telling-you-something
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/how-i-use-ai-as-a-small-business-owner-without-losing-the-plot
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/how-to-fix-your-product-photos-for-50-or-less
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/junipermarket-wholesale-marketplace
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/abound-wholesale-reviews-and-maker-tips
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/tips-and-reviews-of-faire
+  [dry] https://www.wholesaleinabox.com/thank-you
+  [dry] https://www.wholesaleinabox.com/adminpro
+  [dry] https://www.wholesaleinabox.com/terms
+  [dry] https://www.wholesaleinabox.com/store-stylist-maker-support
+  [dry] https://www.wholesaleinabox.com/how-to-get-great-photos-of-your-handmade-line-on-the-cheap
+  [dry] https://www.wholesaleinabox.com/privacy
+  [dry] https://www.wholesaleinabox.com/wiabmi-stacey
+  [dry] https://www.wholesaleinabox.com/wiabmi-katie
+  [dry] https://www.wholesaleinabox.com/emails
+  [dry] https://www.wholesaleinabox.com/emailthankyou/wsmarketplacecomparison
+  [dry] https://www.wholesaleinabox.com/emailthankyou/dosanddonts
+  [dry] https://www.wholesaleinabox.com/emailthankyou/general
+  [dry] https://www.wholesaleinabox.com/emailthankyou/gyw
+  [dry] https://www.wholesaleinabox.com/community-content-pro
+  [dry] https://www.wholesaleinabox.com/our-makers
+  [dry] https://www.wholesaleinabox.com/contact
+  [dry] https://www.wholesaleinabox.com/instagram
+  [dry] https://www.wholesaleinabox.com/learn
+  [dry] https://www.wholesaleinabox.com/about
+  [dry] https://www.wholesaleinabox.com/learn-reset
+  [dry] https://www.wholesaleinabox.com/pricing
+  [dry] https://www.wholesaleinabox.com/linesheet
+  [dry] https://www.wholesaleinabox.com/communitycall
+  [dry] https://www.wholesaleinabox.com/add-coaching
+  [dry] https://www.wholesaleinabox.com/cobble
+  [dry] https://www.wholesaleinabox.com/makingfairework
+  [dry] https://www.wholesaleinabox.com/fairemyths
+  [dry] https://www.wholesaleinabox.com/deepdive-faireandmarketplaces
+  [dry] https://www.wholesaleinabox.com/deepdive-linesheets
+  [dry] https://www.wholesaleinabox.com/deepdive-growingwholesale
+  [dry] https://www.wholesaleinabox.com/deepdive-interviews
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/sales-tax-for-wholesale-sellers
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/handshake-wholesale-reviews-and-maker-tips
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/powered-by-people-wholesale-platform
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/wholesale-line-sheet-101-guide
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/what-to-put-on-your-wholesale-line-sheet-cover-page
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/what-to-do-when-a-wholesale-marketplace-closes
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/creoate-wholesale-marketplace
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/bulletin-wholesale-reviews-and-maker-tips
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/10-ways-to-grow-wholesale-with-etsy-wholesale-closing
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/make-your-wholesale-ordering-process-or-wholesale-site-easier
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/wholesale-in-a-box-on-elise-gets-crafty
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/the-owner-of-two-destination-stores-tells-us-what-every-maker-should-know
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/deciding-whether-to-email-stores-or-send-a-package-these-penguins-might-help
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/2015/12/26/our-7-favorite-new-year-planning-resources-for-makers-on-a-mission
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/2015/11/23/we-spoke-with-the-owner-of-the-most-beautiful-store-in-philadelphia-and-she-had-some-very-helpful-advice-for-makers-growing-wholesale
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/2015/11/18/why-you-may-not-get-a-sale-on-the-first-try-and-why-thats-ok
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/3-things-you-can-and-should-put-in-the-box-with-your-first-order
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/worth-doing-wholesale-outreach-in-winter
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/2015/11/18/how-to-double-the-chances-that-stores-will-open-your-email
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/our-guide-to-calling-store-owners-without-the-stress
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/supercurious-series-both-sides-of-the-counter-with-paris-woodhull
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/2026-the-year-of-curious-wholesale
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/what-we-talk-about-when-we-talk-about-profit
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/what-is-wholesale-in-a-box-a-clear-guide-for-makers-amp-independent-brands
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/wholesale-year-flow
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/qa-how-can-i-pay-wholesale-platform-commissions-and-still-make-a-profit
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/the-best-insights-of-4-years-of-store-owner-interviews
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/the-very-real-problem-with-faking-it-until-you-make-it
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/4-things-ive-learned-about-getting-more-done-and-feeling-less-frazzled
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/what-parts-of-your-story-people-actually-care-about
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/dont-hire-someone-to-be-your-best-friend-and-6-other-hiring-tips
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/simple-ways-for-makers-to-grow-wholesale-this-holiday-season-and-stay-sane-too
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/cant-make-pricing-work-for-wholesale-5-ways-around-it
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/7-easeful-things-to-do-now-for-wholesale-growth-next-year
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/10-more-self-care-sanity-tips-from-accomplished-makers
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/how-3-makers-stay-organized-sane-in-hectic-times
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/4-things-i-know-are-true-about-making-your-line-successful-extraordinary
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/2-tiny-outreach-tips-you-may-not-have-tried
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/7-lessons-learned-from-a-maker-on-their-wholesale-journey
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/makers-summit-is-magical-and-amazing-and-you-should-go
+  [dry] https://www.wholesaleinabox.com/growingsteadyblog/reflecting-on-your-sales-this-year-remember-this
+
+[blog] Marketplace Pulse
+  [marketplacepulse] sitemap: 100 url
+  +100 bai tu discover
+  [dry] http://www.marketplacepulse.com/articles/e-commerce-is-taking-share-from-stores-again
+  [dry] http://www.marketplacepulse.com/articles/sheins-localization-never-arrived
+  [dry] http://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion
+  [dry] http://www.marketplacepulse.com/articles/amazons-ai-doesnt-read-the-rankings
+  [dry] http://www.marketplacepulse.com/articles/china-won-amazons-top-10000-america-kept-its-top-100
+  [dry] http://www.marketplacepulse.com/articles/tiktok-shop-sells-personal-transformation
+  [dry] http://www.marketplacepulse.com/articles/on-tiktok-shop-1-of-sellers-drive-60-of-gmv
+  [dry] http://www.marketplacepulse.com/articles/walmart-marketplace-growth-reaches-fastest-pace-in-years
+  [dry] http://www.marketplacepulse.com/articles/e-commerces-10-quarter-was-weaker-than-it-looked
+  [dry] http://www.marketplacepulse.com/articles/amazons-least-competitive-marketplace-is-now-everywhere
+  [dry] http://www.marketplacepulse.com/articles/rufus-chatgpt-and-the-agentic-ad-convergence
+  [dry] http://www.marketplacepulse.com/articles/amazon-is-regaining-1p-unit-share
+  [dry] http://www.marketplacepulse.com/articles/how-marketplace-sellers-are-using-ai
+  [dry] http://www.marketplacepulse.com/articles/the-paradoxical-dependence-of-amazon-its-sellers
+  [dry] http://www.marketplacepulse.com/articles/the-marketplace-pulse-seller-index-results-2026
+  [dry] http://www.marketplacepulse.com/articles/top-10-e-commerce-marketplaces-in-2026
+  [dry] http://www.marketplacepulse.com/articles/amazon-haul-has-over-3000-sellers
+  [dry] http://www.marketplacepulse.com/articles/walmarts-advertising-revenue-is-outpacing-amazons
+  [dry] http://www.marketplacepulse.com/articles/amazon-and-shopify-are-now-half-of-us-e-commerce
+  [dry] http://www.marketplacepulse.com/articles/top-16-of-sellers-drive-50-of-amazons-3p-gmv
+  [dry] http://www.marketplacepulse.com/articles/amazon-gmv-surpassed-800-billion-in-2025
+  [dry] http://www.marketplacepulse.com/articles/the-10-trillion-state-of-e-commerce
+  [dry] http://www.marketplacepulse.com/articles/chatgpts-4-fee-confirms-marketplace-economics
+  [dry] http://www.marketplacepulse.com/articles/amazon-seller-registrations-hit-decade-low-in-2025
+  [dry] http://www.marketplacepulse.com/articles/a-decade-of-e-commerce-volatility-ends
+  [dry] http://www.marketplacepulse.com/articles/chinese-sellers-are-abandoning-mainland-registration
+  [dry] http://www.marketplacepulse.com/articles/walmart-advertising-grows-six-times-faster-than-sales
+  [dry] http://www.marketplacepulse.com/articles/the-great-supply-chain-reversal
+  [dry] http://www.marketplacepulse.com/articles/amazon-monetizes-the-software-layer-sellers-depend-on
+  [dry] http://www.marketplacepulse.com/articles/amazon-is-now-just-40-retail
+  [dry] http://www.marketplacepulse.com/articles/amazons-global-marketplace-opportunity
+  [dry] http://www.marketplacepulse.com/articles/additional-us-tariff-costs-exceed-100-billion
+  [dry] http://www.marketplacepulse.com/articles/death-by-valuation-the-amazon-aggregator-autopsy
+  [dry] http://www.marketplacepulse.com/articles/chatgpts-instant-checkout-is-an-instant-threat
+  [dry] http://www.marketplacepulse.com/articles/china-reaches-global-majority-on-amazon
+  [dry] http://www.marketplacepulse.com/articles/amazons-big-agentic-bet
+  [dry] http://www.marketplacepulse.com/articles/amazons-supply-centric-ai-vs-shopifys-demand-centric
+  [dry] http://www.marketplacepulse.com/articles/the-single-product-millionaire
+  [dry] http://www.marketplacepulse.com/articles/pattern-the-anti-anker
+  [dry] http://www.marketplacepulse.com/articles/e-commerce-finally-returns-to-its-covid-peak
+  [dry] http://www.marketplacepulse.com/articles/amazons-expansive-advertising-breaks-new-records
+  [dry] http://www.marketplacepulse.com/articles/amazon-makes-bad-seller-reviews-worse
+  [dry] http://www.marketplacepulse.com/articles/100000-million-dollar-amazon-sellers
+  [dry] http://www.marketplacepulse.com/articles/prime-day-now-lifts-all-of-e-commerce
+  [dry] http://www.marketplacepulse.com/articles/us-tariffs-are-not-driving-international-expansion
+  [dry] http://www.marketplacepulse.com/articles/its-prime-day-everywhere
+  [dry] http://www.marketplacepulse.com/articles/whatnot-found-live-commerces-sweet-spot
+  [dry] http://www.marketplacepulse.com/articles/amazons-longest-prime-day-and-biggest-ai-test
+  [dry] http://www.marketplacepulse.com/articles/walmart-marketplace-experiences-record-growth
+  [dry] http://www.marketplacepulse.com/articles/another-billion-dollar-creator-brand
+  [dry] http://www.marketplacepulse.com/articles/us-is-amazons-most-beginner-friendly-marketplace
+  [dry] http://www.marketplacepulse.com/articles/amazon-is-less-competitive-than-four-years-ago
+  [dry] http://www.marketplacepulse.com/articles/trump-trade-war-creates-covid-like-dynamic
+  [dry] http://www.marketplacepulse.com/articles/paradoxical-tariffs-will-benefit-chinese-sellers
+  [dry] http://www.marketplacepulse.com/articles/the-calm-before-an-inevitable-e-commerce-storm
+  [dry] http://www.marketplacepulse.com/articles/temu-and-shein-conceding-us-market-share
+  [dry] http://www.marketplacepulse.com/articles/trumps-tariffs-wont-save-american-e-commerce
+  [dry] http://www.marketplacepulse.com/articles/veteran-amazon-sellers-increasingly-dominate
+  [dry] http://www.marketplacepulse.com/articles/japan-the-last-amazon-marketplace-where-local-sellers-dominate
+  [dry] http://www.marketplacepulse.com/articles/69-of-amazon-sellers-sell-in-just-one-marketplace
+  [dry] http://www.marketplacepulse.com/articles/amazon-launches-in-ireland-as-expansion-strategy-evolves
+  [dry] http://www.marketplacepulse.com/articles/etsy-lost-14-million-active-sellers-in-a-year
+  [dry] http://www.marketplacepulse.com/articles/tiktok-shop-steps-up-european-expansion-amidst-us-uncertainties
+  [dry] http://www.marketplacepulse.com/articles/software-aggregators-thrive-while-amazon-aggregators-falter
+  [dry] http://www.marketplacepulse.com/articles/american-sellers-are-losing-walmart-to-china-too
+  [dry] http://www.marketplacepulse.com/articles/amazon-steers-third-party-seller-share-to-all-time-high
+  [dry] http://www.marketplacepulse.com/articles/chinas-de-minimis-boom-goes-bust
+  [dry] http://www.marketplacepulse.com/articles/amazon-offers-90-discount-on-some-items-on-haul
+  [dry] http://www.marketplacepulse.com/articles/amazon-draws-a-million-new-sellers-in-2024
+  [dry] http://www.marketplacepulse.com/articles/american-sellers-lost-amazon-to-china
+  [dry] http://www.marketplacepulse.com/articles/amazons-growth-persists-through-year-of-pushback
+  [dry] http://www.marketplacepulse.com/articles/tiktok-ban-will-undo-social-commerce-in-the-us
+  [dry] http://www.marketplacepulse.com/articles/marketplace-pulse-year-in-review-2024
+  [dry] http://www.marketplacepulse.com/articles/amazon-haul-demand-outstrips-supply
+  [dry] http://www.marketplacepulse.com/articles/perplexity-takes-lead-in-ai-shopping
+  [dry] http://www.marketplacepulse.com/articles/amazon-haul-delivered-a-little-more-slowly
+  [dry] http://www.marketplacepulse.com/articles/amazons-shopping-ai-is-confidently-wrong
+  [dry] http://www.marketplacepulse.com/articles/the-amazon-everyone-should-have-feared
+  [dry] http://www.marketplacepulse.com/articles/amazons-low-cost-store-requirements-and-fees
+  [dry] http://www.marketplacepulse.com/articles/target-and-shopify-teaming-up-didnt-boost-marketplace
+  [dry] http://www.marketplacepulse.com/articles/amazon-laid-the-brandless-foundation-for-temu
+  [dry] http://www.marketplacepulse.com/articles/tiktok-shops-first-year-in-the-us
+  [dry] http://www.marketplacepulse.com/articles/amazon-is-shipping-70-more-off-amazon-orders
+  [dry] http://www.marketplacepulse.com/articles/temu-now-ranks-as-worlds-no-2-e-commerce-site
+  [dry] http://www.marketplacepulse.com/articles/walmart-marketplace-grows-50-in-one-year
+  [dry] http://www.marketplacepulse.com/articles/walmart-fulfills-orders-for-two-thirds-of-its-sellers
+  [dry] http://www.marketplacepulse.com/articles/temu-starts-recruiting-us-brands
+  [dry] http://www.marketplacepulse.com/articles/e-commerce-alone-keeps-retail-sales-growing
+  [dry] http://www.marketplacepulse.com/articles/amazon-didnt-pay-tax-then-temu-doesnt-now
+  [dry] http://www.marketplacepulse.com/articles/amazon-sells-more-retail-ads-than-google
+  [dry] http://www.marketplacepulse.com/articles/amazon-discovers-lower-fees-lead-to-lower-prices
+  [dry] http://www.marketplacepulse.com/articles/1-of-us-amazon-sellers-sell-outside-the-continent
+  [dry] http://www.marketplacepulse.com/articles/amazons-unhelpful-ai-shopping-assistant
+  [dry] http://www.marketplacepulse.com/articles/amazon-and-temu-swap-strategies
+  [dry] http://www.marketplacepulse.com/articles/top-5-e-commerce-marketplaces-in-2024
+  [dry] http://www.marketplacepulse.com/articles/amazon-to-launch-a-direct-from-china-marketplace
+  [dry] http://www.marketplacepulse.com/articles/amazon-infiltrates-cannes-lions
+  [dry] http://www.marketplacepulse.com/articles/tiktok-first-1-million-shopping-livestream
+  [dry] http://www.marketplacepulse.com/articles/shopifys-shop-app-is-maybe-a-1-billion-marketplace
+  [dry] http://www.marketplacepulse.com/articles/tiktok-aims-to-create-1-billion-shopping-influencers
+
+[blog] DTC Live
+  [dtclive] sitemap: 100 url
+  +100 bai tu discover
+  [dry] https://www.dtclive.com/events/dtc-live-connect-ldn-oct
+  [dry] https://www.dtclive.com/events/dtc-live-connect-nyc
+  [dry] https://www.dtclive.com/news/how-to-force-your-ads-to-hunt-for-net-new-buyers
+  [dry] https://www.dtclive.com/news/most-of-your-website-tests-should-actually-fail
+  [dry] https://www.dtclive.com/blog/blog-dtc-lessons-2026-q4
+  [dry] https://www.dtclive.com/blog/connect-nyc-2026
+  [dry] https://www.dtclive.com/brightpearl/scaling-a-massive-catalogue-how-to-stop-drowning-in-skus
+  [dry] https://www.dtclive.com/brightpearl/what-agentic-commerce-actually-means-for-your-ecommerce-operations
+  [dry] https://www.dtclive.com/events/trends-tactics-transformation-retreat
+  [dry] https://www.dtclive.com/dtc-live-london
+  [dry] https://www.dtclive.com/conferences/connect-ldn-october-2026
+  [dry] https://www.dtclive.com/dtc-live-deep-dives
+  [dry] https://www.dtclive.com/brightpearl/reverse-logistics-how-poor-returns-management-drains-your-profit
+  [dry] https://www.dtclive.com/dtc-live-new-york
+  [dry] https://www.dtclive.com/podcast
+  [dry] https://www.dtclive.com/experiences
+  [dry] https://www.dtclive.com/contact-us
+  [dry] https://www.dtclive.com/dtc-live-manchester
+  [dry] https://www.dtclive.com/news/is-your-high-converting-ai-traffic-actually-spending-less
+  [dry] https://www.dtclive.com/brightpearl/ecommerce-cash-flow-the-gift-card-trap-and-how-to-handle-deferred-revenue
+  [dry] https://www.dtclive.com/brightpearl-by-sage-insights
+  [dry] https://www.dtclive.com/landing/why-dtc-brands-are-turning-to-wholesale
+  [dry] https://www.dtclive.com/events-calendar
+  [dry] https://www.dtclive.com/magazine/volume-2
+  [dry] https://www.dtclive.com/landing/free-whitepaper-the-operational-mandate-for-2026
+  [dry] https://www.dtclive.com/privacy-policy
+  [dry] https://www.dtclive.com/thank-you-for-your-submission
+  [dry] https://www.dtclive.com/landing/free-whitepaper-why-vcs-are-betting-on-operations-not-just-revenue
+  [dry] https://www.dtclive.com/landing/free-whitepaper-how-small-teams-are-outpacing-bigger-rivals-in-2026
+  [dry] https://www.dtclive.com/landing/surviving-the-cac-crisis
+  [dry] https://www.dtclive.com/landing/rapid-market-expansion-in-2026
+  [dry] https://www.dtclive.com/landing/back-office-systems-guide
+  [dry] https://www.dtclive.com/blog
+  [dry] https://www.dtclive.com/insider-magazine
+  [dry] https://www.dtclive.com/community-platform
+  [dry] https://www.dtclive.com/community
+  [dry] https://www.dtclive.com/news
+  [dry] https://www.dtclive.com/brand-opportunity
+  [dry] https://www.dtclive.com/sponsorship
+  [dry] https://www.dtclive.com/brand-retreats
+  [dry] https://www.dtclive.com/news/5-steps-to-protect-your-margins-across-external-marketplaces
+  [dry] https://www.dtclive.com/news/a-5-minute-audit-for-your-true-acquisition-cost
+  [dry] https://www.dtclive.com/news/a-sneak-peek-at-the-dtc-live-london-lineup
+  [dry] https://www.dtclive.com/news/are-subscription-models-in-e-commerce-worth-it
+  [dry] https://www.dtclive.com/news/are-you-asking-your-customers-to-learn-too-much
+  [dry] https://www.dtclive.com/news/are-you-free-24th-to-27th-september
+  [dry] https://www.dtclive.com/news/are-you-making-this-basic-cro-mistake-buttons-vs-links
+  [dry] https://www.dtclive.com/news/beauty-is-booming-but-are-your-conversions-keeping-up
+  [dry] https://www.dtclive.com/news/does-your-next-launch-pass-this-test
+  [dry] https://www.dtclive.com/news/dtc-live-wrapped-what-a-year-2025-has-been
+  [dry] https://www.dtclive.com/news/fancy-three-days-in-gran-canaria-with-top-brand-founders-and-leaders-this-september
+  [dry] https://www.dtclive.com/news/free-on-9th-october-and-live-in-london-weve-got-the-workshop-for-you
+  [dry] https://www.dtclive.com/news/from-dealer-to-healer-how-liam-built-full-power-cacao-and-upcoming-dtc-live-events
+  [dry] https://www.dtclive.com/news/goop-growth-how-you-can-be-a-part-of-a-game-changing-shopify-app
+  [dry] https://www.dtclive.com/news/grab-one-of-the-2-final-spots-for-the-dtc-live-gran-canaria-brand-retreat
+  [dry] https://www.dtclive.com/news/how-4-tiny-website-tweaks-unlocked-six-figures-in-monthly-revenue
+  [dry] https://www.dtclive.com/news/how-a-brand-cut-their-ad-cpa-by-36-in-90-days
+  [dry] https://www.dtclive.com/news/how-acid-running-is-building-cult-status-brand-heat
+  [dry] https://www.dtclive.com/news/how-dna-hormonal-health-turned-one-mans-hormonal-crisis-into-a-best-seller
+  [dry] https://www.dtclive.com/news/how-oatsu-turned-overnight-oats-into-an-on-the-go-breakfast-brand
+  [dry] https://www.dtclive.com/news/how-riley-built-traction-trust-and-a-ps1m-brand-from-a-garage-in-west-cork
+  [dry] https://www.dtclive.com/news/how-to-build-a-brand-teens-actually-care-about-whats-your-secret-ecommerce-growth-tip
+  [dry] https://www.dtclive.com/news/how-to-choose-the-right-layout-for-your-product-pages
+  [dry] https://www.dtclive.com/news/how-to-make-2025-your-biggest-black-friday-yet-and-how-to-multiply-assets-without-burning-more-hours
+  [dry] https://www.dtclive.com/news/is-your-brand-stuck-in-the-sea-of-sameness
+  [dry] https://www.dtclive.com/news/is-your-chatbot-secretly-killing-your-conversions
+  [dry] https://www.dtclive.com/news/now-open-speaking-applications-for-dtc-live-2026-and-our-limited-edition-magazine
+  [dry] https://www.dtclive.com/news/print-isnt-dead-and-were-proving-it-whats-worth-paying-attention-to-in-shopifys-winter-editions
+  [dry] https://www.dtclive.com/news/shopify-just-dropped-150-updates-heres-what-you-need-to-know
+  [dry] https://www.dtclive.com/news/stop-copying-competitor-tests-until-you-read-this
+  [dry] https://www.dtclive.com/news/the-400-growth-brand-born-from-high-functioning-anxiety-are-your-best-practices-backfiring
+  [dry] https://www.dtclive.com/news/the-best-peer-group-ive-ever-attended-why-the-dtc-live-brand-retreat-is-unlike-anything-else
+  [dry] https://www.dtclive.com/news/the-boldcube-guide-to-retail-scaling-what-you-need-to-know-about-data-privacy-in-e-commerce
+  [dry] https://www.dtclive.com/news/the-dtc-live-community-is-moving-to-slack-a-record-14-6b-bfcm-shopify-sales
+  [dry] https://www.dtclive.com/news/the-loophole-legacy-competitors-dont-want-you-to-know
+  [dry] https://www.dtclive.com/news/the-morning-after-the-day-before-and-what-a-day-it-was
+  [dry] https://www.dtclive.com/news/the-shopify-chatgpt-update-explained
+  [dry] https://www.dtclive.com/news/the-workshop-that-should-be-in-your-diary-and-what-most-brands-get-wrong-about-brand
+  [dry] https://www.dtclive.com/news/this-is-the-workshop-that-sets-you-up-for-2026-whether-you-join-us-in-manchester-or-london
+  [dry] https://www.dtclive.com/news/this-split-second-delay-may-be-killing-your-checkout
+  [dry] https://www.dtclive.com/news/user-vs-buyer-who-are-you-really-selling-to
+  [dry] https://www.dtclive.com/news/want-to-speak-at-dtc-live-london-how-to-win-bfcm-without-killing-your-margins
+  [dry] https://www.dtclive.com/news/what-if-your-next-big-strategy-shift-didnt-come-from-a-boardroom-but-from-a-retreat
+  [dry] https://www.dtclive.com/news/whats-silently-killing-your-conversion-rate-right-now
+  [dry] https://www.dtclive.com/news/why-dr-martens-is-trading-volume-for-value
+  [dry] https://www.dtclive.com/news/why-human-first-brands-are-winning-in-an-ai-flooded-market
+  [dry] https://www.dtclive.com/news/why-paid-memberships-are-beating-subscription-models
+  [dry] https://www.dtclive.com/news/why-ux-changes-arent-moving-conversions
+  [dry] https://www.dtclive.com/news/why-values-community-and-experiences-are-your-best-acquisition-channels
+  [dry] https://www.dtclive.com/brightpearl/what-is-a-retail-first-erp-system-and-do-you-actually-need-one
+  [dry] https://www.dtclive.com/brightpearl/how-to-get-orders-from-checkout-to-dispatch-with-zero-manual-touches
+  [dry] https://www.dtclive.com/events/deep-dive-ldn-july
+  [dry] https://www.dtclive.com/events/webinar-how-to-turn-whatsapp-into-a-shopify-revenue-engine
+  [dry] https://www.dtclive.com/brightpearl/the-2026-peak-season-operations-checklist-preparing-for-bfcm-in-july
+  [dry] https://www.dtclive.com/brightpearl/the-multichannel-selling-setup-a-pre-launch-checklist-for-tiktok-shop-walmart-and-amazon
+  [dry] https://www.dtclive.com/brightpearl/bridging-the-gap-between-shopify-and-your-accounting-software
+  [dry] https://www.dtclive.com/brightpearl/a-simple-guide-to-demand-forecasting
+  [dry] https://www.dtclive.com/brightpearl/how-to-get-your-products-recommended-by-ai
+  [dry] https://www.dtclive.com/events/deep-dive-ldn-nov
+  [dry] https://www.dtclive.com/events/deep-dive-mcr-oct
+
+[blog] Brandboom Resources
+  [brandboom] sitemap: 32 url
+  [brandboom] archive/phan trang: 35 url
+  +39 bai tu discover
+  [dry] https://www.brandboom.com/resources/5-tips-create-wholesale-line-sheet
+  [dry] https://www.brandboom.com/resources/8-secrets-retail-success
+  [dry] https://www.brandboom.com/resources/best-e-commerce-platforms
+  [dry] https://www.brandboom.com/resources/boost-sales-with-brandboom-payments
+  [dry] https://www.brandboom.com/resources/brandboom-tradeshow-guide
+  [dry] https://www.brandboom.com/resources/buying-wholesale-is-basically-a-talent--heres-how-to-get-good-at-it
+  [dry] https://www.brandboom.com/resources/capture-manage-orders
+  [dry] https://www.brandboom.com/resources/discover-the-power-of-brandboom-marketplaces-a-comprehensive-guide
+  [dry] https://www.brandboom.com/resources/everything-you-need-to-know-to-sell-wholesale
+  [dry] https://www.brandboom.com/resources/find-new-buyers-with-brandbooms-premier-wholesale-marketplace
+  [dry] https://www.brandboom.com/resources/find-perfect-buyer-fashion-line
+  [dry] https://www.brandboom.com/resources/finding-a-handshake-replacement
+  [dry] https://www.brandboom.com/resources/how-to-create-a-linesheet-template-in-brandboom
+  [dry] https://www.brandboom.com/resources/how-to-increase-your-wholesale-sales-with-brandboom
+  [dry] https://www.brandboom.com/resources/how-to-start-your-wholesale-business-in-2025-a-step-by-step-guide-2
+  [dry] https://www.brandboom.com/resources/main-character-energy-making-your-brand-stand-out-in-a-saturated-market
+  [dry] https://www.brandboom.com/resources/online-line-sheet-order-form
+  [dry] https://www.brandboom.com/resources/stocking-up-with-wholesale-smart-strategies-to-keep-inventory-moving
+  [dry] https://www.brandboom.com/resources/supercharge-your-wholesale-business
+  [dry] https://www.brandboom.com/resources/top-4-common-mistakes-of-creating-a-line-sheet
+  [dry] https://www.brandboom.com/resources/top-5-shipping-apps-small-businesses
+  [dry] https://www.brandboom.com/resources/top-5-wholesale-marketplaces-to-grow-your-business
+  [dry] https://www.brandboom.com/resources/trade-show-apps-software
+  [dry] https://www.brandboom.com/resources/trade-show-marketing-ideas
+  [dry] https://www.brandboom.com/resources/trade-show-preparation-checklist
+  [dry] https://www.brandboom.com/resources/ultimate-guide-trade-show-display-booth-ideas
+  [dry] https://www.brandboom.com/resources/what-is-a-line-sheet
+  [dry] https://www.brandboom.com/resources/what-is-linesheet-how-to-wholesale
+  [dry] https://www.brandboom.com/resources/when-to-say-no-why-not-every-wholesale-buyer-is-worth-it
+  [dry] https://www.brandboom.com/resources/wholesale-product-price-line-sheet
+  [dry] https://www.brandboom.com/resources/why-brands-love-our-shopify-integration
+  [dry] https://www.brandboom.com/resources/why-some-brands-get-repeat-orders--and-others-get-ghosted
+  [dry] Buyer Maps: See Every Store You Sell To Read more
+  [dry] Wholesale Analytics Dashboard: Performance Tracking Read more
+  [dry] Product Hotspots on Image Gallery Read more
+  [dry] Wholesale FAQs
+  [dry] Brandboom vs SparkLayer
+  [dry] Brandboom vs MarketTime
+  [dry] Brandboom vs Shopify Plus
+
+[blog] B2B Wave Wholesale Glossary
+  [b2bwave-glossary] sitemap: 100 url
+  +100 bai tu discover
+  [dry] https://www.b2bwave.com/p/10-ways-to-make-instagram-work-for-your-b2b-business
+  [dry] https://www.b2bwave.com/p/12-benefits-of-b2b-ecommerce-platforms
+  [dry] https://www.b2bwave.com/p/3-benefits-of-integrating-your-inventory-and-b2b-ecommerce-solutions
+  [dry] https://www.b2bwave.com/p/3-master-sales-techniques-for-your-wholesale-business
+  [dry] https://www.b2bwave.com/p/3-reasons-you-need-inventory-management-integrations-for-your-b2b-ecommerce-store
+  [dry] https://www.b2bwave.com/p/3-things-to-consider-when-setting-up-your-b2b-pricing-methodology
+  [dry] https://www.b2bwave.com/p/4-b2b-ecommerce-mistakes-to-avoid
+  [dry] https://www.b2bwave.com/p/4-ironclad-steps-to-a-perfect-b2b-product-launch-on-social-media
+  [dry] https://www.b2bwave.com/p/4-of-the-biggest-b2b-trends-in-2021
+  [dry] https://www.b2bwave.com/p/4-simple-customer-service-tips-wholesalers-can-use-to-increase-sales
+  [dry] https://www.b2bwave.com/p/4-steps-to-organizing-your-product-categories
+  [dry] https://www.b2bwave.com/p/4-steps-to-preparing-your-product-data-for-your-next-b2b-ecommerce-solution
+  [dry] https://www.b2bwave.com/p/4-ways-wholesalers-can-get-great-roi-with-virtual-trade-shows
+  [dry] https://www.b2bwave.com/p/5-b2b-product-photography-tips-to-make-you-look-like-a-pro
+  [dry] https://www.b2bwave.com/p/5-compelling-reasons-why-your-b2b-business-needs-a-sales-rep-app
+  [dry] https://www.b2bwave.com/p/5-growth-strategies-for-your-restaurant-supply-ecommerce-site
+  [dry] https://www.b2bwave.com/p/5-signs-your-b2b-business-is-ready-for-ecommerce
+  [dry] https://www.b2bwave.com/p/5-steps-to-developing-your-b2b-sales
+  [dry] https://www.b2bwave.com/p/6-b2b-ecommerce-strategies-to-give-your-brand-an-edge
+  [dry] https://www.b2bwave.com/p/6-components-of-a-successful-ecommerce-strategy-for-suppliers
+  [dry] https://www.b2bwave.com/p/6-essential-b2b-reports-every-wholesaler-needs
+  [dry] https://www.b2bwave.com/p/6-reasons-live-chat-dominates-customer-service-for-your-b2b-storefront
+  [dry] https://www.b2bwave.com/p/7-little-known-tricks-to-showcase-your-products-quality-online
+  [dry] https://www.b2bwave.com/p/7-metrics-every-wholesaler-should-measure-to-kick-start-sales-performance-tracking
+  [dry] https://www.b2bwave.com/p/7-strategies-for-boosting-b2b-ecommerce-sales
+  [dry] https://www.b2bwave.com/p/7-ways-wholesalers-can-grow-their-revenue-with-b2b-ecommerce
+  [dry] https://www.b2bwave.com/p/8-features-to-include-in-your-b2b-customer-portal
+  [dry] https://www.b2bwave.com/p/9-common-workflows-between-your-b2b-store-and-cloud-accounting-solution
+  [dry] https://www.b2bwave.com/p/advantages-and-disadvantages-of-b2b-ecommerce-platforms
+  [dry] https://www.b2bwave.com/p/b2b-ecommerce-how-do-i-start
+  [dry] https://www.b2bwave.com/p/b2b-ecommerce-how-it-can-save-your-business-time-and-money
+  [dry] https://www.b2bwave.com/p/b2b-ecommerce-know-how-what-to-include-in-an-order-confirmation-email
+  [dry] https://www.b2bwave.com/p/b2b-ecommerce-replatforming-key-considerations-for-success
+  [dry] https://www.b2bwave.com/p/b2b-email-marketing
+  [dry] https://www.b2bwave.com/p/b2b-platform-free-trial-6-things-you-must-evaluate
+  [dry] https://www.b2bwave.com/p/b2b-product-discounts-when-and-how-to-use-them
+  [dry] https://www.b2bwave.com/p/b2b-supply-chain-management-during-a-crisis-5-ways-to-keep-it-healthy
+  [dry] https://www.b2bwave.com/p/b2b-wave-receives-rising-star-great-user-experience-awards
+  [dry] https://www.b2bwave.com/p/b2b-wave-recognized-for-ease-of-use-customer-support-and-more-in-2025
+  [dry] https://www.b2bwave.com/p/b2b-wave-zapier-integration-save-time-with-automation-for-wholesalers
+  [dry] https://www.b2bwave.com/p/brewing-success-how-hatch-coffee-streamlines-b2b-operations-and-accelerates-payments-with-b2b-wave
+  [dry] https://www.b2bwave.com/p/building-your-wholesale-brand-on-linkedin
+  [dry] https://www.b2bwave.com/p/common-b2b-order-statuses-in-ecommerce
+  [dry] https://www.b2bwave.com/p/coterie-white-optimizes-bridal-sales-with-b2b-wave
+  [dry] https://www.b2bwave.com/p/ella-b-candles-reduces-errors-slashes-the-grunt-work-and-boosts-efficiency-with-b2b-wave
+  [dry] https://www.b2bwave.com/p/finding-the-best-b2b-ecommerce-platform-for-your-wholesale-business
+  [dry] https://www.b2bwave.com/p/from-chaos-to-clarity-a-practical-guide-to-wholesale-inventory-management
+  [dry] https://www.b2bwave.com/p/from-orders-to-loyalty-how-a-b2b-customer-portal-powers-relationships
+  [dry] https://www.b2bwave.com/p/future-proof-your-medical-supplies-business-with-a-b2b-ecommerce-solution
+  [dry] https://www.b2bwave.com/p/healthcare-companies-using-b2b-ecommerce-platforms-to-stay-ahead-of-customer-demand-amid-virus-outbreaks
+  [dry] https://www.b2bwave.com/p/how-an-online-b2b-ecommerce-store-can-help-you-streamline-customer-communications
+  [dry] https://www.b2bwave.com/p/how-b2b-invoicing-automation-saves-money-and-boosts-operational-accuracy
+  [dry] https://www.b2bwave.com/p/how-to-attract-millennial-buyers-to-your-b2b-ecommerce-store
+  [dry] https://www.b2bwave.com/p/how-to-automate-your-wholesale-order-process-without-losing-control
+  [dry] https://www.b2bwave.com/p/how-to-boost-cross-border-sales-with-ecommerce
+  [dry] https://www.b2bwave.com/p/how-to-build-a-successful-wholesale-website
+  [dry] https://www.b2bwave.com/p/how-to-create-a-powerful-sales-funnel-for-your-wholesale-business
+  [dry] https://www.b2bwave.com/p/how-to-quickly-import-product-images-to-your-online-store
+  [dry] https://www.b2bwave.com/p/how-to-start-offering-net-terms-online
+  [dry] https://www.b2bwave.com/p/how-to-streamline-b2b-order-management-for-efficiency
+  [dry] https://www.b2bwave.com/p/how-to-use-personalisation-to-boost-sales-in-your-b2b-ecommerce-storefront
+  [dry] https://www.b2bwave.com/p/how-wholesalers-can-boost-sales-rep-productivity-with-a-crm
+  [dry] https://www.b2bwave.com/p/how-wholesalers-can-stand-out-in-a-crowded-virtual-trade-show
+  [dry] https://www.b2bwave.com/p/integrating-b2b-ecommerce-with-accounting-solutions-what-it-is-and-why-it-matters
+  [dry] https://www.b2bwave.com/p/leverage-social-media-for-your-wholesale-business-with-5-expert-tips
+  [dry] https://www.b2bwave.com/p/leverage-the-power-of-twitter-for-your-b2b-business
+  [dry] https://www.b2bwave.com/p/master-product-privacy-on-your-online-b2b-store-with-these-5-proven-practices
+  [dry] https://www.b2bwave.com/p/mastering-payment-integrations-for-your-b2b-ecommerce-platform
+  [dry] https://www.b2bwave.com/p/onboard-customers-b2b-portal
+  [dry] https://www.b2bwave.com/p/online-resistant-b2b-buyers-how-to-convert-them-to-ecommerce
+  [dry] https://www.b2bwave.com/p/product-descriptions
+  [dry] https://www.b2bwave.com/p/product-update-ach-payments-order-editing-permissions-improved-sales-reps-portal-and-more
+  [dry] https://www.b2bwave.com/p/product-update-avalara-integration-better-imports-for-your-customers-api-updates-and-more
+  [dry] https://www.b2bwave.com/p/product-update-edi-integration-credit-limits-for-customers-improved-site-loading-time-and-more
+  [dry] https://www.b2bwave.com/p/product-update-handshake-and-quickbooks-improvements-better-quotes-and-new-dear-inventory-integration
+  [dry] https://www.b2bwave.com/p/product-update-improved-mobile-app-quote-design-captcha-on-forms-updated-quickbooks-desktop-integration-and-more
+  [dry] https://www.b2bwave.com/p/product-update-improved-storefront-user-interface-custom-currency-on-order-exports-detailed-error-reports-for-xero-quickbooks-and-more
+  [dry] https://www.b2bwave.com/p/product-update-improved-unsubmitted-orders-and-customer-search-default-privacy-group-for-new-customers-and-more
+  [dry] https://www.b2bwave.com/p/product-update-mobile-ordering-app-update-speed-improvements-expanding-the-shopify-and-quickbooks-intergrations-and-more
+  [dry] https://www.b2bwave.com/p/product-update-more-flexibility-through-the-api-and-the-shopify-integration-customizable-interface-terms-and-more
+  [dry] https://www.b2bwave.com/p/product-update-new-features-for-sales-reps-better-order-filtering-updated-inventory-integrations
+  [dry] https://www.b2bwave.com/p/product-update-veeqo-integration-two-factor-authentication-simpler-quick-ordering-and-more
+  [dry] https://www.b2bwave.com/p/product-updates-april-2020
+  [dry] https://www.b2bwave.com/p/product-updates-august-2019
+  [dry] https://www.b2bwave.com/p/product-updates-december-2019
+  [dry] https://www.b2bwave.com/p/product-updates-january-february-2020
+  [dry] https://www.b2bwave.com/p/product-updates-july-2019
+  [dry] https://www.b2bwave.com/p/product-updates-june-2019
+  [dry] https://www.b2bwave.com/p/product-updates-march-2020
+  [dry] https://www.b2bwave.com/p/product-updates-may-2019
+  [dry] https://www.b2bwave.com/p/product-updates-november-2019
+  [dry] https://www.b2bwave.com/p/product-updates-october-2019
+  [dry] https://www.b2bwave.com/p/product-updates-september-2019
+  [dry] https://www.b2bwave.com/p/reach-new-customers-and-grow-your-b2b-business-globally-with-multi-currency-price-lists
+  [dry] https://www.b2bwave.com/p/rooted-in-tradition-powered-by-tech-how-east-coast-tropicals-drives-90-of-b2b-orders-online-with-b2b-wave-y12jw
+  [dry] https://www.b2bwave.com/p/selling-to-businesses-and-consumers-reasons-to-keep-your-b2b-and-b2c-ecommerce-stores-separate
+  [dry] https://www.b2bwave.com/p/sources-increase-product-catalog
+  [dry] https://www.b2bwave.com/p/still-using-pdf-order-forms-stay-ahead-of-the-competition-with-online-wholesale-ordering
+  [dry] https://www.b2bwave.com/p/switching-b2b-ecommerce
+  [dry] https://www.b2bwave.com/p/the-2026-wholesale-website-checklist-what-modern-b2b-buyers-expect-from-your-online-store
+
+[blog] ENDVR B2B Platforms
+  [endvr] sitemap: 100 url
+  +100 bai tu discover
+  [dry] https://endvr.io/resources/case-studies/dragon-alliance
+  [dry] https://endvr.io/resources/case-studies/wps
+  [dry] https://endvr.io/resources/case-studies/otis-eyewear
+  [dry] https://endvr.io/resources/case-studies/mountain-hardwear
+  [dry] https://endvr.io/resources/videos/endvr-rep-app-webinar
+  [dry] https://endvr.io/resources/videos/smarter-seasonal-transitions-summer-webinar
+  [dry] https://endvr.io/resources/videos/active-lifestyle-brands-powering-growth-2025
+  [dry] https://endvr.io/resources/videos/winning-the-retail-floor-winter-brands-2025
+  [dry] https://endvr.io/resources/videos/adapting-to-change-growth-strategies-outdoor-brands
+  [dry] https://endvr.io/resources/videos/bigger-wholesale-wins-repspark-endvr
+  [dry] https://endvr.io/resources/videos/unlocking-store-floor-potential-reps
+  [dry] https://endvr.io/resources/videos/burton-endvr-fireside-chat-wholesale-revenue
+  [dry] https://endvr.io/resources/videos/digitize-wholesale-2024-boost-revenue
+  [dry] https://endvr.io/resources/videos/maximize-wholesale-channel-2024-key-actions
+  [dry] https://endvr.io/resources/videos/endvr-demo-day
+  [dry] https://endvr.io/resources/videos/brands-training-webinar-jan-2024
+  [dry] https://endvr.io/resources/videos/rep-training-webinar-jan-2024
+  [dry] https://endvr.io/resources/videos/retailers-training-webinar-nov-2023
+  [dry] https://endvr.io/resources/videos/brand-reps-drive-adoption-preview
+  [dry] https://endvr.io/resources/videos/self-signup-explainer-brand-admins
+  [dry] https://endvr.io/resources/videos/new-app-tour
+  [dry] https://endvr.io/resources/videos/brand-dashboard-walkthrough
+  [dry] https://endvr.io/resources/videos/how-to-build-a-campaign
+  [dry] https://endvr.io/resources/videos/how-to-build-a-mission
+  [dry] https://endvr.io/resources/videos/how-to-sign-up
+  [dry] https://endvr.io/resources/videos/how-to-submit-multiple-receipts
+  [dry] https://endvr.io/resources/videos/rewards-activity
+  [dry] https://endvr.io/resources/videos/refer-and-earn
+  [dry] https://endvr.io/resources/videos/cash-out-canada
+  [dry] https://endvr.io/resources/videos/cash-out-us
+  [dry] https://endvr.io/resources/videos/cash-out-international
+  [dry] https://endvr.io/resources/videos/proof-of-employment-update
+  [dry] https://endvr.io/resources/videos/invite-admins
+  [dry] https://endvr.io/resources/wholesale-tech-stack-for-brands
+  [dry] https://endvr.io/resources/best-b2b-wholesale-platforms-for-brands
+  [dry] https://endvr.io/resources/how-to-structure-retail-incentive-rewards
+  [dry] https://endvr.io/resources/how-to-motivate-retail-associates-to-sell-your-brand
+  [dry] https://endvr.io/resources/best-retail-training-platforms-for-brands
+  [dry] https://endvr.io/resources/how-to-train-retail-sales-associates
+  [dry] https://endvr.io/resources/best-sales-incentive-platforms-for-retail-brands
+  [dry] https://endvr.io/resources/how-to-run-a-spiff-program-in-retail
+  [dry] https://endvr.io/resources/how-to-improve-sell-through-in-retail
+  [dry] https://endvr.io/resources/prepare-your-staff-for-the-holiday-shopping-season-with-digital-training
+  [dry] https://endvr.io/resources/wholesale-wave-of-growth-for-brands
+  [dry] https://endvr.io/resources/black-fridays-secret-weapon
+  [dry] https://endvr.io/resources/how-brands-are-measuring-roi
+  [dry] https://endvr.io/resources/endvr-partners-with-protect-our-winters
+  [dry] https://endvr.io/resources/the-power-of-well-timed-product-recommendation
+  [dry] https://endvr.io/resources/how-sports-brands-are-powering-growth-through-wholesale
+  [dry] https://endvr.io/resources/pop-efforts-merch
+  [dry] https://endvr.io/resources/how-outdoor-brands-can-make-the-most-of-the-trends-in-the-second-half-of-2025
+  [dry] https://endvr.io/resources/back-to-school-product-knowledge-basics
+  [dry] https://endvr.io/resources/rep-visits-that-stick
+  [dry] https://endvr.io/resources/the-shop-floor-hero
+  [dry] https://endvr.io/resources/redefining-rep-visits-to-drive-real-store-impact
+  [dry] https://endvr.io/resources/boost-mid-season-sales
+  [dry] https://endvr.io/resources/how-endvrs-new-sales-rep-app-helps-you-show-up-smarter-every-store-every-visit
+  [dry] https://endvr.io/resources/what-staff-wish-every-brand-knew
+  [dry] https://endvr.io/resources/associates-survey-transform-brands
+  [dry] https://endvr.io/resources/sales-start-with-people-display
+  [dry] https://endvr.io/resources/associates-know-dashboards-dont
+  [dry] https://endvr.io/resources/store-floor-about-brand-support
+  [dry] https://endvr.io/resources/personalized-associate-engagement
+  [dry] https://endvr.io/resources/the-strategy-that-replaced-uncertainty
+  [dry] https://endvr.io/resources/the-untapped-power-of-retail-sales-associates
+  [dry] https://endvr.io/resources/from-hesitation-to-purchase
+  [dry] https://endvr.io/resources/brands-are-doubling-down-in-store
+  [dry] https://endvr.io/resources/bringing-digital-precision-to-in-store-sales-by-tracking-monetizing-associate-impact
+  [dry] https://endvr.io/resources/investing-in-training-no-brainer
+  [dry] https://endvr.io/resources/what-motivates-sales-associates-to-perform
+  [dry] https://endvr.io/resources/say-hello-to-self-sign-up
+  [dry] https://endvr.io/resources/the-circular-economy-resale-is-fueling-retail-growth
+  [dry] https://endvr.io/resources/the-power-of-gamification-for-driving-long-term-sales-success
+  [dry] https://endvr.io/resources/navigate-higher-prices-in-a-cautious-economy
+  [dry] https://endvr.io/resources/the-power-of-visual-merchandising
+  [dry] https://endvr.io/resources/sustainable-gear-taking-over-outdoor-retail
+  [dry] https://endvr.io/resources/how-to-optimize-your-brands-presence-in-b2c-stores-2
+  [dry] https://endvr.io/resources/urban-outdoor-style-blending-city-life-with-adventure-wear
+  [dry] https://endvr.io/resources/outdoor-recreation-industry-economic-growth-jobs
+  [dry] https://endvr.io/resources/new-ways-to-incentivize-rsa
+  [dry] https://endvr.io/resources/using-data-analytics-to-drive-personalized-shopping-experiences
+  [dry] https://endvr.io/resources/predicting-trends-in-the-sports-retail-industry-insights-for-2025
+  [dry] https://endvr.io/resources/celebrating-the-holiday-spirit-highlights-from-the-2024-season
+  [dry] https://endvr.io/resources/reflecting-on-an-incredible-year-endvrs-2024-highlights
+  [dry] https://endvr.io/resources/dtcs-reality-check-why-wholesale-is-back-in-the-spotlight
+  [dry] https://endvr.io/resources/holiday-gifting-habits-generational-shifts-in-retail
+  [dry] https://endvr.io/resources/why-undecided-shoppers-are-your-greatest-opportunity
+  [dry] https://endvr.io/resources/creating-a-seamless-omnichannel-experience-for-cyber-monday
+  [dry] https://endvr.io/resources/black-friday-tech-solutions-to-optimize-inventory-management
+  [dry] https://endvr.io/resources/navigating-the-shift-how-outdoor-brands-embrace-fashion-trends
+  [dry] https://endvr.io/resources/maximizing-brand-visibility-in-stores-during-the-holiday-rush
+  [dry] https://endvr.io/resources/from-online-to-in-store-locally-and-endvrs-partnersh
+  [dry] https://endvr.io/resources/2024-holiday-retail-trends-endvrs-playbook
+  [dry] https://endvr.io/resources/building-better-retail-habits
+  [dry] https://endvr.io/resources/the-power-of-partnership-the-role-of-brand-retailer-collaboration
+  [dry] https://endvr.io/resources/b2c-and-b2b-blog
+  [dry] https://endvr.io/resources/how-brands-like-columbia-salomon-and-vuori-regain-influence-over-in-store-sales
+  [dry] https://endvr.io/resources/why-your-brand-should-embrace-the-back-to-school-season
+  [dry] https://endvr.io/resources/dtc-wholesale-omnichannel-are-intertwined-3-strategies-to-stay-ahead
+  [dry] https://endvr.io/resources/the-benefits-for-brands-digital-solutions-for-sales-associates
+
+[blog] Retail TouchPoints
+  [retailtouchpoints] bi chan (sitemap): BLOCKED 403 -> bo site
+  +0 bai tu discover
+
+[blog] RetailWire BrainTrust
+  [retailwire] sitemap: 1 url
+  [retailwire] archive/phan trang: 2 url
+  +2 bai tu discover
+  [dry] https://retailwire.com/braintrust/
+  [dry] New! Jumpmind
+
+[blog] CommerceNext
+  [commercenext] sitemap: 100 url
+  +100 bai tu discover
+  [dry] https://community.commercenext.com/wpa-stats-type/chrome/
+  [dry] https://community.commercenext.com/wpa-stats-type/macintosh/
+  [dry] https://community.commercenext.com/wpa-stats-type/view/
+  [dry] https://community.commercenext.com/wpa-stats-type/windows/
+  [dry] https://community.commercenext.com/wpa-stats-type/linux/
+  [dry] https://community.commercenext.com/about/
+  [dry] https://community.commercenext.com/sponsor/
+  [dry] https://community.commercenext.com/wpa-stats-type/firefox/
+  [dry] https://community.commercenext.com/speaker/emily-culp-advisor/
+  [dry] https://community.commercenext.com/wpa-stats-type/event/
+  [dry] https://community.commercenext.com/speaker/sreeharsha-upadhyayul/
+  [dry] https://community.commercenext.com/speaker/carolyn-pollock/
+  [dry] https://community.commercenext.com/speaker/vivian-chang-2/
+  [dry] https://community.commercenext.com/speaker/anddria-varnado/
+  [dry] https://community.commercenext.com/speaker/steven-young/
+  [dry] https://community.commercenext.com/upcoming-events/
+  [dry] https://community.commercenext.com/wpa-stats-type/iphone/
+  [dry] https://community.commercenext.com/wpa-stats-type/safari/
+  [dry] https://community.commercenext.com/speaker/lauren-price-advisor/
+  [dry] https://community.commercenext.com/speaker/qun-wei/
+  [dry] https://community.commercenext.com/speaker/noam-paransky-3/
+  [dry] https://community.commercenext.com/speaker/matt-gehring/
+  [dry] https://community.commercenext.com/speaker/sarah-rasmusen-4/
+  [dry] https://community.commercenext.com/speaker/chris-hardisty/
+  [dry] https://community.commercenext.com/speaker/michael-lackman/
+  [dry] https://community.commercenext.com/speaker/brian-seewald-2/
+  [dry] https://community.commercenext.com/speaker/naomi-jacobs/
+  [dry] https://community.commercenext.com/speaker/noam-paransky-2/
+  [dry] https://community.commercenext.com/speaker/bree-casart/
+  [dry] https://community.commercenext.com/speaker/cindy-marshall-advisor/
+  [dry] https://community.commercenext.com/speaker/david-cost-2/
+  [dry] https://community.commercenext.com/speaker/julie-evans/
+  [dry] https://community.commercenext.com/speaker/suruchi-shukla-3/
+  [dry] https://community.commercenext.com/speaker/shawna-hausman/
+  [dry] https://community.commercenext.com/speaker/shawnahausman/
+  [dry] https://community.commercenext.com/speaker/ekta-chopra-2/
+  [dry] https://community.commercenext.com/privacy-policy/
+  [dry] https://community.commercenext.com/contact-us/
+  [dry] https://community.commercenext.com/speaker/kacey-sharrett/
+  [dry] https://community.commercenext.com/speaker/craig-brommers/
+  [dry] https://community.commercenext.com/speaker/andrew-tweed/
+  [dry] https://community.commercenext.com/speaker/stuart-hogue-advisor/
+  [dry] https://community.commercenext.com/speak/
+  [dry] https://community.commercenext.com/commercenext-reception-at-manifest/
+  [dry] https://community.commercenext.com/speaker/tobias-ring-advisor/
+  [dry] https://community.commercenext.com/speaker/geoff-sanders/
+  [dry] https://community.commercenext.com/speaker/liesel-walsh/
+  [dry] https://community.commercenext.com/speaker/roshan-varma/
+  [dry] https://community.commercenext.com/wpa-stats-type/android/
+  [dry] https://community.commercenext.com/wpa-stats-type/opera/
+  [dry] https://community.commercenext.com/early-access/
+  [dry] https://community.commercenext.com/speaker/jeff-hamm/
+  [dry] https://community.commercenext.com/speaker/derek-yarbrough/
+  [dry] https://community.commercenext.com/in-market-dinners/
+  [dry] https://community.commercenext.com/podcast/
+  [dry] https://community.commercenext.com/speaker/joe-megibow/
+  [dry] https://community.commercenext.com/speaker/farzana-nasser-advisor/
+  [dry] https://community.commercenext.com/speaker/jason-nickel/
+  [dry] https://community.commercenext.com/speaker/pano-anthos-advisor/
+  [dry] https://community.commercenext.com/speaker/lev-peker/
+  [dry] https://community.commercenext.com/speaker/leslie-emmons-burthey/
+  [dry] https://community.commercenext.com/speaker/keri-mcghee/
+  [dry] https://community.commercenext.com/speaker/katherinemonasebian/
+  [dry] https://community.commercenext.com/speaker/jeremy-swift/
+  [dry] https://community.commercenext.com/speaker/jason-blom/
+  [dry] https://community.commercenext.com/speaker/doug-jensen-advisor/
+  [dry] https://community.commercenext.com/speaker/dana-schwartz/
+  [dry] https://community.commercenext.com/who-attends/
+  [dry] https://community.commercenext.com/speaker/michael-krans/
+  [dry] https://community.commercenext.com/speaker/christian-fiorelli/
+  [dry] https://community.commercenext.com/speaker/matt-dunphy/
+  [dry] https://community.commercenext.com/speaker/jamie-egan/
+  [dry] https://community.commercenext.com/speaker/jeffery-fisher/
+  [dry] https://community.commercenext.com/speaker/amera-khalil-2/
+  [dry] https://community.commercenext.com/speaker/stacie-henderson/
+  [dry] https://community.commercenext.com/speaker/rabah-rahil/
+  [dry] https://community.commercenext.com/speaker/sharon-gee-2/
+  [dry] https://community.commercenext.com/speaker/colin-burke/
+  [dry] https://community.commercenext.com/speaker/joe-yakuel-2/
+  [dry] https://community.commercenext.com/speaker/jade-simon/
+  [dry] https://community.commercenext.com/early-access-thank-you/
+  [dry] https://community.commercenext.com/speaker/patrick-jenkinson/
+  [dry] https://community.commercenext.com/speaker/eddie-patzsch/
+  [dry] https://community.commercenext.com/speaker/kira-henson/
+  [dry] https://community.commercenext.com/speaker/debjani-deb/
+  [dry] https://community.commercenext.com/speaker/taz-patel/
+  [dry] https://community.commercenext.com/speaker/owen-spencer/
+  [dry] https://community.commercenext.com/speaker/jeanelle-teves/
+  [dry] https://community.commercenext.com/speaker/sandy-jeong/
+  [dry] https://community.commercenext.com/speaker/lyndapak/
+  [dry] https://community.commercenext.com/speaker/suparanashokeen/
+  [dry] https://community.commercenext.com/speaker/jon-kosoff-2/
+  [dry] https://community.commercenext.com/speaker/abby-deyoung/
+  [dry] https://community.commercenext.com/speaker/finn-freas/
+  [dry] https://community.commercenext.com/speaker/ashleyschapiro/
+  [dry] https://community.commercenext.com/speaker/michael-eldridge/
+  [dry] https://community.commercenext.com/speaker/ajay-dhaul/
+  [dry] https://community.commercenext.com/speaker/danny-smith/
+  [dry] https://community.commercenext.com/speaker/ashye-marcus/
+  [dry] https://community.commercenext.com/speaker/gilad-shriki/
+
+[blog] The Traide Blog
+  [thetraide] sitemap: 95 url
+  [thetraide] archive/phan trang: 5 url
+  +99 bai tu discover
+  [dry] https://www.thetraide.com/blog/5-myths-about-the-b2b-marketplace-tech-stack
+  [dry] https://www.thetraide.com/blog/are-marketplaces-the-new-search-engines
+  [dry] https://www.thetraide.com/blog/b2b-commerce-the-true-economic-powerhouse
+  [dry] https://www.thetraide.com/blog/b2b-dropshipping-guide
+  [dry] https://www.thetraide.com/blog/b2b-marketplace-development
+  [dry] https://www.thetraide.com/blog/b2b-marketplace-metrics
+  [dry] https://www.thetraide.com/blog/b2b-multi-vendor-marketplace
+  [dry] https://www.thetraide.com/blog/b2b-payment-trends
+  [dry] https://www.thetraide.com/blog/best-marketplace-integrations
+  [dry] https://www.thetraide.com/blog/best-practices-for-operating-a-marketplace-in-logistics
+  [dry] https://www.thetraide.com/blog/books-for-marketplace-founders
+  [dry] https://www.thetraide.com/blog/build-on-a-marketplace-platform
+  [dry] https://www.thetraide.com/blog/building-trust-on-your-multivendor-marketplace
+  [dry] https://www.thetraide.com/blog/buy-vs-build
+  [dry] https://www.thetraide.com/blog/canvvs
+  [dry] https://www.thetraide.com/blog/change-management-digital-transformation-strategies
+  [dry] https://www.thetraide.com/blog/communication-when-operating-a-multi-vendor-marketplace
+  [dry] https://www.thetraide.com/blog/companies-leveraging-the-multi-vendor-marketplace-model
+  [dry] https://www.thetraide.com/blog/cost-of-building-marketplace-website
+  [dry] https://www.thetraide.com/blog/distributor-commerce
+  [dry] https://www.thetraide.com/blog/dropshipping-taxes-distributors
+  [dry] https://www.thetraide.com/blog/dropshipping-vs-marketplaces
+  [dry] https://www.thetraide.com/blog/ecommerce-growth-strategies
+  [dry] https://www.thetraide.com/blog/effective-vendor-onboarding-process
+  [dry] https://www.thetraide.com/blog/essential-b2b-marketplace-features
+  [dry] https://www.thetraide.com/blog/food-and-beverage-distributors-marketplace
+  [dry] https://www.thetraide.com/blog/get-vendors-to-marketplace
+  [dry] https://www.thetraide.com/blog/headless-ecommerce-platforms
+  [dry] https://www.thetraide.com/blog/how-buyer-expectations-are-evolving-b2b
+  [dry] https://www.thetraide.com/blog/how-companies-are-successfully-leveraging-b2b-marketplace-models
+  [dry] https://www.thetraide.com/blog/how-marketplaces-use-ai
+  [dry] https://www.thetraide.com/blog/how-not-to-build-an-online-marketplace
+  [dry] https://www.thetraide.com/blog/how-the-unbundling-of-marketplaces-is-redefining-ecommerce
+  [dry] https://www.thetraide.com/blog/how-to-build-your-marketplace-front-end
+  [dry] https://www.thetraide.com/blog/how-to-find-vendors-for-your-multivendor-marketplace
+  [dry] https://www.thetraide.com/blog/how-to-launch-a-marketplace-in-under-90-days
+  [dry] https://www.thetraide.com/blog/improve-marketplace-search-ai
+  [dry] https://www.thetraide.com/blog/increase-business-revenue-customer-reach
+  [dry] https://www.thetraide.com/blog/indie-food
+  [dry] https://www.thetraide.com/blog/interested-in-joining-a-startup-heres-what-you-should-know
+  [dry] https://www.thetraide.com/blog/interview-brian-beck
+  [dry] https://www.thetraide.com/blog/interview-isaiah-bollinger
+  [dry] https://www.thetraide.com/blog/interview-jason-hein
+  [dry] https://www.thetraide.com/blog/key-marketplace-statistics
+  [dry] https://www.thetraide.com/blog/live-product-demo-how-to-launch-a-marketplace-with-the-traide
+  [dry] https://www.thetraide.com/blog/marketplace-best-practices
+  [dry] https://www.thetraide.com/blog/marketplace-development
+  [dry] https://www.thetraide.com/blog/marketplace-experts-you-need-to-follow
+  [dry] https://www.thetraide.com/blog/marketplace-funding
+  [dry] https://www.thetraide.com/blog/marketplace-marketing-strategies
+  [dry] https://www.thetraide.com/blog/marketplace-org-structure
+  [dry] https://www.thetraide.com/blog/marketplace-payments-guide
+  [dry] https://www.thetraide.com/blog/marketplace-seller-aspenclean
+  [dry] https://www.thetraide.com/blog/marketplace-seller-june-child-ceramics
+  [dry] https://www.thetraide.com/blog/marketplace-shipping-options
+  [dry] https://www.thetraide.com/blog/marketplace-strategy
+  [dry] https://www.thetraide.com/blog/marketplace-strategy-for-distributors-webinar-blog-recap
+  [dry] https://www.thetraide.com/blog/marketplaces-powering-circular-economy
+  [dry] https://www.thetraide.com/blog/marketplacification-interview-ian-heller
+  [dry] https://www.thetraide.com/blog/maximizing-marketplace-margins
+  [dry] https://www.thetraide.com/blog/mcfadyen-digital-and-nautical-commerce-partner
+  [dry] https://www.thetraide.com/blog/meet-nautical-commerce-the-multi-vendor-marketplace-platform
+  [dry] https://www.thetraide.com/blog/monetize-your-multi-vendor-marketplace
+  [dry] https://www.thetraide.com/blog/multi-vendor-payment-orchestration
+  [dry] https://www.thetraide.com/blog/multi-vendor-shopping-cart
+  [dry] https://www.thetraide.com/blog/multivendor-marketplace
+  [dry] https://www.thetraide.com/blog/multivendor-marketplace-models
+  [dry] https://www.thetraide.com/blog/multivendor-marketplace-mvp
+  [dry] https://www.thetraide.com/blog/multivendor-marketplace-platform
+  [dry] https://www.thetraide.com/blog/nautical-commerce-featured-in-mcfadyen-suite-spot-report
+  [dry] https://www.thetraide.com/blog/nautical-commerce-named-2023-cb-insights-retail-tech-100-list
+  [dry] https://www.thetraide.com/blog/nautical-commerce-partners-with-avalara-to-automate-tax-compliance
+  [dry] https://www.thetraide.com/blog/nautical-commerce-raises-30m-to-scale-multi-vendor-marketplace-technology
+  [dry] https://www.thetraide.com/blog/nautical-commerce-wins-shoptalk-pitch-competition
+  [dry] https://www.thetraide.com/blog/new-study-provides-blueprint-for-building-and-scaling-marketplaces
+  [dry] https://www.thetraide.com/blog/online-marketplace-development-company
+  [dry] https://www.thetraide.com/blog/optimizing-marketplace-vendor-payouts
+  [dry] https://www.thetraide.com/blog/pim-ecommerce-multi-vendor-business
+  [dry] https://www.thetraide.com/blog/powering-the-future-of-ecommerce-introducing-the-traide-2
+  [dry] https://www.thetraide.com/blog/press-auto-hauler-exchange-launches-new-online-marketplace
+  [dry] https://www.thetraide.com/blog/the-business-case-for-b2b-marketplaces
+  [dry] https://www.thetraide.com/blog/the-fastest-growing-companies-leverage-the-marketplace-model-heres-why-you-should-too
+  [dry] https://www.thetraide.com/blog/the-future-of-ecommerce-retail-trends
+  [dry] https://www.thetraide.com/blog/top-ecommerce-podcasts
+  [dry] https://www.thetraide.com/blog/top-ecommerce-trends-for-distributors
+  [dry] https://www.thetraide.com/blog/top-marketplace-software
+  [dry] https://www.thetraide.com/blog/traide-acquires-nautical-commerce
+  [dry] https://www.thetraide.com/blog/unify-multibrand-business
+  [dry] https://www.thetraide.com/blog/us-companies-avanade-nautical-commerce-twilio-dealpath-plot-canadian-expansions
+  [dry] https://www.thetraide.com/blog/validating-the-marketplace-model-distributors
+  [dry] https://www.thetraide.com/blog/vendor-management-best-practices
+  [dry] https://www.thetraide.com/blog/vet-marketplace-vendors
+  [dry] https://www.thetraide.com/blog/what-distributors-and-wholesalers-need-to-know-about-the-b2b-marketplace-model
+  [dry] https://www.thetraide.com/blog/what-it-takes-to-be-a-venturebackable-marketplace
+  [dry] https://www.thetraide.com/blog/your-marketplace-plumbing-isnt-unique-its-your-buying-experience-that-matters
+  [dry] Build a Marketplace Get your marketplace off the ground
+  [dry] Expand Assortment Grow beyond your catalog offerings
+  [dry] Enable Sellers Streamline multi-vendor operations
+  [dry] Library Templates, reports, ebooks
+
+[blog] NFX Network Effects Manual
+  [nfx] sitemap: 100 url
+  +100 bai tu discover
+  [dry] https://nfx.com/post/new-mindset-product-market-fit
+  [dry] https://nfx.com/post/building-strong-companies-the-no-politics-rule
+  [dry] https://nfx.com/post/eugene-wei
+  [dry] https://nfx.com/post/is-blockchain-really-over
+  [dry] https://nfx.com/post/announcing-new-general-partner-morgan-beller
+  [dry] https://nfx.com/post/3-reasons-why-nfx-is-investing-in-setter
+  [dry] https://nfx.com/post/good-vs-great-companies
+  [dry] https://nfx.com/post/founders-list-win-in-downturns
+  [dry] https://nfx.com/post/the-nfx-marketplace-scorecard
+  [dry] https://nfx.com/post/nir-eyal
+  [dry] https://nfx.com/post/proptech-massive-opportunity
+  [dry] https://nfx.com/post/reid-hoffman-network-effects-interview-james-currier
+  [dry] https://nfx.com/post/reinforcement-building-iconic-tech-companies
+  [dry] https://nfx.com/post/token-investing
+  [dry] https://nfx.com/post/the-brief
+  [dry] https://nfx.com/post/product-market-fit
+  [dry] https://nfx.com/post/3-reasons-why-nfx-invested-in-radius
+  [dry] https://nfx.com/post/how-vcs-see-your-kpis
+  [dry] https://nfx.com/post/reality-distortion-field
+  [dry] https://nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem
+  [dry] https://nfx.com/post/announcing-vc-match
+  [dry] https://nfx.com/post/why-startup-timing-is-everything
+  [dry] https://nfx.com/post/ladder-of-proof
+  [dry] https://nfx.com/post/network-effects-bible
+  [dry] https://nfx.com/post/introducing-mammoth-biosciences
+  [dry] https://nfx.com/post/network-effects-facebook
+  [dry] https://nfx.com/post/how-its-built-nea-nfx-on-the-15-5-million-series-a-in-lyric
+  [dry] https://nfx.com/post/entropy
+  [dry] https://nfx.com/post/real-identity
+  [dry] https://nfx.com/post/slingshots
+  [dry] https://nfx.com/post/the-nfx-of-trulia-building-a-3-5-billion-marketplace
+  [dry] https://nfx.com/post/behind-the-houzz-acquisition-of-ivymark
+  [dry] https://nfx.com/post/network-effects-manual
+  [dry] https://nfx.com/post/the-network-effects-map-nfx-case-study-uber
+  [dry] https://nfx.com/post/announcing-the-new-nfx
+  [dry] https://nfx.com/post/70-percent-value-network-effects
+  [dry] https://nfx.com/post/10-years-about-market-networks
+  [dry] https://nfx.com/post/defensibility-most-value-for-founders
+  [dry] https://nfx.com/post/where-to-invest-network-effects
+  [dry] https://nfx.com/post/signal-to-fix-fundraising
+  [dry] https://nfx.com/post/your-company-name-matters
+  [dry] https://nfx.com/post/trulia-founder-flint-joins-nfx
+  [dry] https://nfx.com/post/network-effects-alive-and-thriving
+  [dry] https://nfx.com/post/taking-eventbrite-public-julia-kevin-hartz
+  [dry] https://nfx.com/post/why-founders-should-take-more-risk
+  [dry] https://nfx.com/post/c2i-worlds-first-platform-for-cancer-intelligence
+  [dry] https://nfx.com/post/investing-in-scientist-founders-from-the-beginning
+  [dry] https://nfx.com/post/difference-between-biotech-and-techbio
+  [dry] https://nfx.com/post/the-founder-list-strategy-letter-i-joel-spolsky
+  [dry] https://nfx.com/post/the-founder-list-15-annoying-things-vcs-say-or-ask-elizabeth-yin
+  [dry] https://nfx.com/post/the-founder-list-aligning-vectors-dharmesh-shah
+  [dry] https://nfx.com/post/media-marketplaces
+  [dry] https://nfx.com/post/how-vcs-judge-your-startup-on-zoom
+  [dry] https://nfx.com/post/why-your-work-matters
+  [dry] https://nfx.com/post/frameworks
+  [dry] https://nfx.com/post/how-ceos-think-mental-models-shift-founder-to-ceo
+  [dry] https://nfx.com/post/product-thinking-slack-twitter-april-underwood
+  [dry] https://nfx.com/post/frameworks-using-diversity-to-win
+  [dry] https://nfx.com/post/34-questions-remote-work-recruiting
+  [dry] https://nfx.com/post/how-contrarians-think-with-keith-rabois
+  [dry] https://nfx.com/post/24-ways-b2b-marketplace
+  [dry] https://nfx.com/post/superhuman-product-frameworks
+  [dry] https://nfx.com/post/3-reasons-why-nfx-is-investing-in-la-haus
+  [dry] https://nfx.com/post/second-time-founders-win-avoid-common-mistakes
+  [dry] https://nfx.com/post/second-time-founders-manual
+  [dry] https://nfx.com/post/vc-founder-sentiment-survey-part-2
+  [dry] https://nfx.com/post/labor-marketplaces
+  [dry] https://nfx.com/post/insider-story-houseparty
+  [dry] https://nfx.com/post/next-social-era
+  [dry] https://nfx.com/post/whiteboard-founders-guide-taking-advice
+  [dry] https://nfx.com/post/start-playing-offense
+  [dry] https://nfx.com/post/learning-organizations-survive
+  [dry] https://nfx.com/post/whiteboard-strong-startup-ceo
+  [dry] https://nfx.com/post/whiteboard-what-are-network-effects
+  [dry] https://nfx.com/post/new-rules-growth-profitability
+  [dry] https://nfx.com/post/nuvocargo
+  [dry] https://nfx.com/post/the-great-reset-reid-hoffman
+  [dry] https://nfx.com/post/fast-announcement
+  [dry] https://nfx.com/post/david-sacks-nfx-podcast
+  [dry] https://nfx.com/post/psychology-winning-founders-downturns
+  [dry] https://nfx.com/post/the-vc-startup-sentiment-survey
+  [dry] https://nfx.com/post/28-moves-survive-thrive-downturn
+  [dry] https://nfx.com/post/leading-startups-through-uncertainty
+  [dry] https://nfx.com/post/guide-founder-advice
+  [dry] https://nfx.com/post/truth-about-data-network-effects
+  [dry] https://nfx.com/post/raise-venture-capital-top-tier-vcs
+  [dry] https://nfx.com/post/mammoth-bio-platform-network-effects-gene-editing
+  [dry] https://nfx.com/post/founders-startup-risk-types
+  [dry] https://nfx.com/post/your-life-network-effects
+  [dry] https://nfx.com/post/4-signs-founder-market-fit
+  [dry] https://nfx.com/post/14th-network-effect-expertise
+  [dry] https://nfx.com/post/billion-dollar-marketplace-thumbtack
+  [dry] https://nfx.com/post/3-reasons-why-nfx-investing-modus
+  [dry] https://nfx.com/post/founders-list-elon-musk
+  [dry] https://nfx.com/post/16-fundraising-lessons
+  [dry] https://nfx.com/post/kevin-kelly-nfx-podcast
+  [dry] https://nfx.com/post/what-vcs-dont-see-why-were-bullish-on-gaming-startups
+  [dry] https://nfx.com/post/4-signs-world-class-team
+  [dry] https://nfx.com/post/top-founders-network-effects-scott-cook
+  [dry] https://nfx.com/post/founders-list-nir-eyal
+
+[blog] a16z Marketplace 100
+  [a16z-marketplace100] sitemap: 0 url
+  [a16z-marketplace100] archive/phan trang: 18 url
+  +18 bai tu discover
+  [dry] X
+  [dry] last year&rsquo;s ranking
+  [dry] live-shopping
+  [dry] Temu
+  [dry] past versions
+  [dry] Marketplaces and Network Effects
+  [dry] The Marketplace Glossary
+  [dry] Required Reading for Marketplace Entrepreneurs
+  [dry] 13 Metrics for Marketplace Companies
+  [dry] Four Paths to Marketplace Success
+  [dry] Managing Tensions in Online Marketplaces
+  [dry] The Marketplace Rules
+  [dry] Online Marketplaces and Network Effects
+  [dry] Building Community Marketplaces
+  [dry] 5 Questions, 25 CEOs: The Marketplace Exec Survey
+  [dry] 8 Things to Consider When Building Managed Marketplace Companies
+  [dry] GMV Retention: The Marketplace Metric Most Ignore
+  [dry] Platforms vs. Verticals and the Next Great Unbundling
+
+[blog] Version One Ventures Resources
+  [versionone] sitemap: 1 url
+    fallback loi long tren trang goc: 5 link
+  [versionone] archive/phan trang: 5 url
+  +6 bai tu discover
+  [dry] https://versionone.vc/resources/
+  [dry] People
+  [dry] Core Beliefs
+  [dry] Portfolio
+  [dry] Blog
+  [dry] Subscribe to our blog
+
+[blog] Above the Crowd (Bill Gurley)
+  [abovethecrowd] sitemap: 100 url
+  +100 bai tu discover
+  [dry] https://abovethecrowd.com/2025/11/02/i-wrote-a-book/
+  [dry] https://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/
+  [dry] https://abovethecrowd.com/2022/11/28/venture-capital-red-flag-checklist/
+  [dry] https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/
+  [dry] https://abovethecrowd.com/2021/06/03/customers-love-free-stuff-but-thats-not-your-problem/
+  [dry] https://abovethecrowd.com/2015/02/25/investors-beware/
+  [dry] https://abovethecrowd.com/2009/10/29/google-redefines-disruption-the-less-than-free-business-model/
+  [dry] https://abovethecrowd.com/2010/11/15/silicon-valleys-ipo-anxiety/
+  [dry] https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/
+  [dry] https://abovethecrowd.com/2017/11/15/the-ezra-klein-show-vc-bill-gurley-on-transforming-health-care/
+  [dry] https://abovethecrowd.com/2019/02/27/money-out-of-nowhere-how-internet-marketplaces-unlock-economic-wealth/
+  [dry] https://abovethecrowd.com/1998/08/17/internet-investors-beware-of-the-proxy-valuation/
+  [dry] https://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/
+  [dry] https://abovethecrowd.com/2003/04/23/dot-com-double-take/
+  [dry] https://abovethecrowd.com/2014/01/24/on-bubbles/
+  [dry] https://abovethecrowd.com/2003/08/21/much-ado-about-options/
+  [dry] https://abovethecrowd.com/2011/09/14/on-ipos-if-you-are-going-to-file-make-sure-you-price/
+  [dry] https://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/
+  [dry] https://abovethecrowd.com/1999/10/18/the-rising-importance-of-the-great-art-of-storytelling/
+  [dry] https://abovethecrowd.com/2018/07/09/benchmarks-newest-general-partner-chetan-puttagunta/
+  [dry] https://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/
+  [dry] https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/
+  [dry] https://abovethecrowd.com/2018/04/19/the-thing-i-love-most-about-uber/
+  [dry] https://abovethecrowd.com/2017/12/18/customer-first-healthcare/
+  [dry] https://abovethecrowd.com/2017/09/06/thinking-of-home-dickinson-texas/
+  [dry] https://abovethecrowd.com/2017/05/09/benchmarks-new-general-partner-sarah-tavel/
+  [dry] https://abovethecrowd.com/2015/07/07/in-defense-of-the-deck/
+  [dry] https://abovethecrowd.com/2015/05/04/be-like-dave/
+  [dry] https://abovethecrowd.com/2015/01/30/ubers-new-bhag-uberpool/
+  [dry] https://abovethecrowd.com/2014/07/23/meet-benchmarks-new-partner-eric-vishria/
+  [dry] https://abovethecrowd.com/2014/06/24/welcoming-jason-kilar-richard-tom-and-the-vessel-team-to-the-benchmark-family/
+  [dry] https://abovethecrowd.com/2014/06/18/disrupting-finance-from-above-wealthfront/
+  [dry] https://abovethecrowd.com/2014/05/28/hackerone-a-superior-solution-for-solving-web-vulnerabilities/
+  [dry] https://abovethecrowd.com/2014/03/11/a-deeper-look-at-ubers-dynamic-pricing-model/
+  [dry] https://abovethecrowd.com/2013/10/17/stitch-fix-reinventing-retail-through-personalization/
+  [dry] https://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited/
+  [dry] https://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all/
+  [dry] https://abovethecrowd.com/2013/07/17/transitioning-to-a-mobile-centric-world/
+  [dry] https://abovethecrowd.com/2013/05/20/grubhub-and-seamless-effecting-the-elusive-private-private-merger/
+  [dry] https://abovethecrowd.com/2012/12/26/favorite-longreads-of-2012/
+  [dry] https://abovethecrowd.com/2012/11/13/our-most-recent-marketplace-investment-dogvacay-from-los-angeles/
+  [dry] https://abovethecrowd.com/2012/06/25/social-mobile-local-local-will-be-the-biggest-of-the-three/
+  [dry] https://abovethecrowd.com/2012/04/27/intuit-to-acquire-demandforce-for-424mm/
+  [dry] https://abovethecrowd.com/2012/04/19/my-life-with-bing/
+  [dry] https://abovethecrowd.com/2012/03/26/why-youth-has-an-advantage-in-innovation-why-you-want-to-be-a-learn-it-all/
+  [dry] https://abovethecrowd.com/2012/02/23/why-dropbox-is-a-major-disruption/
+  [dry] https://abovethecrowd.com/2012/02/01/why-facebook-clearly-belongs-in-the-10x-revenue-club/
+  [dry] https://abovethecrowd.com/2012/01/05/thinking-about-diets-and-other-complex-matters/
+  [dry] https://abovethecrowd.com/2011/11/15/you-dont-have-to-tweet-to-twitter/
+  [dry] https://abovethecrowd.com/2011/10/09/steves-jobs-remarkable-value-creation/
+  [dry] https://abovethecrowd.com/2011/09/18/understanding-why-netflix-changed-pricing/
+  [dry] https://abovethecrowd.com/2011/03/24/freight-train-that-is-android/
+  [dry] https://abovethecrowd.com/2010/07/15/on-google-growth-pricing-power-and-valuation-multiples/
+  [dry] https://abovethecrowd.com/2010/07/08/googles-acquires-ita-will-deeper-vertical-integration-lead-to-higher-revenues/
+  [dry] https://abovethecrowd.com/2010/04/28/affiliate-fees-make-the-world-go-round/
+  [dry] https://abovethecrowd.com/2010/02/08/virtual-goods-accounting-and-the-power-of-the-rental-model/
+  [dry] https://abovethecrowd.com/2010/01/05/android-or-iphone-wrong-question/
+  [dry] https://abovethecrowd.com/2009/09/29/want-to-know-more-about-the-future-of-internet-tv-lets-look-to-korea/
+  [dry] https://abovethecrowd.com/2009/08/24/what-is-really-happening-to-the-venture-capital-industry/
+  [dry] https://abovethecrowd.com/2009/08/20/a-real-time-free-vs-fee-example-rosetta-stone-vs-livemocha/
+  [dry] https://abovethecrowd.com/2009/08/04/more-ipo-news-ancestry-com-files-s-1/
+  [dry] https://abovethecrowd.com/2009/07/29/counter-point-to-calacanis-on-yahoo-microsoft-deal/
+  [dry] https://abovethecrowd.com/2009/07/27/i-do-not-believe-that-zappos-was-forced-to-sell/
+  [dry] https://abovethecrowd.com/2009/07/15/bill-gurley-on-the-free-business-model/
+  [dry] https://abovethecrowd.com/2009/06/08/amazons-aws-strategy-becomes-clearer-every-day/
+  [dry] https://abovethecrowd.com/2009/06/02/a-really-interesting-online-education-company-in-korea-megastudy/
+  [dry] https://abovethecrowd.com/2009/06/01/bill-gurleys-comments-on-the-ipo-market-on-cnbc/
+  [dry] https://abovethecrowd.com/2009/05/29/will-apple-make-an-actual-television-makes-sense-to-me/
+  [dry] https://abovethecrowd.com/2009/05/10/bill-gurleys-online-video-market-snapshot/
+  [dry] https://abovethecrowd.com/2009/05/08/second-life-second-most-played-pc-title-1-in-minutesuser/
+  [dry] https://abovethecrowd.com/2009/05/02/swine-flu-overreaction-more-costly-than-the-virus-itself/
+  [dry] https://abovethecrowd.com/2009/03/26/note-to-timothy-geithner-do-startups-venture-capitalists-really-need-more-regulation/
+  [dry] https://abovethecrowd.com/2009/03/09/how-to-monetize-a-social-network-myspace-and-facebook-should-follow-tencent/
+  [dry] https://abovethecrowd.com/2009/03/02/looking-for-work-are-you-an-insurance-agent/
+  [dry] https://abovethecrowd.com/2009/02/27/perfect-online-video-advertising-model-choose-your-advertiser/
+  [dry] https://abovethecrowd.com/2009/02/22/just-say-no-to-a-vc-bailout-part-2/
+  [dry] https://abovethecrowd.com/2009/02/18/just-say-no-to-a-vc-bailout-a-green-government-venture-fund-is-a-flawed-idea/
+  [dry] https://abovethecrowd.com/2009/02/11/picture-proof-of-the-innovators-dilemma-sliderocket/
+  [dry] https://abovethecrowd.com/2009/02/01/google-stock-option-re-pricing-get-over-it/
+  [dry] https://abovethecrowd.com/2008/12/05/do-vcs-help-in-building-a-technology-platform-part-2/
+  [dry] https://abovethecrowd.com/2008/12/01/benchmark-capital-open-for-business/
+  [dry] https://abovethecrowd.com/2008/07/22/bailout-what/
+  [dry] https://abovethecrowd.com/2008/06/30/bleak-vc-quarter-why/
+  [dry] https://abovethecrowd.com/2008/06/19/back-to-blogging-maybe/
+  [dry] https://abovethecrowd.com/2006/07/12/techdirt-the-fake-broadband-price-war/
+  [dry] https://abovethecrowd.com/2006/04/27/44/
+  [dry] https://abovethecrowd.com/2006/04/25/as-wifi-grows-so-do-the-pr-attacks/
+  [dry] https://abovethecrowd.com/2006/04/05/why-sox-will-lead-to-the-demise-of-us-markets/
+  [dry] https://abovethecrowd.com/2005/07/22/wifi-nation/
+  [dry] https://abovethecrowd.com/2005/07/19/do-vcs-help-in-building-a-technology-platform/
+  [dry] https://abovethecrowd.com/2005/07/12/dvd-glut/
+  [dry] https://abovethecrowd.com/2005/06/23/pro-broadband-muni-issue-goes-national/
+  [dry] https://abovethecrowd.com/2005/06/02/texas-sets-key-precedent-for-other-states-in-refusing-to-ban-municipal-wireless/
+  [dry] https://abovethecrowd.com/2005/03/24/texas-two-step-backwards/
+  [dry] https://abovethecrowd.com/2005/03/21/the-state-of-texas-refuses-to-block-municipal-broadband/
+  [dry] https://abovethecrowd.com/2005/03/11/believe-it-or-not-your-state-leaders-may-be-acting-to-slow-the-proliferation-of-broadband/
+  [dry] https://abovethecrowd.com/2004/10/19/the-revolutionary-business-of-multiplayer-gaming/
+  [dry] https://abovethecrowd.com/2004/05/06/entrepreneurialism-and-protectionism-dont-mix/
+  [dry] https://abovethecrowd.com/2004/03/24/all-things-ip-the-future-of-communications-in-america/
+  [dry] https://abovethecrowd.com/2004/02/02/the-rise-of-open-standard-radio-why-80211-is-under-hyped/
+
+
+xong: 0 ok, 0 loi. state: /Volumes/SamDisk/ecommerce-research-academy/corpus/state-blogs.json

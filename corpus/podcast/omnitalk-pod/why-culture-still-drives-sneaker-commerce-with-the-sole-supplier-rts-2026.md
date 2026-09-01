@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/sole-supplier-george"
+title: "Why Culture Still Drives Sneaker Commerce with The Sole Supplier | RTS 2026"
+date: "Thu, 23 Apr 2026 18:12:00 -0400"
+fetched: "2026-08-29T12:00:53.577Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live at Retail Technology Show 2026 in London from the Vusion podcast studio, Chris Walton caught up with George Sullivan, CEO & Founder of The Sole Supplier, to unpack why culture still sits at the center of sneaker and streetwear commerce.George shares how a personal obsession with sneakers turned into one of the UK’s leading platforms for discovering and buying footwear, and why staying true to the culture has been critical to scaling the business. From working with global brands like Nike and Adidas to turning down opportunities that don’t resonate with their audience, authenticity remains the foundation.The conversation dives into how The Sole Supplier is evolving into a social commerce platform, blending content, community, and commerce into one personalized experience. George also breaks down how AI is impacting the space, where it adds value, and why human inspiration will always be at the core of fashion.Key Topics Covered:• How The Sole Supplier grew from sneaker aggregation to cultural platform• Why authenticity and editorial independence drive long-term success• The shift toward social commerce and community-led discovery• How personalization is shaping the next phase of the app experience• Where AI fits into fashion, content, and performance marketing• Why human inspiration still matters more than automation in style• The risks of overusing AI-generated content in brand building• How rising ad costs are forcing brands to rethink creative strategy• Why niche communities are the future of social and commerceThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026! That's a wrap.#RTS2026 #RetailTechnologyShow #OmniTalkRetail #SneakerCulture #Streetwear #SocialCommerce #RetailInnovation #CustomerExperience #AIinRetail #FutureOfRetailThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

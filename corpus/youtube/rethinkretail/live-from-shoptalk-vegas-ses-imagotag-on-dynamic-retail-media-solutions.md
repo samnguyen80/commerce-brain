@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=XAz29yYrloU"
+title: "Live from ShopTalk Vegas: SES-imagotag on Dynamic Retail Media Solutions"
+video_id: "XAz29yYrloU"
+fetched: "2026-08-29T12:42:32.164Z"
+via: "yt-caption"
+---
+
+[Music] we're here to introduce basically the concept of in-store retail media retail media is like the biggest craze right now but how do you land retail media in store and here we're introducing one of our Concepts uh which is basically the digital end cap and what we're featuring here is basically three rails that can be controlled remotely from anywhere and that allows the the retailer to help upsell their product but also more importantly the brands to really promote and tell the story so some of the trends that we're seeing in shelf talker I I think I'd come back to the fact that it's retail media retail media retail media and everybody's trying to say well how do you monetize or take advantage of the football uh in the physical store what we're trying to do is to harness the information that's available in the store through uh cameras through what I call the the Just Dance sensor and then um so we we understand who's coming in the aisle we understand what's on the shelf and we're providing content to complement and drive decision making on the Shelf as Shoppers are walking by the most important thing is you want the brands to be able to understand their marketing spend in the store right now when they put something in the store they don't know where it goes it's hard to measure you put in a shelf talker at the shelf and then you don't know what happens to it until you get the the POS data at the very end but in the store we want to enable that that same Fidelity information and then allow basically the the brands to compare my my return on ad spend for on-site and compare that against that ad spend in the store and to have not only just who actually bought but all the data that that you need which is like dwell stop you know uh count Direction all that good stuff I I think it's super important to note that we're all in the same boat right the retailers and Brands they're all trying to help the consumer make the right decision by having the right medium and the right content at the right time and then hopefully through us then we can help achieve that foreign

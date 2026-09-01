@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/cotswold-outdoor-ceo-on-building-better-stores-and-winning-in-outdoor-retail-rts-2026"
+title: "Cotswold Outdoor CEO on Building Better Stores and Winning in Outdoor Retail | RTS 2026"
+date: "Wed, 22 Apr 2026 10:35:00 -0400"
+fetched: "2026-08-29T12:00:53.581Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live at Retail Technology Show 2026 in London from the Vusion podcast studio, Chris Walton sits down with Jamie Kristow, CEO of Cotswold Outdoor Group, to discuss how the company is modernizing specialty outdoor retail through service, store innovation, and retail media.Jamie shares how Cotswold Outdoor is leveraging its expertise-led store model to help customers shop confidently for premium outdoor gear, while also transforming the in-store experience through new formats, digital screens, and smarter merchandising. He explains how the company improved performance through sharper assortments, stronger availability, and a renewed focus on value.The conversation also explores what it really takes to launch an in-store retail media network, why stores remain essential for high-consideration purchases, and how AI is reshaping pricing, search, and the future customer journey.Key Topics Covered:• Why service and expert advice still matter in specialty retail• How Cotswold Outdoor created its “store of the future” concept• Using retail media to engage shoppers and support brand partners• Reducing SKU complexity while increasing availability and sales• How sharper pricing strategy improved competitiveness• The difference between online convenience shoppers and mission-driven store shoppers• Why outdoor retail requires confidence, fit, and trust• How AI is changing pricing, search behavior, and customer acquisition• What retailers must learn as consumers shift away from traditional searchThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026, and thank you to our listeners for joining us during the event.#RTS2026 #RetailTechnologyShow #OmniTalkRetail #CotswoldOutdoor #RetailMedia #StoreOfTheFuture #OutdoorRetail #RetailInnovation #AIinRetail #VusionThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

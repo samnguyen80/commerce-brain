@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=bmmTfkusYR4"
+title: "Live from eTail West 2023: Snowflake on Mobilizing the World's Data"
+video_id: "bmmTfkusYR4"
+fetched: "2026-08-29T12:41:56.358Z"
+via: "yt-caption"
+---
+
+[Music] we're here at etail West and in the atmosphere has been so much fun we've had such great conversations and it's such a relaxed and fun environment I feel like everyone's just here having a blast getting to know each other again kind of re-emerging into the conference atmosphere boy Brands and retailers are facing a lot of challenges today and we're talking with a lot of them about e-commerce and operating in this new world in an omnichannel world and then there's this whole thing around retail media that is becoming quite big and it's a top of the conversation for a lot of companies in the space one of the major topics of conversation that we're seeing is the conversation around customer data and cdps snowflake is is here to help support from a foundational infrastructure perspective really just making sure that organizations can access their customer data enrich their customer data and then activate on it from a you know foundational data layer perspective how is snowflake uniquely fit to kind of help this retailer and the retail space right now you know on top of removing and eliminating data silos you know we have this network of Partners many of which are here at etel West who really help to connect both the technology to the data and enable our retailers to activate on top of whatever those Solutions look like whether they be supply chain whether they be e-commerce and customer focused more you know readily available you know data in and of itself snowflake as a platform you know kind of creates this data connection and partnership connection that enables retailers to solve some of their major problems if you're wondering what snowflake is about you can go check us out right away and start getting your data teams and your data science teams using Snowflake and you'll find that it's a huge simplification over what they might be experiencing today and if you're a current customer or a current partner tons of which are in the room today thank you and want to see you continue to grow in this tough environment [Music] foreign

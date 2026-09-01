@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/marks-spencer-chairman-archie-norman-on-truth-turnarounds-and-leading-change-rts-2026"
+title: "Marks & Spencer Chairman Archie Norman on Truth Turnarounds and Leading Change | RTS 2026"
+date: "Thu, 23 Apr 2026 14:32:00 -0400"
+fetched: "2026-08-29T12:00:53.578Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live at Retail Technology Show 2026 in London, Chris Walton is honored to talk with Archie Norman, Chairman of Marks & Spencer, about what it really takes to lead a successful business turnaround in today’s retail environment.Archie shares why struggling organizations often create internal narratives that mask reality, and explains how transformation begins by confronting the “unvarnished truth.” He outlines the importance of listening to frontline employees, rebuilding trust across the organization, and creating a culture where honesty unlocks energy for change.Drawing on decades of leadership experience, he also breaks down why urgency and patience must coexist in any turnaround, and how empowering teams at every level drives long-term progress.The conversation also explores the evolving role of AI in retail, not as an immediate profit driver, but as a force that is reshaping how leaders access information, make decisions, and increase transparency across their organizations.Key Topics Covered:• Why failing businesses develop narratives that hide the truth • The role of frontline insight in driving real transformation • Why culture change requires both urgency and time • The importance of leadership honesty and decisive action • How to build an engaged and effective board • Why AI is transforming knowledge access and decision-making • The growing impact of transparency across organizations • Why strong data foundations are critical for AI successThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026! #RTS2026 #RetailTechnologyShow #OmniTalkRetail #RetailLeadership #BusinessTransformation #AIinRetail #RetailStrategy #CorporateGovernance #VusionThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

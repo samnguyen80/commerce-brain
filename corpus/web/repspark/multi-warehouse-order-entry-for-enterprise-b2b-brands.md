@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/real-time-multi-warehouse-order-entry-for-b2b"
 title: "Multi-Warehouse Order Entry for Enterprise B2B Brands"
 date: "Wed, 19 Aug 2026 14:02:06 GMT"
-fetched: "2026-08-29T11:19:24.916Z"
+fetched: "2026-08-29T12:37:01.708Z"
 via: "http-rss"
 ---
 

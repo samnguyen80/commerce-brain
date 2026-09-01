@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/confessions-of-supply-chain-executives-the-end-of-inventory-guesswork"
+title: "Confessions Of Supply Chain Executives | The End Of Inventory Guesswork"
+date: "Mon, 06 Jul 2026 09:00:00 -0400"
+fetched: "2026-08-29T12:00:53.550Z"
+via: "shownotes-thin"
+---
+
+In this episode of Confessions Of Supply Chain Executives, host Chris Walton sits down with Amir Khoshniyati, Vice President at Wiliot, and Kay Irwin, National Practice Lead for Connected Assets & Smart Supply Chain at AT&T, to explore one of the biggest unsolved challenges in retail: inventory visibility.Despite decades of investment in supply chain technology, most retailers still struggle to know exactly where inventory is at any given moment. Products move through warehouses, distribution centers, trucks, and stores with significant blind spots along the way, creating costly inefficiencies, spoilage, shrink, and lost sales.Amir and Kay explain how the emerging concept of Physical AI combines real-world sensing, connectivity, and artificial intelligence to create continuous visibility across the supply chain. From tracking reusable assets and monitoring freshness to preventing misrouted shipments and improving inventory accuracy, they break down how retailers can move from reactive operations to predictive decision-making.The conversation also explores why technology may no longer be the biggest barrier to adoption and why organizational alignment could be the real challenge standing in the way.Key topics covered:• What Physical AI actually means and why it matters• Why retailers still struggle with inventory visibility• How AI turns supply chain data into predictive insights• The hidden costs of supply chain blind spots• Reducing spoilage, shrink, and misrouted shipments• How real-time sensing improves inventory accuracy• The role connectivity plays in scaling Physical AI• Why organizational change is harder than technology adoption• The five biggest supply chain use cases retailers should evaluate today• A practical 30-day action plan for supply chain leadersMusic by hooksounds.comSponsored ContentThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

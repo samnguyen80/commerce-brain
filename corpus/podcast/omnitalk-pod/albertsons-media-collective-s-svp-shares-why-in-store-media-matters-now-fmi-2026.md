@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/albertsons-media-collectives-svp-shares-why-in-store-media-matters-now-fmi-2026"
+title: "Albertsons Media Collective’s SVP Shares Why In-Store Media Matters Now | FMI 2026"
+date: "Fri, 23 Jan 2026 08:00:00 -0400"
+fetched: "2026-08-29T12:00:53.604Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from FMI 2026 at the Simbe booth, Chris Walton and Anne Mezzenga sit down with Brian Monahan, SVP of Albertsons Media Collective, to discuss how retail media is evolving and why in store media is emerging as the next major growth frontier.Brian shares his background across Walmart, Pinterest, Dentsu, and now Albertsons, and explains why retail media is far from a bubble. The conversation explores how first party data, authenticated shoppers, and trip based insights are reshaping how brands measure performance and drive growth across grocery retail.The discussion also dives into Albertsons Media Collective approach to collective growth, the competitive realities of operating as a challenger retail media network, and why local banner equity creates differentiated value for brand partners. Brian outlines why in store media represents the third leg of the retail media stool and how connecting the shopper journey from couch to checkout will define the next phase of retail media innovation heading into 2026.Key Topics CoveredHow retail media is evolving beyond sponsored adsWhy first party data and authenticated shoppers matterThe role of trip based insights in driving brand growthAlbertsons Media Collective approach to collective growthCompeting as a challenger retail media networkWhy in store media is the next major retail media unlockConnecting off site, on site, and in store media touchpointsWhere in store media stands on the adoption curve heading into 2026Stay tuned to Omni Talk Retail for continued coverage from FMI 2026, and be sure to visit the Simbe booth, #118, in the FMI Tech section.#FMI2026 #Albertsons #RetailMedia #InStoreMedia #GroceryRetail #RetailTechnology #RetailLeadership #OmniTalkThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

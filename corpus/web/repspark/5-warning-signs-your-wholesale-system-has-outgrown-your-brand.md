@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/5-warning-signs-your-wholesale-system-has-outgrown-your-brand"
 title: "5 Warning Signs Your Wholesale System Has Outgrown Your Brand"
 date: "Wed, 26 Aug 2026 14:01:36 GMT"
-fetched: "2026-08-29T11:18:25.552Z"
+fetched: "2026-08-29T12:36:12.416Z"
 via: "http-rss"
 ---
 

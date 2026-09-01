@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/wholesale-fashion-trends-recap-what-sold-at-market-this-august"
 title: "Wholesale Fashion Trends Recap, What Sold at Market This August"
 date: "Tue, 18 Aug 2026 13:48:46 GMT"
-fetched: "2026-08-29T11:19:56.354Z"
+fetched: "2026-08-29T12:37:26.317Z"
 via: "http-rss"
 ---
 

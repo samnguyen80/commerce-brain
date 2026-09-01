@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://www.retaildive.com/news/build-a-bear-chief-growth-officer-fired-earnings-sales-miss/828944/"
 title: "Build-A-Bear fires chief growth officer as earnings fall flat"
 date: "Thu, 27 Aug 2026 12:07:00 -0400"
-fetched: "2026-08-29T11:22:47.589Z"
+fetched: "2026-08-29T12:55:55.751Z"
 via: "http-rss"
 ---
 
@@ -1023,7 +1023,7 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Adeline Kon/Retail Dive
 
  
  
@@ -1033,17 +1033,19 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
 
  
  
+
+ Tracker
 
  
 
 ### 
  
- As 2026 kicks off, these retailers are vulnerable to bankruptcy
+ The running list of retail deals in 2026
  
  
 
  
- As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
+ In the first half of the year, Etsy sold Depop, Reformation filed for an IPO and Bed Bath & Beyond made a slew of acquisitions.
 
  
  
@@ -1051,12 +1053,12 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
- By Cara Salpini •
+ By Retail Dive Staff •
  
  
  
 
- Feb. 17, 2026 
+ July 8, 2026 
 
  
 
@@ -1081,7 +1083,7 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Scott Olson via Getty Images
 
  
  
@@ -1107,12 +1109,12 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ 6 retail trends to watch in 2026
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ From pricing dynamics to the shifting state of malls, here are the trends we&rsquo;ve got our eye on in 2026.
 
  
  
@@ -1120,12 +1122,12 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
- By Daphne Howland •
+ By Retail Dive Staff •
  
  
  
 
- April 15, 2026 
+ Jan. 8, 2026 
 
  
 
@@ -1261,6 +1263,36 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
+ Purple Drop Wins a 2026 Shelfie Award as America Falls for Peru’s Chicha Morada
+ 
+
+ 
+ 
+ 
+ From Purple Drop
+
+ August 26, 2026
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
  Bridge Launches $500M Direct Lending Fund to Finance Suppliers of America&#x27;s Largest Retailers
  
 
@@ -1298,36 +1330,6 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  From Seel
-
- August 19, 2026
-
- 
-
- 
- 
-
- 
- 
- 
- 
- 
-
- 
-
- 
-
- 
- 
- 
- 
- 
- Keonn and Impinj Automate Retail Store Operations with Real-Time Item Visibility Using Gen2X
- 
-
- 
- 
- 
- From Impinj
 
  August 19, 2026
 
@@ -1394,7 +1396,7 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Permission granted by Tecovas
 
  
  
@@ -1403,29 +1405,18 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
 
  
- 
-
- 
- 
- 
- 
- Deep Dive
- 
- 
- 
-
  
 
  
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ 6 brands to watch in 2026
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ From Mango to Cyklar, legacy and emerging brands alike are leaning on physical retail to win over customers.
 
  
  
@@ -1433,12 +1424,12 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
- By Daphne Howland •
+ By Caroline Jansen •
  
  
  
 
- April 15, 2026 
+ Feb. 17, 2026 
 
  
 
@@ -1463,7 +1454,7 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
- Scott Olson via Getty Images
+ Courtesy of Allbirds
 
  
  
@@ -1472,29 +1463,18 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
 
  
- 
-
- 
- 
- 
- 
- Deep Dive
- 
- 
- 
-
  
 
  
 
 ### 
  
- 6 retail trends to watch in 2026
+ Why Allbirds is eating crow
  
  
 
  
- From pricing dynamics to the shifting state of malls, here are the trends we&rsquo;ve got our eye on in 2026.
+ The DTC footwear brand may have overestimated its customers&rsquo; appreciation for sustainability, and underappreciated their desire for fashion.
 
  
  
@@ -1502,12 +1482,12 @@ Build-A-Bear fires chief growth officer as earnings fall flat | Retail Dive
  
  
  
- By Retail Dive Staff •
+ By Daphne Howland •
  
  
  
 
- Jan. 8, 2026 
+ April 20, 2026 
 
  
 

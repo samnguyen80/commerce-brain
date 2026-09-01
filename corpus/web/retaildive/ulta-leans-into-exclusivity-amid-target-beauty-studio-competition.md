@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://www.retaildive.com/news/ulta-leans-into-exclusivity-q2/829056/"
 title: "Ulta leans into exclusivity amid Target Beauty Studio competition"
 date: "Fri, 28 Aug 2026 11:27:00 -0400"
-fetched: "2026-08-29T11:22:27.949Z"
+fetched: "2026-08-29T12:55:32.863Z"
 via: "http-rss"
 ---
 
@@ -1008,7 +1008,7 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Kaarin Moore/Retail Dive
 
  
  
@@ -1023,12 +1023,12 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
 
 ### 
  
- As 2026 kicks off, these retailers are vulnerable to bankruptcy
+ Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way
  
  
 
  
- As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
+ The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
  
  
@@ -1036,12 +1036,19 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- By Cara Salpini •
+ By Daphne Howland •
  
  
  
 
- Feb. 17, 2026 
+ 
+ 
+ 
+ 
+ Updated July 2, 2026
+ 
+ 
+ 
 
  
 
@@ -1066,7 +1073,7 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Joe Raedle via Getty Images
 
  
  
@@ -1092,12 +1099,12 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ In the home sector, ‘the weak will get weaker’ this year
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ Retailers in the category face a poor housing market, elevated interest rates, low consumer confidence and ever-changing tariff policies.
 
  
  
@@ -1105,12 +1112,12 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- By Daphne Howland •
+ By Caroline Jansen •
  
  
  
 
- April 15, 2026 
+ March 10, 2026 
 
  
 
@@ -1216,15 +1223,15 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- Doba Pilot Adds Walmart and TikTok Shop Product Listing, Proactive Shipping Alerts
+ Bridge Launches $500M Direct Lending Fund to Finance Suppliers of America&#x27;s Largest Retailers
  
 
  
  
  
- From Doba, Inc
+ From Bridge
 
- August 27, 2026
+ August 26, 2026
 
  
 
@@ -1379,7 +1386,7 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Kaarin Moore/Retail Dive
 
  
  
@@ -1394,12 +1401,12 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
 
 ### 
  
- As 2026 kicks off, these retailers are vulnerable to bankruptcy
+ Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way
  
  
 
  
- As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
+ The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
  
  
@@ -1407,12 +1414,19 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- By Cara Salpini •
+ By Daphne Howland •
  
  
  
 
- Feb. 17, 2026 
+ 
+ 
+ 
+ 
+ Updated July 2, 2026
+ 
+ 
+ 
 
  
 
@@ -1437,7 +1451,7 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Joe Raedle via Getty Images
 
  
  
@@ -1463,12 +1477,12 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ In the home sector, ‘the weak will get weaker’ this year
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ Retailers in the category face a poor housing market, elevated interest rates, low consumer confidence and ever-changing tariff policies.
 
  
  
@@ -1476,12 +1490,12 @@ Ulta leans into exclusivity amid Target Beauty Studio competition | Retail Dive
  
  
  
- By Daphne Howland •
+ By Caroline Jansen •
  
  
  
 
- April 15, 2026 
+ March 10, 2026 
 
  
 

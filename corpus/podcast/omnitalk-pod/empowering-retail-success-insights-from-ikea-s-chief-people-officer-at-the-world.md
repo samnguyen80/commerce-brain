@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/ulrika-ikea"
+title: "Empowering Retail Success: Insights from IKEA’s Chief People Officer At The World Retail Congress"
+date: "Mon, 22 Apr 2024 06:58:00 -0400"
+fetched: "2026-08-29T12:00:53.840Z"
+via: "shownotes-thin"
+---
+
+Join us for an enlightening session from the VusionGroup studio at the World Retail Congress in Paris. In this exclusive interview, Chris Walton and Anne Mezzenga delve into a transformative discussion with Ulrika Biesert, Chief People Officer of the Ingka Group, the organization behind IKEA. Discover how IKEA integrates Swedish heritage with modern retail challenges to foster a workplace that believes in the magic of empowering its people.Learn about the strategies that have led to remarkable improvements in employee engagement and customer satisfaction at IKEA. Ulrika shares her journey from a counselor to leading HR at one of the world's most people-centric companies. The conversation covers topics from the role of leadership in retail, the impact of corporate culture on business performance, to the innovative use of technology in enhancing employee roles and customer interactions.This video is a must-watch for anyone interested in the intersections of retail management, employee empowerment, and customer satisfaction. Dive into the discussion to see how IKEA’s focus on happy employees translates to happier customers and better business results.🔹 Key Topics Discussed:Empowering employees in retailThe significance of corporate culture and values at IKEAHow leadership and technology are shaping the future of retailInsights into employee benefits and work flexibilityStay tuned for more insights and discussions from industry leaders at the World Retail Congress, brought to you by Omni Talk and the VusionGroup. Subscribe to Omni Talk Retail for more updates and expert interviews from the forefront of retail innovation.#IKEA #WorldRetailCongress #RetailManagement #EmployeeEmpowerment #CustomerSatisfaction #Leadership #RetailTechnology #HumanResources #OmniTalkRetail #VisionGroupThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

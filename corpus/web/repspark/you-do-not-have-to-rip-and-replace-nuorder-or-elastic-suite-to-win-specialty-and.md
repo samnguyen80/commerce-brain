@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/you-do-not-have-to-rip-and-replace-nuorder-or-elastic-suite-to-win-specialty-and-golf-retail"
 title: "You Do Not Have to Rip and Replace NuORDER or Elastic Suite to Win Specialty and Golf Retail"
 date: "Wed, 26 Aug 2026 12:22:58 GMT"
-fetched: "2026-08-29T11:18:32.689Z"
+fetched: "2026-08-29T12:36:18.570Z"
 via: "http-rss"
 ---
 

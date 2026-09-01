@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/the-boutique-hub-at-dallas-market-home-and-gift/"
 title: "The Boutique Hub at Dallas Market Home and Gift Sept 15-17"
 date: "Wed, 26 Aug 2026 12:09:00 +0000"
-fetched: "2026-08-29T11:21:48.724Z"
+fetched: "2026-08-29T12:47:49.005Z"
 via: "http-rss"
 ---
 

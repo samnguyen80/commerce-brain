@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=lX07-V5MvSg"
+title: "Live from NRF 2023: Talkdesk on Unifying Customer Service Channels"
+video_id: "lX07-V5MvSg"
+fetched: "2026-08-29T12:46:23.649Z"
+via: "yt-caption"
+---
+
+[Music] my name is Andy Flynn I'm the svpa industries for talk desk so I lead our financial services Healthcare and Retail verticals and I am the head of marketing for retail and consumer goods at talk desk is a cloud-based contact center we're actually the number eight uh Cloud company on forged list we're the first company to build purpose-built industry clouds so contact centers specifically designed for banking for insurance for healthcare providers and payers and for retailers retail is a little trickier because there's so many different business models Sephora is not the same thing as Office Depot as I said earlier it's not the same thing as Tractor Supply so if you have deep expertise you understand what those customers are trying to achieve we can build a Cloud solution for them that gets them much greater time to Value much better integration into the systems that they use to make decisions we're trying to change the perspective but we're also trying to give the agents the technology that they need if you're a customer service agent trying to help a customer that calls you and then you're also having one that emails you and you're looking at all these different systems all at the same time you're going to be distracted you're going to be overwhelmed and so our technology unifies all of those channels for the agents in one place and we provide the Technologies for the customers that maybe don't want to talk to an agent so that the agent can focus on the ones that do want to talk to them we believe that by having those self-service options the agents get to focus on the conversations that should happen and that customers want to happen the internet came and it changed everything but it was still business people still want relationships with the brands that they care about it's different you deliver it differently you might have different priorities but customer experience is still the driver of loyalty it's better to fish with the fish are it's better to be with the customers that you already have and if you can build that great brand you can capture the next set

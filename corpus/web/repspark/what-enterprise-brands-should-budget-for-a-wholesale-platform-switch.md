@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/what-enterprise-brands-should-budget-for-a-wholesale-platform-switch"
 title: "What Enterprise Brands Should Budget for a Wholesale Platform Switch"
 date: "Wed, 26 Aug 2026 14:38:28 GMT"
-fetched: "2026-08-29T11:18:20.964Z"
+fetched: "2026-08-29T12:36:09.339Z"
 via: "http-rss"
 ---
 

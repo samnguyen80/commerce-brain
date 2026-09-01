@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/5-signs-your-trade-show-roi-is-being-killed-by-manual-order-taking"
 title: "5 Signs Your Trade Show ROI Is Being Killed by Manual Order Taking"
 date: "Wed, 12 Aug 2026 15:00:20 GMT"
-fetched: "2026-08-29T11:20:34.735Z"
+fetched: "2026-08-29T12:37:57.344Z"
 via: "http-rss"
 ---
 

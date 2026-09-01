@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/romain-roulleau-kingfisher-pending-approval"
+title: "Kingfisher’s DIY Ecommerce Strategy to Reach 30% Online Sales | WRC 2026"
+date: "Wed, 29 Apr 2026 16:39:00 -0400"
+fetched: "2026-08-29T12:00:53.573Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail interview, recorded live from World Retail Congress 2026 in Berlin, Chris Walton sits down with Romain Roulleau, Group Digital & Ecommerce Director at Kingfisher, to unpack how one of Europe’s largest home improvement retailers plans to grow ecommerce from 21% to 30% of total sales.Romain explains why stores sit at the center of Kingfisher’s digital strategy, how marketplaces are transforming DIY retail, and why AI in home improvement requires a very different approach than categories like grocery or apparel. The conversation also dives into omnichannel fulfillment, click-and-collect innovation, retail media, and why project-based shopping changes everything for ecommerce and AI personalization.Plus, why Kingfisher is prioritizing customer journey support over AI-powered checkout and what retailers still misunderstand about the future of agentic commerce.Key Topics Covered:• Kingfisher’s strategy to grow ecommerce to 30%• Why stores are central to modern digital retail• How click-and-collect is evolving in marketplace ecommerce• Integrating third-party marketplace products into in-store shopping• Why DIY retail is uniquely complex for AI and personalization• The future of AI agents in home improvement retail• How retail media differs between 1P and 3P marketplace sellers• Why Kingfisher sees stores as a competitive advantage vs. pure-play ecommerce• The operational challenges behind large-scale omnichannel retail• Why AI-powered checkout may still be years awayThank you to Vusion for supporting Omni Talk Retail’s live coverage from World Retail Congress 2026 in Berlin.#WRC2026 #WorldRetailCongress #OmniTalkRetail #Kingfisher #Ecommerce #RetailMedia #AIinRetail #Marketplace #DIYRetail #Omnichannel #RetailInnovationThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

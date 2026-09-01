@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/how-holland-barrett-is-using-ai-to-reinvent-wellness-retail-rts-2026"
+title: "How Holland & Barrett Is Using AI to Reinvent Wellness Retail | RTS 2026"
+date: "Wed, 22 Apr 2026 21:38:00 -0400"
+fetched: "2026-08-29T12:00:53.580Z"
+via: "shownotes"
+---
+
+Live from Retail Technology Show 2026 in London, Omni Talk Retail’s Chris Walton sits down with Katya Denike, Chief Product Officer at Holland & Barrett, to discuss how one of Europe’s leading wellness retailers is using technology, product thinking, and AI to transform the customer experience.Katya shares why Holland & Barrett brought its mobile app in-house, how it grew from a struggling outsourced platform into a major digital growth driver, and why retailers should own the products that create true competitive advantage.They also explore how Holland & Barrett organizes product teams across customer, colleague, and partner experiences, why operational technology matters just as much as customer-facing innovation, and how AI is reshaping retail faster than any previous technology wave.From personalized wellness journeys to internal productivity gains, Katya explains why the next era of retail belongs to companies that think like product builders.Key Topics Covered:• Why Holland & Barrett brought its mobile app in-house• Growing app revenue share from under 5% to 30% of digital sales• When retailers should build vs. buy technology• Why product ownership should extend beyond customer-facing tools• Organizing teams around customer, colleague, and partner experiences• How AI is changing software development and retail operations• Personalized wellness recommendations powered by AI• Why retailers must adapt quickly or risk falling behind• How product mindset drives both customer and employee innovation• What the future of AI-powered retail could look likeThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026, and thank you to our listeners for joining us during the event.#RTS2026 #RetailTechnologyShow #OmniTalkRetail #HollandAndBarrett #RetailInnovation #AIinRetail #DigitalTransformation #ProductLeadership #WellnessRetail #VusionThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

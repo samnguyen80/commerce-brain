@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/perfectted-marisa"
+title: "How Empathy, Compassion, and Openness Built a Global Brand for PerfectTed | RTS 2026"
+date: "Thu, 23 Apr 2026 16:52:00 -0400"
+fetched: "2026-08-29T12:00:53.577Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live at Retail Technology Show 2026 in London from the Vusion podcast studio, Chris Walton speaks with Marisa Poster, Co-Founder of PerfectTed, about how a deeply personal founder story turned into a fast-scaling global consumer brand.Marisa shares how her own experience with anxiety and ADHD shaped the creation of PerfectTed, and why leaning into that story became a turning point for the brand. What started as a personal solution evolved into a clear positioning strategy built on authenticity, empathy, and connection.The conversation also explores how PerfectTed scaled without heavy advertising, instead focusing on physical availability and retail distribution, now reaching nearly 40,000 stores across 50+ countries. Marisa explains why shelf presence became their primary growth engine and how retail partnerships helped accelerate awareness globally.A recurring theme throughout the discussion is the importance of relationships over transactions, and how long-term brand building depends on trust, consistency, and emotional connection with consumers.Key Topics Covered: • How a personal health journey shaped the PerfectTed brand • Why founder storytelling drives consumer trust and brand loyalty • Scaling through retail distribution instead of paid advertising • The importance of physical availability in global growth • Why relationships matter more than transactions in modern retail • Building a brand across 50+ countries and thousands of stores • Balancing authenticity with commercial scaleThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026!#RTS2026 #RetailTechnologyShow #OmniTalkRetail #PerfectTed #MarisaPoster #ChrisWalton #RetailStrategy #ConsumerBrands #FounderStory #BrandBuilding #RetailInnovation #Entrepreneurship #CustomerExperience #GlobalBrandsThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

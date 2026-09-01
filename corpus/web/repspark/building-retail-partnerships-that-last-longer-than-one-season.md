@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/building-retail-partnerships-that-last-longer-than-one-season"
 title: "Building Retail Partnerships That Last Longer Than One Season"
 date: "Tue, 18 Aug 2026 13:30:35 GMT"
-fetched: "2026-08-29T11:20:00.594Z"
+fetched: "2026-08-29T12:37:29.380Z"
 via: "http-rss"
 ---
 

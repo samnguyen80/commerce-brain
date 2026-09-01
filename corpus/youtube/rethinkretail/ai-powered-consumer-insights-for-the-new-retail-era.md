@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=WfnF8MC1LQw"
+title: "AI-Powered Consumer Insights for the New Retail Era"
+video_id: "WfnF8MC1LQw"
+fetched: "2026-08-29T12:08:35.319Z"
+via: "yt-caption"
+---
+
+People talk about flow state like my flow states are basketball, cooking, building technology starters. [music] Why don't we tell some of our listeners here at Rethink Retail what [music] IG is all about? What attracted you to the company? What do you guys do? What are some of the unlocks? The reality is, you know, you consumers don't want to talk to you, but they're happy to talk about you, right? They talk about you on review sites, on social media. And so what we do is we synthesize billions, literally billions of Google searches, Facebook, Instagram, Tik Tok videos, transcript into audio, reviews, new product launches. We take all those billions of data sets and then we put it through our engine. We understand everything, every single product in a category, every single ingredient. So we know vitamin C is citric acid. So when you leave the review about this product, we know that that's a signal about vitamin C. And we put all of that together for like brand equity tracking, trend spotting, product experience management, and new product innovation. This is typically about a quarter the price. It's near real time. It's in-depth and whole category data. So like why raise funds now? We were profitable. The reason is because we think we're at this inflection point. $35 billion in surveys and focus groups and panels that I think is going to move primarily digital. There's always going to be a role for that stuff, but like it's going to be a massive shift and we have to take this moment to invest in the technology to get the word out there. I feel like we've got the right capital, the right team. We're we're building. It's a new race at a different speed and you know, everything goes a little bit faster, a little bit harder, and get ready to run. This is all about rooting your decisions and better data faster. And like if we can demo that, if we can if you give us the opportunity to show you that, I'm very confident your eyes will you'll be as excited as you see me.

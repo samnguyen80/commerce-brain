@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/10-questions-to-ask-about-enterprise-b2b-platforms"
 title: "10 Questions to Ask About Enterprise B2B Platforms"
 date: "Fri, 21 Aug 2026 19:20:33 GMT"
-fetched: "2026-08-29T11:19:02.271Z"
+fetched: "2026-08-29T12:36:43.273Z"
 via: "http-rss"
 ---
 

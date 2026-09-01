@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/what-is-pink-friday-2025-everything-you-need-to-know-about-the-support-small-first-movement/"
 title: "What is Pink Friday 2026? Everything You Need to Know About the Support Small First Movement"
 date: "Mon, 24 Aug 2026 15:53:18 +0000"
-fetched: "2026-08-29T11:21:58.113Z"
+fetched: "2026-08-29T12:47:58.413Z"
 via: "http-rss"
 ---
 

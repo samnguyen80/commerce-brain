@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://www.retaildive.com/news/old-navy-chief-out-sales-fall-gap-inc-earnings/829022/"
 title: "Old Navy chief out as sales falter again"
 date: "Thu, 27 Aug 2026 18:08:00 -0400"
-fetched: "2026-08-29T11:22:39.953Z"
+fetched: "2026-08-29T12:55:46.192Z"
 via: "http-rss"
 ---
 
@@ -1028,7 +1028,7 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Kaarin Moore/Retail Dive
 
  
  
@@ -1043,12 +1043,12 @@ Old Navy chief out as sales falter again | Retail Dive
 
 ### 
  
- As 2026 kicks off, these retailers are vulnerable to bankruptcy
+ Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way
  
  
 
  
- As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
+ The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
  
  
@@ -1056,12 +1056,19 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- By Cara Salpini •
+ By Daphne Howland •
  
  
  
 
- Feb. 17, 2026 
+ 
+ 
+ 
+ 
+ Updated July 2, 2026
+ 
+ 
+ 
 
  
 
@@ -1086,7 +1093,7 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Joe Raedle via Getty Images
 
  
  
@@ -1112,12 +1119,12 @@ Old Navy chief out as sales falter again | Retail Dive
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ In the home sector, ‘the weak will get weaker’ this year
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ Retailers in the category face a poor housing market, elevated interest rates, low consumer confidence and ever-changing tariff policies.
 
  
  
@@ -1125,12 +1132,12 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- By Daphne Howland •
+ By Caroline Jansen •
  
  
  
 
- April 15, 2026 
+ March 10, 2026 
 
  
 
@@ -1236,15 +1243,15 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- Doba Pilot Adds Walmart and TikTok Shop Product Listing, Proactive Shipping Alerts
+ Bridge Launches $500M Direct Lending Fund to Finance Suppliers of America&#x27;s Largest Retailers
  
 
  
  
  
- From Doba, Inc
+ From Bridge
 
- August 27, 2026
+ August 26, 2026
 
  
 
@@ -1399,7 +1406,7 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Kaarin Moore/Retail Dive
 
  
  
@@ -1414,12 +1421,12 @@ Old Navy chief out as sales falter again | Retail Dive
 
 ### 
  
- As 2026 kicks off, these retailers are vulnerable to bankruptcy
+ Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way
  
  
 
  
- As the industry enters another year marked by tariffs and falling consumer sentiment, retailers including J. Crew and Guitar Center face risks.
+ The luxury retailer is starting over with a new name and fewer burdens, including less debt and a smaller footprint.
 
  
  
@@ -1427,12 +1434,19 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- By Cara Salpini •
+ By Daphne Howland •
  
  
  
 
- Feb. 17, 2026 
+ 
+ 
+ 
+ 
+ Updated July 2, 2026
+ 
+ 
+ 
 
  
 
@@ -1457,7 +1471,7 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- Daphne Howland/Retail Dive
+ Joe Raedle via Getty Images
 
  
  
@@ -1483,12 +1497,12 @@ Old Navy chief out as sales falter again | Retail Dive
 
 ### 
  
- Are retailers ready for what the weight-loss boom requires?
+ In the home sector, ‘the weak will get weaker’ this year
  
  
 
  
- The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
+ Retailers in the category face a poor housing market, elevated interest rates, low consumer confidence and ever-changing tariff policies.
 
  
  
@@ -1496,12 +1510,12 @@ Old Navy chief out as sales falter again | Retail Dive
  
  
  
- By Daphne Howland •
+ By Caroline Jansen •
  
  
  
 
- April 15, 2026 
+ March 10, 2026 
 
  
 

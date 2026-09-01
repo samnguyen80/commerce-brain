@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://omnitalk.blog/2026/08/25/the-weekly-add-to-cart-the-hatch-restore-3/"
 title: "The Weekly Add-to-Cart: The Hatch Restore 3"
 date: "Tue, 25 Aug 2026 14:05:17 +0000"
-fetched: "2026-08-29T11:21:31.456Z"
+fetched: "2026-08-29T12:40:49.202Z"
 via: "http-rss"
 ---
 
@@ -656,16 +656,16 @@ The Weekly Add-to-Cart: The Hatch Restore 3 - Omni Talk
 #### Trending This Week
 
  
-- The AI Employee You Should Hire on Day One | 5IM 
-- AWS Executive Vince Koh Reveals Top AI Investments For Retail Success | 5IM Video 
+- A Target Turnaround(?), CPK Kiosks & JCP Picks A Fight With Off-Price | Fast Five Video 
+- A Target Turnaround(?), CPK Kiosks & JCP Picks A Fight With Off-Price | Fast Five 
+- Target Hits The Q2 Bullseye, Sainsbury’s Anti-Theft Set-Back & Drones, Drones, Drones | GrocerTalk 
+- Mengniu Group Is Reinventing Dairy for a Health-Conscious Future | CGF 2026 
 - How AI & Cloud Technology Are Shaping The Future Of Fashion Retail With Doug Tiffan Of AWS | 5IM Video 
 - How Cloud & AI Are Shaping Grocery, Drug, and Convenience Retail With Scott Langdoc AWS | 5IM Video 
-- 🕔 Retail Daily Minute | Walmart Launches New Fashion Brand, Ann Taylor Stages a Comeback & Stripe Predicts the Death of Checkout 
-- 🕔 Fast Five | Kroger Creates A New E-Commerce Power Seat, Best Buy Goes Small & TikTok Takes On Amazon 
-- 🕔 Retail Daily Minute | Target Raises Its Forecast, Amazon's Drones Go to 500 Cities & Online Grocery Keeps Eating Into Stores 
-- Confessions Of Supply Chain Executives | 2026 Is the Year Supply Chain Tech Stops Being a Prediction & Starts Being a Mandate 
-- Demo Of Best Buy's Virtual Store 
-- Omni Talk Retail to Launch New Global Grocery Innovation Podcast, GrocerTalk 
+- Kroger Creates A New E-Commerce Power Seat, Best Buy Goes Small & TikTok Takes On Amazon | Fast Five 
+- AWS Executive Vince Koh Reveals Top AI Investments For Retail Success | 5IM Video 
+- Transcript of Fast Five Episode : A Target Turnaround(?), CPK Kiosks & JCP Picks A Fight With Off-Price | Fast Five Video 
+- 🕔 Retail Daily Minute | GLP-1s Shrink Plus-Size Racks, Amazon Eyes Fully Automated Delivery Stations & Instacart Adds Petsense 
 
  
 

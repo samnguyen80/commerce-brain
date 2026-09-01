@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/independent-retailers-101-what-wholesale-brands-should-know-about-their-smallest-most-loyal-accounts"
 title: "Independent Retailers 101: What Wholesale Brands Should Know About Their Smallest, Most Loyal Accounts"
 date: "Mon, 17 Aug 2026 20:03:57 GMT"
-fetched: "2026-08-29T11:20:09.958Z"
+fetched: "2026-08-29T12:37:38.990Z"
 via: "http-rss"
 ---
 

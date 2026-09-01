@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/what-c-suite-buying-committees-should-require-before-signing-a-b2b-ecommerce-platform"
 title: "What C-Suite Buying Committees Should Require Before Signing a B2B Ecommerce Platform"
 date: "Mon, 24 Aug 2026 16:25:51 GMT"
-fetched: "2026-08-29T11:18:54.337Z"
+fetched: "2026-08-29T12:36:37.143Z"
 via: "http-rss"
 ---
 

@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/lisa-roath"
+title: "Live From Shoptalk | Target CMO Lisa Roath On Transforming Loyalty With Target Circle 360"
+date: "Wed, 20 Mar 2024 07:00:00 -0400"
+fetched: "2026-08-29T12:00:53.854Z"
+via: "shownotes-thin"
+---
+
+In this exclusive interview from Shoptalk 2024, from the Meta podcast studio,, Lisa Roath, Chief Marketing Officer at Target, shares insights on her impressive 18-year career journey, spanning merchandising, operations, pricing, and promotions. Roath discusses Target's latest initiative, Target Circle 360, and how it's revolutionizing the company's loyalty program.Discover how Target Circle, the company's free loyalty program, now offers personalized deals, rewards, and automatic savings at checkout, eliminating friction for guests. Learn about the Target Circle Card (formerly RedCard), which provides 5% off purchases and free shipping, and the new paid membership tier, Target Circle 360, powered by Shipt, which offers same-day delivery in as little as one hour.Roath also delves into Target's strategy for the future, including the company's aim to be America's favorite discovery destination, the intersection of digital, physical, and social media, and the concept of "micro joy." She shares her thoughts on the evolving roles of merchandising and marketing in supporting retail media networks and the exciting potential of generative AI and its specific use cases in retail.Don't miss this opportunity to gain valuable insights from one of the industry's top marketing leaders as she discusses Target's brand refresh, the power of networking, and the future of loyalty in retail.#LisaRoath #Target #ChiefMarketingOfficer #Career #Merchandising #Operations #Pricing #Promotions #Shoptalk2024 #TargetCircle360 #TargetCircle #FreeLoyaltyProgram #PersonalizedDeals #Rewards #AutomaticSavings #Checkout #TargetCircleCard #RedCard #5%Off #FreeShipping #PaidMembership #Same-dayDelivery #Shipt #RetailMediaNetworks #BrandRefresh #MicroJoy #DiscoveryDestination #SocialMedia #GenerativeAI #UseCases #NetworkingThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

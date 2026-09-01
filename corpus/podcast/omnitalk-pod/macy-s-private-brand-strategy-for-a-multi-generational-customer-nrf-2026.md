@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/macys-private-brand-strategy-for-a-multi-generational-customer-nrf-2026"
+title: "Macy’s Private Brand Strategy for a Multi Generational Customer | NRF 2026"
+date: "Tue, 13 Jan 2026 11:00:00 -0400"
+fetched: "2026-08-29T12:00:53.608Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live from NRF 2026 in New York, Emily Erusha-Hilleque, SVP of Private Brands at Macy’s and an OmniStar of 2025, joins Anne Mezzenga and Chris Walton to discuss how private brands are becoming a core growth driver for modern retailers.Emily shares how Macy’s is evolving its private brand portfolio to meet the needs of a multi generational, value conscious customer while delivering inspiration, quality, and relevance at scale. From filling white space across the brand matrix to launching new brands and elevating existing ones, this conversation explores what it takes to build private brands customers truly buy into.The discussion also covers how Macy’s is using collaborations and experiential retail to create cultural moments, including the recent Inc. partnership with Christian Siriano, as well as how AI is supporting storytelling, personalization, and basket growth across Macy’s private brand ecosystem.Key Topics covered:• Why private brands are central to Macy’s long term growth strategy• How Macy’s serves a multi generational and value conscious customer• The role of private brands in driving loyalty and lifetime value• How private brands fill white space across Macy’s brand portfolio• Collaborations as a growth engine for private brands• The Inc. partnership with Christian Siriano and experiential retail moments• Making fashion and design more accessible through private brands• How AI supports brand storytelling, personalization, and selective selling• Raising basket size and customer engagement with private brands• What to expect from Macy’s private brand strategy in 2026Stay tuned to Omni Talk Retail for continued coverage from NRF 2026.#NRF2026 #PrivateBrands #RetailStrategy #RetailInnovation #RetailAI #CustomerExperience #Macys #OmniTalkThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

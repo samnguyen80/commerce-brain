@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/090325-fastfive"
+title: "Amazon Ingests Whole Foods, Macy’s Sleeps With The Enemy & Walmart Wants To Outdo Both | Fast Five"
+date: "Wed, 03 Sep 2025 12:18:00 -0400"
+fetched: "2026-08-29T12:00:53.645Z"
+via: "shownotes-thin"
+---
+
+In this week’s Omni Talk Retail Fast Five, sponsored by the A&M Consumer and Retail Group, Mirakl, Ocampo Capital, Infios, and Quorso, Chris and Anne discussed:Walmart launching next-day delivery for third-party marketplace orders in major cities like LA, NYC, Chicago, Houston and Atlanta, as the retailer aims to have 95% of the country deliverable in under 3 hours (Source)Amazon’s plan to extend new employment offers to Whole Foods’ U.S. corporate employees starting November 10th, absorbing their merchandising and marketing teams after 8 years since the acquisition (Source)Macy’s Media Network partnering with Amazon Retail Ad Service, becoming the first major retailer to let advertisers buy sponsored product ads through Amazon’s platform (Source)Lululemon naming AI veteran Ranju Das as its first Chief AI and Technology Officer, bringing decades of experience from Amazon, OptumLabs, and Swan AI Studios (Source)Waitrose unveiling AI-powered smart trolleys in a UK pilot, featuring clip-on devices from Israeli firm Shopic that track products and enable cart-side checkout (Source)And Julian Mills from Quorso stopped by for 5 insightful minutes on lessons learned from Quorso’s recently held Intelligent Store Management ForumThere’s all that, plus lightning round discussions on grocery shopping hacks, the best French names, back-to-school parenting tips, and whether Vogue’s new editor can keep an assistant longer than Murphy Brown.P.S. Be sure to check out all our other podcasts from the past week here, too: https://omnitalk.blog/category/podcast/P.P.S. Also be sure to check out our podcast rankings on FeedspotMusic by hooksounds.com#RetailNews #WalmartMarketplace #AmazonWholeFoods #MacysRetailMedia #LululemonAI #SmartCarts #RetailTech #OmniTalk #RetailPodcast #RetailInnovationThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

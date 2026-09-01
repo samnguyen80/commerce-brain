@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/how-to-sell-branded-merchandise-at-a-golf-tournament"
 title: "How to Sell Branded Merchandise at a Golf Tournament"
 date: "Wed, 12 Aug 2026 14:25:21 GMT"
-fetched: "2026-08-29T11:20:47.516Z"
+fetched: "2026-08-29T12:38:06.551Z"
 via: "http-rss"
 ---
 

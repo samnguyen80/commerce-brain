@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://www.retaildive.com/news/podcast-the-backroom-ron-johnson-apple-jcpenney-target/828925/"
 title: "The Backroom: A sit-down with Ron Johnson"
 date: "Thu, 27 Aug 2026 12:01:00 -0400"
-fetched: "2026-08-29T11:22:55.170Z"
+fetched: "2026-08-29T12:56:03.814Z"
 via: "http-rss"
 ---
 
@@ -995,7 +995,65 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
  
  
  
- Scott Olson via Getty Images
+ Courtesy of Allbirds
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+### 
+ 
+ Why Allbirds is eating crow
+ 
+ 
+
+ 
+ The DTC footwear brand may have overestimated its customers&rsquo; appreciation for sustainability, and underappreciated their desire for fashion.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ By Daphne Howland •
+ 
+ 
+ 
+
+ April 20, 2026 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+- 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Daphne Howland/Retail Dive
 
  
  
@@ -1021,27 +1079,12 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
 
 ### 
  
- 6 retail trends to watch in 2026
+ Are retailers ready for what the weight-loss boom requires?
  
  
 
  
- From pricing dynamics to the shifting state of malls, here are the trends we&rsquo;ve got our eye on in 2026.
-
- 
- 
- 
- 
- 
- 
- By Retail Dive Staff •
- 
- 
- 
-
- Jan. 8, 2026 
-
- 
+ The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
 
  
  
@@ -1049,55 +1092,12 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
  
  
  
-
-- 
- 
- 
- 
- 
-
+ By Daphne Howland •
  
  
  
 
- 
- 
- 
- 
- Michael M. Santiago / Staff via Getty Images
-
- 
- 
- 
- 
- 
-
- 
- 
-
- 
-
-### 
- 
- Walmart’s decade of change with Doug McMillon
- 
- 
-
- 
- The longtime CEO has passed the baton to John Furner, but McMillon&rsquo;s technology and e-commerce legacy is lasting.
-
- 
- 
- 
- 
- 
- 
- By Dani James •
- 
- 
- 
-
- Feb. 9, 2026 
+ April 15, 2026 
 
  
 
@@ -1203,15 +1203,15 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
  
  
  
- Purple Drop Wins a 2026 Shelfie Award as America Falls for Peru’s Chicha Morada
+ Doba Pilot Adds Walmart and TikTok Shop Product Listing, Proactive Shipping Alerts
  
 
  
  
  
- From Purple Drop
+ From Doba, Inc
 
- August 26, 2026
+ August 27, 2026
 
  
 
@@ -1263,13 +1263,13 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
  
  
  
- Keonn and Impinj Automate Retail Store Operations with Real-Time Item Visibility Using Gen2X
+ Seel Launches 1-click Resale, an Industry First, for Shoppers to Get Value out of Purchases th…
  
 
  
  
  
- From Impinj
+ From Seel
 
  August 19, 2026
 
@@ -1366,7 +1366,7 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
  
  
  
- Michael M. Santiago / Staff via Getty Images
+ Courtesy of Allbirds
 
  
  
@@ -1381,12 +1381,12 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
 
 ### 
  
- Walmart’s decade of change with Doug McMillon
+ Why Allbirds is eating crow
  
  
 
  
- The longtime CEO has passed the baton to John Furner, but McMillon&rsquo;s technology and e-commerce legacy is lasting.
+ The DTC footwear brand may have overestimated its customers&rsquo; appreciation for sustainability, and underappreciated their desire for fashion.
 
  
  
@@ -1394,12 +1394,12 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
  
  
  
- By Dani James •
+ By Daphne Howland •
  
  
  
 
- Feb. 9, 2026 
+ April 20, 2026 
 
  
 
@@ -1424,7 +1424,7 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
  
  
  
- Scott Olson via Getty Images
+ Daphne Howland/Retail Dive
 
  
  
@@ -1450,12 +1450,12 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
 
 ### 
  
- 6 retail trends to watch in 2026
+ Are retailers ready for what the weight-loss boom requires?
  
  
 
  
- From pricing dynamics to the shifting state of malls, here are the trends we&rsquo;ve got our eye on in 2026.
+ The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.
 
  
  
@@ -1463,12 +1463,12 @@ The Backroom: A sit-down with Ron Johnson | Retail Dive
  
  
  
- By Retail Dive Staff •
+ By Daphne Howland •
  
  
  
 
- Jan. 8, 2026 
+ April 15, 2026 
 
  
 

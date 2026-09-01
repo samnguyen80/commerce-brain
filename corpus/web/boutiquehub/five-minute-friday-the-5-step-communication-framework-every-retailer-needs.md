@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/five-minute-friday-the-5-step-communication-framework-every-retailer-needs/"
 title: "Five Minute Friday: The 5-Step Communication Framework Every Retailer Needs"
 date: "Fri, 14 Aug 2026 10:19:29 +0000"
-fetched: "2026-08-29T11:22:10.804Z"
+fetched: "2026-08-29T12:48:12.870Z"
 via: "http-rss"
 ---
 

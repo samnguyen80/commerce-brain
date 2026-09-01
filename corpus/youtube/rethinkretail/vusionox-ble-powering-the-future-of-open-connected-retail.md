@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=ucMtxA1_yes"
+title: "VusionOX & BLE: Powering the Future of Open, Connected Retail"
+video_id: "ucMtxA1_yes"
+fetched: "2026-08-29T12:10:24.686Z"
+via: "yt-caption"
+---
+
+Retail has been historically locked into siloed systems with proprietary protocol that are making it very hard for them to scale, to innovate, but also to add new solutions into existing systems. Now emerging technologies like a cloud &gt;&gt; [music] &gt;&gt; native architectures or open protocols are enabling these kind of interactions. At Vision Group, our goal is to enable these new open systems [music] where in the same infrastructure, we want to make it possible to have different hardware from different vendor interacting all together. So, we have ESLs, we can have sensors, and we can have IoT devices &gt;&gt; [music] &gt;&gt; connected to the same infrastructure and interacting all together. At Vision Group, we don't think that the geolocation is only about where the things are. &gt;&gt; [music] &gt;&gt; It's really creates a new generation of solutions. We are for example now able to locate every product in every store, so it will make it possible to accelerate [music] and reduce the waste of time for picking in the store or replenishment, but also making it possible to have interactive marketing inside the store. It's [music] also make it possible for new generation of solutions. Combining computer vision from one side and IoT devices and location from one side, we really believe it's going to to unlock [music] a complete new generation of solutions. For example, everything around planogram compliance or out [music] of stock, we are combining this location and and computer vision. We believe it's going to make a big change in the future. The main decision for the retailer is to not be vendor locked. So, we need to be able to choose a hardware, the platform, and the solution in a completely independent way. From a pure infrastructure way, we would recommend to invest in new Wi-Fi solutions like Wi-Fi 6 or 7 with enabled ability to not have to change its infrastructure to you to have the new use cases. Also investing in API and data standardization because in order to benefit from the AI and benefit from the analytics, this is the first step to be done. &gt;&gt; [music]

@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/what-happens-to-your-trade-show-orders-after-the-show-ends"
 title: "What Happens to Your Trade Show Orders After the Show Ends?"
 date: "Mon, 17 Aug 2026 16:39:54 GMT"
-fetched: "2026-08-29T11:20:26.147Z"
+fetched: "2026-08-29T12:37:51.234Z"
 via: "http-rss"
 ---
 

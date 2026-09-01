@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/payment-terms-every-wholesale-seller-should-know"
 title: "Payment Terms Every Wholesale Seller Should Know"
 date: "Tue, 18 Aug 2026 12:42:41 GMT"
-fetched: "2026-08-29T11:20:06.832Z"
+fetched: "2026-08-29T12:37:35.497Z"
 via: "http-rss"
 ---
 

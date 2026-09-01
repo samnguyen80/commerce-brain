@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/five-minute-friday-the-summer-to-fall-store-flip-how-to-get-your-boutique-ready/"
 title: "Five Minute Friday: The Summer-to-Fall Store Flip: How to Get Your Boutique Ready"
 date: "Fri, 28 Aug 2026 10:19:28 +0000"
-fetched: "2026-08-29T11:21:40.672Z"
+fetched: "2026-08-29T12:47:39.739Z"
 via: "http-rss"
 ---
 

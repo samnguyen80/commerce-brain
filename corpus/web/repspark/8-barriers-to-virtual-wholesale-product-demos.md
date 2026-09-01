@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/8-barriers-to-virtual-wholesale-product-demos"
 title: "8 Barriers to Virtual Wholesale Product Demos"
 date: "Wed, 19 Aug 2026 20:16:40 GMT"
-fetched: "2026-08-29T11:19:17.788Z"
+fetched: "2026-08-29T12:36:55.573Z"
 via: "http-rss"
 ---
 

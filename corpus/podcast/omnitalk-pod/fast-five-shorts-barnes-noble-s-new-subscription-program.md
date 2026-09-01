@@ -1,0 +1,13 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/fast-five-shorts-barnes-nobles-new-subscription-program"
+title: "Fast Five Shorts | Barnes & Noble's New Subscription Program"
+date: "Tue, 28 Feb 2023 13:15:00 -0400"
+fetched: "2026-08-29T12:00:54.006Z"
+via: "shownotes-thin"
+---
+
+In the latest edition of the Omni Talk Fast Five, sponsored by the A&M Consumer and Retail Group, Firework, Trigo, Sezzle, and Silk, Chris Walton and Anne Mezzenga discuss: Barnes & Noble's New Subscription Program
+
+For the full episode head here: https://omnitalk.blog/2023/02/23/fast-five-video-walmart-earnings-barnes-noble-subscriptions-why-thredup-is-betting-on-lucky-7/This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

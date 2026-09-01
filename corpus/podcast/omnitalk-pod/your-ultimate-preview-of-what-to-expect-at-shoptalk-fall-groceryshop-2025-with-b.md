@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/five-insightful-minutes-ben-miller"
+title: "Your Ultimate Preview Of What To Expect At Shoptalk Fall & Groceryshop 2025 With Ben Miller | 5IM"
+date: "Thu, 21 Aug 2025 06:00:00 -0400"
+fetched: "2026-08-29T12:00:53.651Z"
+via: "shownotes-thin"
+---
+
+In this 5 Insightful Minutes episode, Ben Miller, VP of Original Content and Strategy for Shoptalk and Groceryshop, joins Omni Talk to preview the upcoming Shoptalk Fall and Groceryshop events.From AI deep dives to tariff implications, Ben breaks down the main themes emerging for Shoptalk Fall (September 17-19 in Chicago), plus reveals the brand-new "Test Kitchen" format launching at Groceryshop (September 28-October 1). Discover what's driving retail innovation, efficiency gains in grocery, and why retail media sits at the center of every retailer-brand conversation.🔑 Topics covered:- The two dominant themes at Shoptalk Fall- New leadership track for navigating turmoil and building agility- Groceryshop's global focus on digital demand creation and efficiency- The innovative "Test Kitchen" format for hands-on AI learning- Star-studded speaker lineups including Home Depot, Amazon, Walmart, Whole Foods, and more- How to secure tickets and take advantage of hosted programsGet your discounted admission now with Omni Talk! Retailers and brands save 20% with codes:- For Shoptalk Fall, use code RBOMNIT20 (Link: https://stfall25-registration.personatech.com/code?cId=cmJvbW5pdDIw)- For Groceryshop, use code RBOMNIT510 (Link: https://gs25-registration.personatech.com/code?cId=cmJvbW5pdDUxMA==)Or save 20% off General Admission with codes:- For Shoptalk Fall, use code GAOMNIT20 (Link: https://stfall25-registration.personatech.com/code?cId=Z2FvbW5pdDIw)- For Groceryshop, use code GAOMNIT799 (Link: https://gs25-registration.personatech.com/code?cId=Z2FvbW5pdDc5OQ==)🎧 Don't forget to like, comment, and subscribe for more retail event insights!#shoptalk #groceryshop #retailevents #retailtech #omnitalk #retailinnovation #ai #tariffs #grocerytech #retailconferences*Sponsored Content*This podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

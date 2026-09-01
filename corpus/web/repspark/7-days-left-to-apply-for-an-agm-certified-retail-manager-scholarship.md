@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/7-days-left-to-apply-for-an-agm-certified-retail-manager-scholarship"
 title: "7 Days Left to Apply for an AGM Certified Retail Manager Scholarship"
 date: "Mon, 24 Aug 2026 19:07:30 GMT"
-fetched: "2026-08-29T11:18:43.885Z"
+fetched: "2026-08-29T12:36:27.883Z"
 via: "http-rss"
 ---
 

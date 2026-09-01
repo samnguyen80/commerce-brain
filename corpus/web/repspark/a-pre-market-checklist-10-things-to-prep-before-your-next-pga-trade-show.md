@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/a-pre-market-checklist-10-things-to-prep-before-your-next-pga-trade-show"
 title: "A Pre-Market Checklist: 10 Things to Prep Before Your Next PGA Trade Show"
 date: "Fri, 07 Aug 2026 20:21:09 GMT"
-fetched: "2026-08-29T11:21:06.908Z"
+fetched: "2026-08-29T12:38:21.979Z"
 via: "http-rss"
 ---
 

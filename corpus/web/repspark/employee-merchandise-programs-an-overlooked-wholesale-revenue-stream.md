@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/employee-merchandise-programs-an-overlooked-wholesale-revenue-stream"
 title: "Employee Merchandise Programs: An Overlooked Wholesale Revenue Stream"
 date: "Wed, 12 Aug 2026 14:40:55 GMT"
-fetched: "2026-08-29T11:20:43.558Z"
+fetched: "2026-08-29T12:38:03.488Z"
 via: "http-rss"
 ---
 

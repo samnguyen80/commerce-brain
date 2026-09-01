@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/brc-helen-dickinson-obe-audio"
+title: "British Retail Consortium CEO on Inflation, Labor Reform, and AI Regulation in UK Retail | RTS 2026"
+date: "Wed, 22 Apr 2026 15:15:00 -0400"
+fetched: "2026-08-29T12:00:53.580Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live at Retail Technology Show 2026 in London from the Vusion podcast studio, Chris Walton sits down with Helen Dickinson, Chief Executive of the British Retail Consortium, to discuss the biggest policy and economic forces shaping UK retail today.Helen explains how the BRC is helping retailers navigate inflationary pressure tied to global supply chain disruption, rising energy costs, and mounting regulatory complexity. She also shares why upcoming employment law changes could significantly impact retailers’ ability to offer flexible, local, and entry-level jobs across the UK.The conversation also explores how retail leaders are approaching AI, why most companies are still in the early innings of transformation, and how the UK may have a unique opportunity to create balanced AI guardrails that protect consumers without slowing innovation.Key Topics Covered:• How global conflict is impacting retail supply chains and consumer prices• Why energy costs remain a major concern for UK retailers• The Employment Rights Act and what it means for retail labor models• Protecting flexible, part-time, and entry-level retail jobs• Why unemployment and workforce participation remain critical issues• How trade associations help retailers navigate policy change• Why many retailers are still early in their AI journey• AI efficiency gains vs true operating model transformation• The UK’s opportunity to balance AI innovation with consumer protectionThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026, and thank you to our listeners for joining us during the event.#RTS2026 #RetailTechnologyShow #OmniTalkRetail #BritishRetailConsortium #UKRetail #AIRegulation #RetailLabor #RetailEconomy #HelenDickinson #VusionThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

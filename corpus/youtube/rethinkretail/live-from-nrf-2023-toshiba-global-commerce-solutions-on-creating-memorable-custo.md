@@ -1,0 +1,11 @@
+---
+source: "RETHINK Retail"
+category: "Retail"
+url: "https://www.youtube.com/watch?v=bXk4wIxUvfY"
+title: "Live from NRF 2023: Toshiba Global Commerce Solutions on Creating Memorable Customer Experiences"
+video_id: "bXk4wIxUvfY"
+fetched: "2026-08-29T12:45:09.858Z"
+via: "yt-caption"
+---
+
+[Music] hi my name is Frederick carligran I'm the vice president of marketing and Communications at Toshiba Global Commerce Solutions [Music] there are a lot of opportunities of course for retailers to find ways to differentiate in that value ultimately being customer first and driven by the customer experience and creating memorable experiences there's a lot of uncertainty and so when we have conversations with our clients it's really about how do you navigate today's world where there's there's ever changing conditions you have to be able to adapt one of the solutions that we're excited about here that we're showing for the first time is our vision kiosk which you know is sort of taking the the frictionless store and putting it into a nice package it's a really a self-service self-checkout system that utilizes computer vision uh sensor Technologies a great example of how you can bring various Technologies together all orchestrated on a common software platform and uh very uh you know adaptive and flexible for retailer deployments we are focused on really end-to-end solutions that that really do help address those challenges we're investing in things like our new alera Commerce platform that is a really a micro services-based technology platform to help retailers become more responsive in terms of how they deploy and roll out new capabilities there's a lot of those base core Investments that we make but then you know we're also working on applying technology in other ways computer vision is a big part of what we're investing in focusing in as well not only to address loss prevention challenges at the front end or self-checkout but also to be able to provide better intelligence around consumer behavior and expectations and the personalization to deliver better experiences and we think computer vision Ai and those Technologies are a great part of that and something that we're investing in and excited to be talking to clients about foreign

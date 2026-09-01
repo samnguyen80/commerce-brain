@@ -4,7 +4,7 @@ category: "Retail"
 url: "https://theboutiquehub.com/blog/five-minute-friday-free-shipping-vs-fast-shipping-what-customers-really-want/"
 title: "Five Minute Friday: Free Shipping vs. Fast Shipping: What Customers Really Want"
 date: "Fri, 21 Aug 2026 10:44:34 +0000"
-fetched: "2026-08-29T11:22:01.424Z"
+fetched: "2026-08-29T12:48:03.506Z"
 via: "http-rss"
 ---
 

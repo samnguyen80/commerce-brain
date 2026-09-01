@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/richard-lim"
+title: "The Pace of Change in Retail Has Never Been Faster with Richard Lim | RTS 2026"
+date: "Thu, 23 Apr 2026 17:54:00 -0400"
+fetched: "2026-08-29T12:00:53.577Z"
+via: "shownotes-thin"
+---
+
+In this Omni Talk Retail episode, recorded live at Retail Technology Show 2026 in London from the Vusion podcast studio, Chris Walton speaks with Richard Lim, CEO and Founder of Retail Economics, about the accelerating pace of change reshaping retail.Richard shares how today’s macroeconomic environment, from inflation pressures to global energy shifts, is forcing retailers to rethink how they operate and respond to rapidly evolving consumer behavior. At the same time, AI is fundamentally changing how people discover, research, and increasingly purchase products.He outlines a three-stage framework for how AI is transforming retail, from off-site discovery through platforms like ChatGPT, to on-site AI assistants, to the rise of agentic browsers that can act on behalf of consumers. Across all of it, one theme stands out: discoverability is the next battleground.The conversation also dives into how different categories will be impacted at different speeds, why high-consideration purchases are especially vulnerable to AI disruption, and how retailers need to rethink search, data, and digital presence for an AI-driven future.Key Topics Covered:• Why the pace of change in retail is accelerating faster than ever• How macroeconomic pressures are shaping consumer behavior• The three stages of AI adoption in retail• Why discoverability is becoming the new SEO• How AI is changing product search, discovery, and decision-making• Which retail categories will be disrupted first and why• The growing role of agentic AI in automating purchases• Why behavioral economics should guide retail strategyThank you to Vusion for supporting Omni Talk Retail’s live coverage from Retail Technology Show 2026!#RTS2026 #RetailTechnologyShow #OmniTalkRetail #RetailEconomics #RichardLim #AIinRetail #RetailStrategy #ConsumerBehavior #RetailInnovation #EcommerceThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

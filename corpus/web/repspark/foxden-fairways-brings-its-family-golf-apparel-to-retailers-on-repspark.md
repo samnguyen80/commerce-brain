@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/foxden-fairways-brings-its-family-golf-apparel-to-retailers-on-repspark"
 title: "Foxden Fairways Brings Its Family Golf Apparel to Retailers on RepSpark"
 date: "Thu, 27 Aug 2026 18:52:29 GMT"
-fetched: "2026-08-29T11:18:11.396Z"
+fetched: "2026-08-29T12:36:03.062Z"
 via: "http-rss"
 ---
 

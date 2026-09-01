@@ -1,0 +1,11 @@
+---
+source: "Omni Talk Retail"
+category: "Retail"
+url: "https://omnitalkretail.captivate.fm/episode/lowes-indias-ankur-mittal-on-commercializing-pos-hardware-agnostic-retail-tech-omnichannel-reality-nrf-2026"
+title: "Lowe’s India’s Ankur Mittal On Commercializing POS, Hardware-Agnostic Retail Tech & Omnichannel Reality | NRF 2026"
+date: "Tue, 13 Jan 2026 12:00:00 -0400"
+fetched: "2026-08-29T12:00:53.607Z"
+via: "shownotes-thin"
+---
+
+In this OmniTalk Retail episode, recorded live from NRF 2026 at the Vusion podcast studio, Ankur Mittal, Chief Technology Officer and Managing Director of Lowe’s India, joins Anne Mezzenga and Chris Walton to explain why Lowe’s is commercializing its internal retail technology and what that means for the future of point of sale and omnichannel retail.Ankur shares how Lowe’s India supports more than 5,000 associates across core corporate and technology functions, and why the company decided to launch a SaaS offshoot to bring its internally built POS platform to market. From hardware-agnostic design and AI-driven capabilities to modular, plug-and-play architecture, this conversation breaks down how modern POS systems are evolving into the backbone of omnichannel retail.The discussion also explores why mid-sized retailers are responding strongly to flexible, software-first POS solutions, how long POS change cycles have held retailers back, and why true omnichannel requires shared item, pricing, promotion, and inventory data across every channel.Key Topics covered:Why Lowe’s decided to commercialize its internally built retail softwarePoint of sale as the heart of omnichannel retailHardware-agnostic POS and why it matters for retailersAI-driven capabilities including shrink identificationModular commerce architecture and plug-and-play systemsHow mid-sized retailers can modernize POS without big-bang upgradesPOS stability, speed, and operational reliabilityWhat true omnichannel really means beyond BOPISLowe’s roadmap for POS, commerce engines, and enterprise platforms in 2026Stay tuned to Omni Talk Retail for continued coverage from NRF 2026, and stop by the Vusion booth #4921 to say hello.#NRF2026 #OmniTalkRetail #RetailTechnology #RetailInnovation #PointOfSale #OmnichannelRetailThis podcast uses the following third-party services for analysis: Podcorn - https://podcorn.com/privacy

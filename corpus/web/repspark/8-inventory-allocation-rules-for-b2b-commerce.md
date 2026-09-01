@@ -4,7 +4,7 @@ category: "B2B"
 url: "https://www.repspark.com/blog/8-inventory-allocation-rules-for-b2b-commerce"
 title: "8 Inventory Allocation Rules for B2B Commerce"
 date: "Tue, 18 Aug 2026 19:24:38 GMT"
-fetched: "2026-08-29T11:19:31.719Z"
+fetched: "2026-08-29T12:37:07.841Z"
 via: "http-rss"
 ---
 
