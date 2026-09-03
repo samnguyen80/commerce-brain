@@ -1,0 +1,12 @@
+{
+  "name": "ecom-knowledge",
+  "version": "0.1.0",
+  "description": "Commerce business-model brain for overviews, classification, comparison, merchant diagnosis, Avada opportunity mapping, and guided learning.",
+  "author": {
+    "name": "Avada Group",
+    "url": "https://github.com/samnguyen80"
+  },
+  "homepage": "https://github.com/samnguyen80/commerce-brain",
+  "repository": "https://github.com/samnguyen80/commerce-brain",
+  "license": "UNLICENSED"
+}

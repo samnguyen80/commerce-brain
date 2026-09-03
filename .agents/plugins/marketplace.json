@@ -1,0 +1,20 @@
+{
+  "name": "commerce-brain",
+  "interface": {
+    "displayName": "Commerce Brain"
+  },
+  "plugins": [
+    {
+      "name": "ecom-knowledge",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ecom-knowledge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

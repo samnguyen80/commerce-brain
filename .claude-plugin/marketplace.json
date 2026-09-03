@@ -1,0 +1,18 @@
+{
+  "name": "commerce-brain",
+  "owner": {
+    "name": "Avada Group"
+  },
+  "metadata": {
+    "description": "Commerce business-model knowledge and decision workflows for Avada."
+  },
+  "plugins": [
+    {
+      "name": "ecom-knowledge",
+      "source": "./plugins/ecom-knowledge",
+      "version": "0.1.0",
+      "description": "Ecom Brain: overview, classification, comparison, merchant diagnosis, opportunity mapping, and teaching.",
+      "category": "productivity"
+    }
+  ]
+}
